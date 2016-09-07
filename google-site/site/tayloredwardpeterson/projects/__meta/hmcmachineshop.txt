@@ -1,0 +1,7 @@
+Title: HMC Machine Shop [announcement]
+ id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/1766781159249547094
+ view in Sites:	https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop
+ page name:	hmcmachineshop
+ revision:	9
+ updated:	2015-05-21T04:45:23.314Z
+ parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/5530325216707500197

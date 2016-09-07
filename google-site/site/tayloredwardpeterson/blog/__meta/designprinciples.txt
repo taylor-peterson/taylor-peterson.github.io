@@ -1,0 +1,7 @@
+Title: Design Principles [announcement]
+ id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/2087235181104076215
+ view in Sites:	https://sites.google.com/site/tayloredwardpeterson/blog/designprinciples
+ page name:	designprinciples
+ revision:	8
+ updated:	2015-05-21T04:35:49.716Z
+ parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/1449049505554529798

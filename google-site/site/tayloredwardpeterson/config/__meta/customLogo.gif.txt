@@ -1,0 +1,8 @@
+Title: customLogo.gif [attachment]
+ id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/8448094155264053010
+ view in Sites:	https://sites.google.com/site/tayloredwardpeterson/config/customLogo.gif
+ description:	None
+ content-type:	image/png
+ revision:	12
+ updated:	2014-12-24T01:58:07.964Z
+ parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/3501102353494978424

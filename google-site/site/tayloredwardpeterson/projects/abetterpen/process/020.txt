@@ -1,0 +1,19 @@
+This was used for the carriage production run during the week of May 11, 2015. 
+
+Tooling:
+    Tool #1 is a right-hand cutting bit. 
+    Tool #6 is a parting insert in an grooving tool(for greater rigidity). 
+
+Events:
+    The first cycle rounds off one end of the carriage. 
+    The second cycle reduces the rest of the diameter. 
+    The next turn operation creates a relief for the following arc operation which rounds off the other end. 
+    The final turn operation parts off the piece. 
+
+Origin:
+    One end of the carriage. 
+    Rotational axis. 
+
+Setup:
+    The space between the tip of the left-hand cutting bit and the left edge of its tool holder is 1/4".
+    Move the carriage to -0.25", then feed the stock forward until it is flush with the edge of the tool holder. 

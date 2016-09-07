@@ -1,0 +1,35 @@
+
+		<html>
+		<head>
+			<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+			<title>Framework</title>
+		</head>
+		<body>
+
+		<h1>Framework</h1>
+
+<div xmlns="http://www.w3.org/1999/xhtml"><div class="sites-layout-name-dual-sidebar-hf sites-layout-vbox"><div class="sites-layout-tile sites-tile-name-header sites-layout-empty-tile"><div dir="ltr"><br /></div></div><table cellspacing="0" class="sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1 sites-canvas-sidebar"><div dir="ltr"><div><br /></div><div><div><font size="2"><a href="https://sites.google.com/site/tayloredwardpeterson/research">Introduction</a></font></div><div><br /></div><div><div><font size="2"><a href="https://sites.google.com/site/tayloredwardpeterson/research/overview">Overview</a></font></div><div><br /></div><div><font size="2">Software</font></div><div><font size="2">    <a href="https://sites.google.com/site/tayloredwardpeterson/research/software">Framework</a><br /></font></div><div><font size="2">    <a href="https://sites.google.com/site/tayloredwardpeterson/research/tracking-system">Tracking System</a><br /></font></div><div><font size="2">    <a href="https://sites.google.com/site/tayloredwardpeterson/research/auv-cooperation">AUV Cooperation</a></font><br /></div><div><br /></div><div><font size="2"><a href="https://sites.google.com/site/tayloredwardpeterson/research/hardware">Hardware</a></font></div><div><br /></div><div><font size="2"><a href="https://sites.google.com/site/tayloredwardpeterson/research/field-testing">Field Testing</a></font></div><div><br /></div><div><font size="2"><a href="https://sites.google.com/site/tayloredwardpeterson/research/publications">Publications</a></font></div><div><br /></div><div><font size="2"><a href="https://sites.google.com/site/tayloredwardpeterson/research/misc">Misc. Photos</a></font></div></div><div><font size="2"><br /></font></div></div></div></td><td class="sites-layout-tile sites-tile-name-content-2"><div dir="ltr"><div style="text-align:justify"><font size="3">Much of my first few months on the team was spent simply understanding the code-base and how all of the sub-systems worked and interacted. The pre-existing control code was especially difficult to understand. Due to the pressures of debugging in the field and the lack of a pre-existing framework to work in, the majority of the code ended up being inside the GUI used to set up missions!</font></div>
+<div style="text-align:justify"><font size="3"><br />
+</font></div>
+<div style="text-align:justify"><font size="3">I decided that we needed to set up a framework for the shark tracking code in order to make it more modular, extensible, and maintainable. My initial plan was to use something like <a href="http://www.ros.org/about-ros/" target="_blank" rel="nofollow">ROS</a> or <a href="http://www.robots.ox.ac.uk/~mobile/MOOS/wiki/pmwiki.php" target="_blank" rel="nofollow">MOOS</a>, but neither worked with Windows (which was required for our system). Furthermore, none of the other frameworks I could find would work for our use. As such, I chose to implement a custom framework based on the <a href="http://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern" target="_blank" rel="nofollow">publish-subscribe</a> principle. </font></div>
+<div style="text-align:justify"><font size="3"><br />
+</font></div>
+<div style="text-align:justify"><font size="3">To that end, I divided up our system into two interfaces and five subsystems:</font></div>
+<div>
+<ul><li style="text-align:justify"><font size="3"><b>User Interface (UI)</b>: this could take the form of a GUI or a console application</font></li>
+<li style="text-align:justify"><font size="3"><b>Shark Tracking Interface (STI)</b>: this serves as an abstraction layer for all of the shark tracking code and as a broker for implementing publish-subscribe. This makes it so</font><span style="font-size:medium"> the UI can't directly access any of the shark tracking code, which keeps everything modular.</span></li>
+<li style="text-align:justify"><font size="3"><b>Localization</b>: responsible for figuring out where the shark is relative to the Iver based on sensor data</font></li>
+<li style="text-align:justify"><font size="3"><b>Controller</b>: directs the Iver's motion based on its current position, the position of the other robot, and the estimated position of the shark</font></li>
+<li style="text-align:justify"><font size="3"><b>Database</b>: stores all sensor and state estimation data along with relevant control variables. Grouping the data in this way makes it easy to generate comprehensive and up-to-date log files. </font></li>
+<li style="text-align:justify"><font size="3"><b>Intra-AUV Communications</b>: each Iver contains two processors. The primary processor runs proprietary code which interfaces with the sensors and actuators on the robot. The secondary processor runs our code. This module is responsible for ensuring that the two processors share relevant data.</font></li>
+<li style="text-align:justify"><font size="3"><b>Inter-AUV Communications</b>: given that this is a multi-robot system, it is advantageous to have each robot know what the other is up to</font></li></ul>
+</div>
+<div style="text-align:justify"><font size="3">A graphical overview of the interactions between each subsystem can be seen below. Note that all connections are two-way.</font></div>
+<div style="text-align:justify"><font size="3"><br />
+</font></div>
+<div style="text-align:justify"><div style="display:block;text-align:center;margin-right:auto;margin-left:auto"><div style="font-size:medium;display:block;text-align:center;margin-right:auto;margin-left:auto"><a href="https://docs.google.com/file/d/0B0Jfms0twG8Ed1U2N2JzRnhMRUk/edit?usp=drive_web" imageanchor="1"><img border="0" height="146" src="https://drive.google.com/uc?id=0B0Jfms0twG8Ed1U2N2JzRnhMRUk" width="400" /></a></div><font size="2"><i>Block diagram of the current code layout.</i></font></div></div><div style="text-align:justify"><font size="3"><br />
+</font></div>
+<div style="text-align:justify"><font size="3">Because each subsystem and the UI only interfaces with the STI, modules can be readily swapped out. As well, it is easy for team members to work on separate parts of the code without worrying about stepping on each others' feet. </font></div>
+<div style="text-align:justify"><font size="3"><br />
+</font></div>
+<div style="text-align:justify"><font size="3">In all, re-factoring the entire code-base resulted in a much more comprehensible, robust, and modular system that was far easier to work with going forward. </font></div></div></td><td class="sites-layout-tile sites-tile-name-content-3 sites-canvas-sidebar sites-layout-empty-tile"><div dir="ltr"><br /></div></td></tr></tbody></table><div class="sites-layout-tile sites-tile-name-footer sites-layout-empty-tile"><div dir="ltr"><br /></div></div></div></div>

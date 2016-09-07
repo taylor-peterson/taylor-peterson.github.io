@@ -1,0 +1,7 @@
+Title: Amazon Clinic [announcement]
+ id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/9186922355932820600
+ view in Sites:	https://sites.google.com/site/tayloredwardpeterson/projects/amazonclinic
+ page name:	amazonclinic
+ revision:	2
+ updated:	2014-01-02T20:18:48.508Z
+ parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/5530325216707500197

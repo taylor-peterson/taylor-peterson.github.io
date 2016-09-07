@@ -1,0 +1,7 @@
+Title: Lessons Learned [announcement]
+ id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/6951337850899760533
+ view in Sites:	https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/lessonslearned
+ page name:	lessonslearned
+ revision:	5
+ updated:	2015-06-02T17:00:07.471Z
+ parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/943946201337432531

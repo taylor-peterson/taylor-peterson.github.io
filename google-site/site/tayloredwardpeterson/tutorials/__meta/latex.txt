@@ -1,0 +1,7 @@
+Title: LaTeX [announcement]
+ id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/5127527928758752048
+ view in Sites:	https://sites.google.com/site/tayloredwardpeterson/tutorials/latex
+ page name:	latex
+ revision:	6
+ updated:	2015-05-22T05:27:37.897Z
+ parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/8249250082988626479

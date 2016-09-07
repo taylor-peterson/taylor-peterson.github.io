@@ -1,0 +1,7 @@
+Title: Google Advanced Search Operators [announcement]
+ id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/6608426736127885233
+ view in Sites:	https://sites.google.com/site/tayloredwardpeterson/tutorials/googleadvancedsearchoperators
+ page name:	googleadvancedsearchoperators
+ revision:	3
+ updated:	2014-12-22T23:29:42.510Z
+ parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/8249250082988626479

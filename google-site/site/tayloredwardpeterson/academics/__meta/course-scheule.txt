@@ -1,0 +1,7 @@
+Title: Course Scheule [webpage]
+ id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/827076929238782208
+ view in Sites:	https://sites.google.com/site/tayloredwardpeterson/academics/course-scheule
+ page name:	course-scheule
+ revision:	19
+ updated:	2014-12-19T20:07:07.479Z
+ parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/8213049788115777659

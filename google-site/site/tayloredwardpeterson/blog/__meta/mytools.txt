@@ -1,0 +1,7 @@
+Title: My Tools [announcement]
+ id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/7452048621045133241
+ view in Sites:	https://sites.google.com/site/tayloredwardpeterson/blog/mytools
+ page name:	mytools
+ revision:	8
+ updated:	2015-05-21T04:37:17.400Z
+ parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/1449049505554529798

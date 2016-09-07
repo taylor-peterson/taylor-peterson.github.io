@@ -1,0 +1,7 @@
+Title: Programming Principles [announcement]
+ id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/4922005783188745350
+ view in Sites:	https://sites.google.com/site/tayloredwardpeterson/blog/programmingprinciples
+ page name:	programmingprinciples
+ revision:	3
+ updated:	2015-01-29T06:29:49.071Z
+ parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/1449049505554529798

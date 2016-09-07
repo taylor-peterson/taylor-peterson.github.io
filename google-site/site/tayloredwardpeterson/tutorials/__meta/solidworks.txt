@@ -1,0 +1,7 @@
+Title: Solidworks [announcement]
+ id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/2265962836603920763
+ view in Sites:	https://sites.google.com/site/tayloredwardpeterson/tutorials/solidworks
+ page name:	solidworks
+ revision:	6
+ updated:	2015-06-05T16:22:22.878Z
+ parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/8249250082988626479

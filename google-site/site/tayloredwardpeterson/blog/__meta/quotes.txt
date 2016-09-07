@@ -1,0 +1,7 @@
+Title: Quotes [announcement]
+ id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/9110496394416818423
+ view in Sites:	https://sites.google.com/site/tayloredwardpeterson/blog/quotes
+ page name:	quotes
+ revision:	10
+ updated:	2015-02-22T01:26:48.302Z
+ parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/1449049505554529798

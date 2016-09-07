@@ -1,0 +1,7 @@
+Title: Text Editors & IDEs [announcement]
+ id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/2352364906644585036
+ view in Sites:	https://sites.google.com/site/tayloredwardpeterson/blog/texteditorsides
+ page name:	texteditorsides
+ revision:	7
+ updated:	2015-05-21T04:33:41.696Z
+ parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/1449049505554529798

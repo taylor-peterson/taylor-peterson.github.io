@@ -1,0 +1,7 @@
+Title: Process [announcement]
+ id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/3868411105544658838
+ view in Sites:	https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/process
+ page name:	process
+ revision:	16
+ updated:	2015-05-20T19:46:01.919Z
+ parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/943946201337432531

@@ -1,0 +1,7 @@
+Title: Framework [webpage]
+ id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/6394400811347236052
+ view in Sites:	https://sites.google.com/site/tayloredwardpeterson/research/software
+ page name:	software
+ revision:	29
+ updated:	2014-01-03T05:40:54.224Z
+ parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/3106575878789003618
