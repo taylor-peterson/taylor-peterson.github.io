@@ -1,15 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Stool</title>
-  <style type="text/css">
-div.c1 {display:block;text-align:center;margin-right:auto;margin-left:auto}
-  </style>
 
-</head>
-
-# Stool
+---
+layout: page
+title: Stool
+---
 
   
 

@@ -1,19 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Rings</title>
-  <style type="text/css">
-div.c5 {display: block; margin-left: auto; margin-right: auto; text-align: left}
-  div.c4 {display: block; font-size: 80%; font-style: italic; margin-left: auto; margin-right: auto; text-align: left}
-  div.c3 {display: block; font-size: 80%; font-style: italic; margin-left: auto; margin-right: auto; text-align: center}
-  div.c2 {display:block;text-align:center;margin-right:auto;margin-left:auto}
-  div.c1 {text-align:left;display:block;margin-right:auto;margin-left:auto}
-  </style>
 
-</head>
-
-# Rings
+---
+layout: page
+title: Rings
+---
 
   
 

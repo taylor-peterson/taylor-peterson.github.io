@@ -1,21 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Solidworks</title>
-  <style type="text/css">
-span.c7 {color: #222222}
-  li.c6 {text-align:justify}
-  span.c5 {color:rgb(34,34,34);background-color:transparent}
-  div.c4 {text-align:justify}
-  span.c3 {font-size:medium;color:rgb(34,34,34);background-color:transparent}
-  span.c2 {color:rgb(34,34,34)}
-  span.c1 {font-size: 80%}
-  </style>
 
-</head>
-
-# Solidworks
+---
+layout: page
+title: Solidworks
+---
 
   
 

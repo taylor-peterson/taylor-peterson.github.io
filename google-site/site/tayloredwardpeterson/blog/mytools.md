@@ -1,17 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>My Tools</title>
-  <style type="text/css">
-span.c3 {font-size: 120%; font-weight: bold}
-  ul.c2 {font-size:medium;text-align:-webkit-auto;font-family:Tahoma}
-  div.c1 {font-size: 120%; font-weight: bold}
-  </style>
 
-</head>
-
-# My Tools
+---
+layout: page
+title: My Tools
+---
 
   
 

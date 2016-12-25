@@ -1,22 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>AUV Cooperation</title>
-  <style type="text/css">
-div.c8 {background-color: transparent; display: block; font-size: medium; font-style: italic; margin-left: auto; margin-right: auto; text-align: justify}
-  div.c7 {font-size: medium; width: 425px}
-  div.c6 {font-size: medium; margin-left: auto; margin-right: auto; text-align: justify}
-  div.c5 {font-size: 80%; font-style: italic; margin-left: auto; margin-right: auto}
-  div.c4 {font-size:medium;margin-right:auto;margin-left:auto}
-  div.c3 {text-align:justify;font-size:medium}
-  div.c2 {font-size: 80%}
-  span.c1 {font-size: 80%}
-  </style>
 
-</head>
-
-# AUV Cooperation
+---
+layout: page
+title: AUV Cooperation
+---
 
   
 

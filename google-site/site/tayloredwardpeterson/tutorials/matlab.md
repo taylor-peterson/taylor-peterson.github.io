@@ -1,40 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>MATLAB</title>
-  <style type="text/css">
-span.c26 {color: #010101; font-family: Symbol; font-size: 11pt}
-  span.c25 {color: #010101; font-family: Courier New; font-size: 11pt; font-weight: bold}
-  span.c24 {color: #010101; font-family: Times New Roman; font-size: 11pt; font-weight: bold}
-  div.c23 {color: #010101; font-family: Tahoma; font-size: medium; margin: 0mm 0mm 0mm 38mm; text-align: left; text-indent: 0mm}
-  div.c22 {color: #010101; font-family: Tahoma; font-size: medium; margin: 0mm 0mm 0mm 38mm; text-align: left}
-  div.c21 {color: #010101; font-family: Tahoma; font-size: medium; margin: 0mm 0mm 0mm 25mm; text-align: left; text-indent: 13mm}
-  span.c20 {color: #010101; font-family: Times New Roman; font-size: 12pt}
-  div.c19 {color: #010101; font-family: Tahoma; font-size: medium; margin: 0mm; text-align: left; text-indent: 13mm}
-  span.c18 {font-size:12pt}
-  span.c17 {font-size: 12pt; font-weight: bold}
-  div.c16 {color: #010101; font-family: Tahoma; font-size: medium; text-align: center}
-  div.c15 {color: #010101; font-family: Tahoma; font-size: medium; margin: 0mm 0mm 0mm 70mm; text-align: left; text-indent: 0mm}
-  div.c14 {font-family: Tahoma; font-size: medium; margin: 0mm 0mm 0mm 64mm; text-align: left}
-  div.c13 {font-family: Tahoma; font-size: medium; margin: 0mm 0mm 0mm 13mm; text-align: left; text-indent: 0mm}
-  div.c12 {font-family: Tahoma; font-size: medium; margin: 0mm; text-align: left; text-indent: 13mm}
-  span.c11 {color: #010101; font-family: Courier New; font-size: 11pt}
-  span.c10 {color: #010101; font-family: Times New Roman}
-  span.c9 {font-size: 11pt; font-style: italic}
-  span.c8 {font-size: 11pt; text-decoration: underline}
-  span.c7 {font-size: 11pt; font-weight: bold}
-  div.c6 {font-family: Tahoma; font-size: medium; text-align: left}
-  span.c5 {color: #010101; font-family: Courier; font-size: 11pt}
-  span.c4 {color: #010101; font-family: Times New Roman; font-size: 11pt}
-  span.c3 {font-size:11pt}
-  div.c2 {color: #010101; font-family: Tahoma; font-size: medium; text-align: left}
-  span.c1 {font-size: 11pt; font-weight: bold; text-decoration: underline}
-  </style>
 
-</head>
-
-# MATLAB
+---
+layout: page
+title: MATLAB
+---
 
   
 

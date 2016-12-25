@@ -1,19 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Course Scheule</title>
-  <style type="text/css">
-span.c5 {font-size:medium;background-color:transparent}
-  div.c4 {font-weight: bold}
-  span.c3 {font-weight: bold}
-  span.c2 {font-size: 120%}
-  span.c1 {font-size: 80%}
-  </style>
 
-</head>
-
-# Course Scheule
+---
+layout: page
+title: Course Scheule
+---
 
   
 

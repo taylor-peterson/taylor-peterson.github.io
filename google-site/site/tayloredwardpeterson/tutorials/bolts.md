@@ -1,26 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Bolts</title>
-  <style type="text/css">
-div.c12 {text-align:justify;background-color:transparent;margin-right:auto;margin-left:auto}
-  div.c11 {background-color: transparent; font-style: italic; margin-left: auto; margin-right: auto; text-align: center}
-  span.c10 {font-size: 70%}
-  div.c9 {text-align:center;margin-right:auto;margin-left:auto}
-  i.c8 {background-color:transparent}
-  div.c7 {background-color: transparent; display: block; font-size: small; margin-left: auto; margin-right: auto; text-align: center}
-  span.c6 {font-size: 80%}
-  span.c5 {font-size: 120%}
-  div.c4 {text-align:justify}
-  span.c3 {background-color:transparent}
-  h2.c2 {text-align:justify}
-  span.c1 {font-size:large;font-weight:normal;background-color:transparent}
-  </style>
 
-</head>
-
-# Bolts
+---
+layout: page
+title: Bolts
+---
 
   
 

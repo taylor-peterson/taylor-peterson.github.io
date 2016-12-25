@@ -1,16 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Qualcomm Clinic</title>
-  <style type="text/css">
-span.c2 {background-color:transparent}
-  div.c1 {text-align:justify}
-  </style>
 
-</head>
-
-# Qualcomm Clinic
+---
+layout: page
+title: Qualcomm Clinic
+---
 
   
 

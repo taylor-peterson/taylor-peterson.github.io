@@ -1,39 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Google Advanced Search Operators</title>
-  <style type="text/css">
-div.c25 {border: 0px; color: rgb(51,51,51); font: inherit; font-family: Helvetica,Arial; font-size: inherit; line-height: 21px; margin: 0px 0px 1.5em; padding: 0px; text-align: -webkit-auto; vertical-align: baseline}
-  table.c24 {margin-bottom:1.415em;padding:0px;border:0px;font-family:inherit;font-size:inherit;font-style:inherit;font-variant:inherit;font-weight:inherit;line-height:inherit;vertical-align:baseline;border-collapse:collapse;border-spacing:0px}
-  tbody.c23 {margin:0px;padding:0px;border:0px;font-size:13px;font:inherit;vertical-align:baseline}
-  td.c22 {margin:0px;padding:0.2em 0.2em 0.2em 0.6em;border:0px;font-family:inherit;font-size:inherit;font-style:inherit;font-variant:inherit;font-weight:inherit;line-height:inherit;width:500.19999957084656px;height:152.59999990463257px}
-  td.c21 {margin:0px;padding:0.2em 0.2em 0.2em 0.6em;border:0px;font-family:inherit;font-size:inherit;font-style:inherit;font-variant:inherit;font-weight:inherit;line-height:inherit;width:124.19999957084656px;height:152.59999990463257px}
-  td.c20 {margin:0px;padding:0.2em 0.2em 0.2em 0.6em;border:0px;font-family:inherit;font-size:inherit;font-style:inherit;font-variant:inherit;font-weight:inherit;line-height:inherit;width:500.19999957084656px;height:129.59999990463257px}
-  td.c19 {margin:0px;padding:0.2em 0.2em 0.2em 0.6em;border:0px;font-family:inherit;font-size:inherit;font-style:inherit;font-variant:inherit;font-weight:inherit;line-height:inherit;width:124.19999957084656px;height:129.59999990463257px}
-  td.c18 {margin:0px;padding:0.2em 0.2em 0.2em 0.6em;border:0px;font-family:inherit;font-size:inherit;font-style:inherit;font-variant:inherit;font-weight:inherit;line-height:inherit;width:500.19999957084656px;height:197.59999990463257px}
-  td.c17 {margin:0px;padding:0.2em 0.2em 0.2em 0.6em;border:0px;font-family:inherit;font-size:inherit;font-style:inherit;font-variant:inherit;font-weight:inherit;line-height:inherit;width:124.19999957084656px;height:197.59999990463257px}
-  td.c16 {margin:0px;padding:0.2em 0.2em 0.2em 0.6em;border:0px;font-family:inherit;font-size:inherit;font-style:inherit;font-variant:inherit;font-weight:inherit;line-height:inherit;width:500.19999957084656px;height:86.59999990463257px}
-  td.c15 {margin:0px;padding:0.2em 0.2em 0.2em 0.6em;border:0px;font-family:inherit;font-size:inherit;font-style:inherit;font-variant:inherit;font-weight:inherit;line-height:inherit;width:124.19999957084656px;height:86.59999990463257px}
-  td.c14 {margin:0px;padding:0.2em 0.2em 0.2em 0.6em;border:0px;font-family:inherit;font-size:inherit;font-style:inherit;font-variant:inherit;font-weight:inherit;line-height:inherit;width:500.19999957084656px;height:131.59999990463257px}
-  td.c13 {margin:0px;padding:0.2em 0.2em 0.2em 0.6em;border:0px;font-family:inherit;font-size:inherit;font-style:inherit;font-variant:inherit;font-weight:inherit;line-height:inherit;width:124.19999957084656px;height:131.59999990463257px}
-  td.c12 {margin:0px;padding:0.2em 0.2em 0.2em 0.6em;border:0px;font-family:inherit;font-size:inherit;font-style:inherit;font-variant:inherit;font-weight:inherit;line-height:inherit;width:500.19999957084656px;height:128.59999990463257px}
-  td.c11 {margin:0px;padding:0.2em 0.2em 0.2em 0.6em;border:0px;font-family:inherit;font-size:inherit;font-style:inherit;font-variant:inherit;font-weight:inherit;line-height:inherit;width:124.19999957084656px;height:128.59999990463257px}
-  tr.c10 {margin:0px;padding:0px;border:0px;font-size:13px;font:inherit;vertical-align:baseline;background-color:rgb(209,209,209);background-position:initial initial;background-repeat:initial initial}
-  td.c9 {margin:0px;padding:0.2em 0.2em 0.2em 0.6em;border:0px;font-family:inherit;font-size:inherit;font-style:inherit;font-variant:inherit;font-weight:inherit;line-height:inherit;width:500.19999957084656px;height:173.59999990463257px}
-  td.c8 {margin:0px;padding:0.2em 0.2em 0.2em 0.6em;border:0px;font-family:inherit;font-size:inherit;font-style:inherit;font-variant:inherit;font-weight:inherit;line-height:inherit;width:124.19999957084656px;height:173.59999990463257px}
-  tr.c7 {margin:0px;padding:0px;border:0px;font-size:13px;font:inherit;vertical-align:baseline}
-  td.c6 {margin:0px;padding:0.2em 0.2em 0.2em 0.6em;border:0px;font-family:inherit;font-size:inherit;font-style:inherit;font-variant:inherit;font-weight:inherit;line-height:inherit;width:500.19999957084656px;height:107.59999990463257px}
-  td.c5 {margin:0px;padding:0.2em 0.2em 0.2em 0.6em;border:0px;font-family:inherit;font-size:inherit;font-style:inherit;font-variant:inherit;font-weight:inherit;line-height:inherit;width:124.19999957084656px;height:107.59999990463257px}
-  p.c4 {margin:0px 0px 1.5em;padding:0px;border:0px;font-size:13px;font:inherit;vertical-align:baseline}
-  em.c3 {margin:0px;padding:0px;border:0px;font-family:inherit;font-size:inherit;font-variant:inherit;font-weight:inherit;line-height:inherit;vertical-align:baseline}
-  strong.c2 {margin:0px;padding:0px;border:0px;font-family:inherit;font-size:inherit;font-style:inherit;font-variant:inherit;line-height:inherit;vertical-align:baseline}
-  div.c1 {margin:0px 0px 1.5em;padding:0px;border:0px;font-size:inherit;vertical-align:baseline;color:rgb(51,51,51);font-family:Helvetica,Arial;line-height:21px;text-align:-webkit-auto}
-  </style>
 
-</head>
-
-# Google Advanced Search Operators
+---
+layout: page
+title: Google Advanced Search Operators
+---
 
   
 

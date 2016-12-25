@@ -1,20 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>A Better Pen</title>
-  <style type="text/css">
-div.c6 {text-align:justify}
-  div.c5 {color: #666666}
-  span.c4 {background-color:transparent}
-  a.c3 {background-color:transparent}
-  div.c2 {font-family:arial,sans-serif;font-size:13px}
-  span.c1 {color: #666666}
-  </style>
 
-</head>
-
-# A Better Pen
+---
+layout: page
+title: A Better Pen
+---
 
   
 

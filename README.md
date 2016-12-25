@@ -1,4 +1,7 @@
-# Local development
+---
+layout: page
+title: Local development
+---
 
 1. Install Docker and docker-compose
 2. Run `docker-compose up`

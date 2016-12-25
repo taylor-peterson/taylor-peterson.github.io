@@ -1,17 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>LaTeX</title>
-  <style type="text/css">
-ul.c3 {font-family:Tahoma;text-align:-webkit-auto;font-size:medium}
-  span.c2 {text-align:-webkit-auto;background-color:transparent}
-  span.c1 {font-family:Tahoma;font-size:medium;background-color:transparent}
-  </style>
 
-</head>
-
-# LaTeX
+---
+layout: page
+title: LaTeX
+---
 
   
 

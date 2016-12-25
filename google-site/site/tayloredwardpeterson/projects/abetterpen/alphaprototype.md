@@ -1,22 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Prototyping</title>
-  <style type="text/css">
-span.c8 {font-size: 120%}
-  div.c7 {font-weight: bold}
-  div.c6 {font-size: 120%; font-weight: bold}
-  div.c5 {color: #666666}
-  span.c4 {background-color:transparent}
-  a.c3 {background-color:transparent}
-  div.c2 {font-family:arial,sans-serif;font-size:13px}
-  span.c1 {color: #666666}
-  </style>
 
-</head>
-
-# Prototyping
+---
+layout: page
+title: Prototyping
+---
 
   
 

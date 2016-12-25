@@ -1,20 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Google Sites</title>
-  <style type="text/css">
-li.c6 {text-align:justify}
-  a.c5 {background-color:transparent}
-  span.c4 {background-color:transparent}
-  div.c3 {text-align:justify}
-  a.c2 {font-size:small}
-  span.c1 {font-size:small}
-  </style>
 
-</head>
-
-# Google Sites
+---
+layout: page
+title: Google Sites
+---
 
   
 

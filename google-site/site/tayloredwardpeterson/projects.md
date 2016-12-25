@@ -1,47 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Projects</title>
-  <style type="text/css">
-span.c33 {background-color: transparent}
-  hr.c32 {text-align:start}
-  div.c31 {font-size: 120%; text-align: center}
-  div.c30 {margin-left: auto; margin-right: auto}
-  div.c29 {margin-right:auto;margin-left:auto}
-  a.c28 {font-style:normal}
-  div.c27 {font-style:italic;margin-right:auto;margin-left:auto}
-  div.c26 {font-style: italic; margin-left: auto; margin-right: auto}
-  div.c25 {text-align:center;margin-right:auto;margin-left:auto}
-  div.c24 {margin-left: auto; margin-right: auto; text-align: start}
-  div.c23 {text-align:center}
-  a.c22 {background-color:transparent}
-  span.c21 {background-color:transparent}
-  div.c20 {display:block;text-align:center;margin-right:auto;margin-left:auto}
-  div.c19 {display: block; font-style: italic; margin-left: auto; margin-right: auto; text-align: center}
-  h2.c18 {text-align:center}
-  span.c17 {font-size: 150%}
-  div.c16 {background-color: transparent; font-size: small; text-align: start}
-  a.c15 {background-color:transparent;font-size:small;text-align:center}
-  span.c14 {text-align:center}
-  a.c13 {text-align:center}
-  a.c12 {background-color:transparent;text-align:center}
-  span.c11 {background-color:transparent;text-align:center}
-  a.c10 {font-size:small}
-  span.c9 {font-size:small}
-  div.c8 {font-size: 80%; text-align: center}
-  a.c7 {text-align:center;background-color:transparent}
-  span.c6 {background-color: transparent; font-size: 80%; text-align: center}
-  a.c5 {text-align:center;font-size:small;background-color:transparent}
-  span.c4 {text-align:center;font-size:small;background-color:transparent}
-  div.c3 {font-size: 80%}
-  span.c2 {font-size: 80%}
-  span.c1 {font-size: 80%; text-align: center}
-  </style>
 
-</head>
-
-# Projects
+---
+layout: page
+title: Projects
+---
 
   
 

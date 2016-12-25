@@ -1,26 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Clip Screw Selection</title>
-  <style type="text/css">
-img.c12 {display:block;margin-right:auto;margin-left:auto;text-align:center}
-  div.c11 {text-align:justify}
-  a.c10 {background-color: transparent; text-decoration: underline}
-  span.c9 {font-size: 120%}
-  h2.c8 {text-align:justify}
-  a.c7 {background-color:transparent;font-size:16px;font-weight:normal}
-  span.c6 {background-color:transparent;font-size:16px;font-weight:normal}
-  div.c5 {color: #666666}
-  span.c4 {background-color:transparent}
-  a.c3 {background-color:transparent}
-  div.c2 {font-family:arial,sans-serif;font-size:13px}
-  span.c1 {color: #666666}
-  </style>
 
-</head>
-
-# Clip Screw Selection
+---
+layout: page
+title: Clip Screw Selection
+---
 
   
 

@@ -1,27 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>About Me</title>
-  <style type="text/css">
-div.c13 {font-size: 80%; font-style: italic; margin-left: auto; margin-right: auto; text-align: center}
-  div.c12 {text-align:center;margin-right:auto;margin-left:auto}
-  div.c11 {display:block;text-align:center;margin-right:auto;margin-left:auto}
-  div.c10 {background-color: transparent; font-style: italic; text-align: justify}
-  i.c9 {background-color:transparent}
-  span.c8 {background-color:transparent;text-align:center}
-  div.c7 {text-align:center}
-  span.c6 {background-color:transparent}
-  div.c5 {text-align:justify}
-  span.c4 {background-color: transparent; font-size: small; font-style: italic}
-  span.c3 {background-color: transparent; font-size: 80%; font-style: italic}
-  span.c2 {font-size: 80%}
-  div.c1 {font-size: 80%}
-  </style>
 
-</head>
-
-# About Me
+---
+layout: page
+title: About Me
+---
 
   
 

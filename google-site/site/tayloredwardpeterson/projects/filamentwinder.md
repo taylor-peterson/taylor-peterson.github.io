@@ -1,24 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Filament Winder</title>
-  <style type="text/css">
-ul.c10 {text-align:-webkit-auto}
-  span.c9 {color: #222222}
-  span.c8 {color:rgb(34,34,34)}
-  span.c7 {font-size:medium;color:rgb(34,34,34)}
-  a.c6 {font-size:medium}
-  li.c5 {list-style:none;display:inline}
-  div.c4 {text-align:-webkit-auto}
-  span.c3 {text-decoration:underline}
-  span.c2 {font-size: 80%}
-  div.c1 {font-size: 80%}
-  </style>
 
-</head>
-
-# Filament Winder
+---
+layout: page
+title: Filament Winder
+---
 
   
 

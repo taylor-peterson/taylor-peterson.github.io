@@ -1,21 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Publications</title>
-  <style type="text/css">
-span.c7 {font-style: italic}
-  span.c6 {font-size: 120%}
-  b.c5 {background-color: transparent; font-size: large; font-style: italic; font-weight: normal; text-align: justify}
-  span.c4 {background-color: transparent; font-size: 120%; font-style: italic; font-weight: normal; text-align: justify}
-  div.c3 {font-size: 120%; font-weight: bold}
-  div.c2 {font-size: 80%}
-  span.c1 {font-size: 80%}
-  </style>
 
-</head>
-
-# Publications
+---
+layout: page
+title: Publications
+---
 
   
 

@@ -1,19 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Prof Hammer</title>
-  <style type="text/css">
-div.c5 {display: block; font-size: 80%; font-style: italic; margin-left: auto; margin-right: auto; text-align: center}
-  div.c4 {display:block;text-align:center;margin-right:auto;margin-left:auto}
-  div.c3 {text-align:justify}
-  div.c2 {font-size: 80%}
-  span.c1 {font-size: 80%}
-  </style>
 
-</head>
-
-# Prof Hammer
+---
+layout: page
+title: Prof Hammer
+---
 
   
 

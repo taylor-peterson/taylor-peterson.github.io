@@ -1,21 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>HMC Machine Shop</title>
-  <style type="text/css">
-a.c7 {background-color:transparent}
-  span.c6 {background-color: transparent; font-size: 80%; font-style: italic}
-  div.c5 {display:block;text-align:center;margin-right:auto;margin-left:auto}
-  div.c4 {text-align:justify}
-  span.c3 {background-color:transparent}
-  div.c2 {font-size: 80%}
-  span.c1 {font-size: 80%}
-  </style>
 
-</head>
-
-# HMC Machine Shop
+---
+layout: page
+title: HMC Machine Shop
+---
 
   
 

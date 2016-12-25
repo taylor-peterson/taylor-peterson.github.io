@@ -1,23 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Tutorials</title>
-  <style type="text/css">
-span.c9 {background-color: transparent; font-size: 80%; font-style: italic}
-  div.c8 {display:block;text-align:center;margin-right:auto;margin-left:auto}
-  div.c7 {text-align:justify}
-  span.c6 {background-color:transparent}
-  span.c5 {font-size:small;background-color:transparent}
-  span.c4 {background-color: transparent; font-size: 80%}
-  a.c3 {font-size:small;background-color:transparent}
-  span.c2 {font-size: 80%}
-  div.c1 {font-size: 80%}
-  </style>
 
-</head>
-
-# Tutorials
+---
+layout: page
+title: Tutorials
+---
 
   
 

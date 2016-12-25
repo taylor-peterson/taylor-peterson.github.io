@@ -1,19 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>User Interface</title>
-  <style type="text/css">
-a.c5 {background-color:transparent}
-  span.c4 {background-color:transparent}
-  div.c3 {text-align:justify}
-  span.c2 {text-decoration:underline}
-  span.c1 {font-size: 80%}
-  </style>
 
-</head>
-
-# User Interface
+---
+layout: page
+title: User Interface
+---
 
   
 

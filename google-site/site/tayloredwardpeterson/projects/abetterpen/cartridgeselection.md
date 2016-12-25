@@ -1,28 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Ink Cartridge Selection</title>
-  <style type="text/css">
-div.c14 {display:block;text-align:center;margin-right:auto;margin-left:auto}
-  div.c13 {text-align:left}
-  div.c12 {font-size: 80%; font-style: italic; text-align: center}
-  div.c11 {display: block; margin-left: auto; margin-right: auto; text-align: justify}
-  li.c10 {text-align:justify}
-  span.c9 {color: #000000}
-  div.c8 {text-align:justify}
-  a.c7 {font-size:medium;background-color:transparent}
-  span.c6 {font-size:medium;background-color:transparent}
-  div.c5 {color: #666666}
-  span.c4 {background-color:transparent}
-  a.c3 {background-color:transparent}
-  div.c2 {font-family:arial,sans-serif;font-size:13px}
-  span.c1 {color: #666666}
-  </style>
 
-</head>
-
-# Ink Cartridge Selection
+---
+layout: page
+title: Ink Cartridge Selection
+---
 
   
 

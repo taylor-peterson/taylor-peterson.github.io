@@ -1,16 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Amazon Clinic</title>
-  <style type="text/css">
-div.c2 {text-align:justify}
-  span.c1 {background-color:transparent}
-  </style>
 
-</head>
-
-# Amazon Clinic
+---
+layout: page
+title: Amazon Clinic
+---
 
   
 

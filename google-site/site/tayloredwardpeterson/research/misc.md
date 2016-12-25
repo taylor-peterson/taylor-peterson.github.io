@@ -1,23 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Misc. Photos</title>
-  <style type="text/css">
-div.c9 {display:block;text-align:left}
-  div.c8 {text-align:center;margin-right:auto;margin-left:auto}
-  div.c7 {font-style: italic; text-align: center}
-  div.c6 {display:block;text-align:center;margin-right:auto;margin-left:auto}
-  div.c5 {display: block; font-size: 80%; margin-left: auto; margin-right: auto; text-align: center}
-  i.c4 {background-color:transparent}
-  div.c3 {display: block; margin-left: auto; margin-right: auto; text-align: center}
-  div.c2 {font-size: 80%}
-  span.c1 {font-size: 80%}
-  </style>
 
-</head>
-
-# Misc. Photos
+---
+layout: page
+title: Misc. Photos
+---
 
   
 

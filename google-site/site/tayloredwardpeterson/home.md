@@ -1,21 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Home</title>
-  <style type="text/css">
-div.c7 {font-size: small; font-style: italic; text-align: justify}
-  span.c6 {font-size: 70%}
-  a.c5 {font-size:x-small}
-  span.c4 {font-size:x-small}
-  div.c3 {text-align:justify}
-  span.c2 {background-color:transparent}
-  img.c1 {display:block;margin:5px auto;text-align:center;}
-  </style>
 
-</head>
-
-# Home
+---
+layout: page
+title: Home
+---
 
  ![](http://www.google.com/chart?cht=d&chdp=sites&chl=%5B%5BGoogle+Gadget'%3D20'f%5Cv'a%5C%3D0'10'%3D699'0'dim'%5Cbox1'b%5CF6F6F6'fC%5CF6F6F6'eC%5C0'sk'%5C%5B%22Slideshow+maker+(using+Google+Slides)%22'%5D'a%5CV%5C%3D12'f%5C%5DV%5Cta%5C%3D10'%3D0'%3D700'%3D212'dim'%5C%3D10'%3D10'%3D700'%3D212'vdim'%5Cbox1'b%5Cva%5CF6F6F6'fC%5CC8C8C8'eC%5C'a%5C%5Do%5CLauto'f%5C)
 

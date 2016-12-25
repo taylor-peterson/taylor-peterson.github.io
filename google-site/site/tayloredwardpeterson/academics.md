@@ -1,22 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Academics</title>
-  <style type="text/css">
-span.c8 {font-size:medium;background-color:transparent}
-  span.c7 {background-color:transparent;font-size:medium}
-  span.c6 {background-color: transparent}
-  span.c5 {background-color:transparent}
-  div.c4 {text-align:justify}
-  a.c3 {background-color:transparent}
-  span.c2 {background-color: transparent; font-size: 80%}
-  span.c1 {font-size: 80%}
-  </style>
 
-</head>
-
-# Academics
+---
+layout: page
+title: Academics
+---
 
   
 

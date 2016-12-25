@@ -1,27 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Keyboard Layouts</title>
-  <style type="text/css">
-span.c13 {background-color: transparent; font-family: sans-serif}
-  div.c12 {font-family: sans-serif}
-  div.c11 {font-family:sans-serif;font-size:medium}
-  span.c10 {font-family: sans-serif}
-  div.c9 {text-align:left;display:block;margin-right:auto;margin-left:auto}
-  div.c8 {display:block;text-align:center;margin-left:auto;margin-right:auto}
-  img.c7 {width:100%}
-  div.c6 {display:block;text-align:left}
-  div.c5 {display:block;text-align:center;margin-right:auto;margin-left:auto}
-  span.c4 {font-family:sans-serif;font-size:medium;background-color:transparent}
-  span.c3 {font-size:medium;background-color:transparent}
-  a.c2 {background-color:transparent}
-  span.c1 {background-color:transparent}
-  </style>
 
-</head>
-
-# Keyboard Layouts
+---
+layout: page
+title: Keyboard Layouts
+---
 
   
 

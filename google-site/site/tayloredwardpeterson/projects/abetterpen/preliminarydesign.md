@@ -1,25 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Preliminary Design</title>
-  <style type="text/css">
-ul.c11 {font-size:15.555556297302246px;text-align:start}
-  div.c10 {text-align:left}
-  div.c9 {font-size:medium;text-align:justify;color:rgb(34,34,34)}
-  a.c8 {color:rgb(17,85,204)}
-  li.c7 {text-align:justify;margin-left:15px}
-  span.c6 {font-size:medium;text-align:justify}
-  div.c5 {color: #666666}
-  span.c4 {background-color:transparent}
-  a.c3 {background-color:transparent}
-  div.c2 {font-family:arial,sans-serif;font-size:13px}
-  span.c1 {color: #666666}
-  </style>
 
-</head>
-
-# Preliminary Design
+---
+layout: page
+title: Preliminary Design
+---
 
   
 

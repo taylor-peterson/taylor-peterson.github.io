@@ -1,27 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Quotes</title>
-  <style type="text/css">
-div.c13 {text-align:right}
-  div.c12 {text-align:left}
-  div.c11 {font-size:small;font-style:italic;text-align:right}
-  div.c10 {background-color: transparent; display: inline!important; font-size: small; font-style: italic; text-align: right}
-  div.c9 {display:inline!important}
-  span.c8 {background-color:transparent}
-  div.c7 {background-color: transparent; display: inline!important; font-size: small; font-style: italic}
-  div.c6 {font-style: italic; text-align: right}
-  span.c5 {font-size: 80%}
-  div.c4 {font-size:small;font-style:italic}
-  div.c3 {text-align:right;font-size:small;font-style:italic}
-  div.c2 {font-size: 80%; font-style: italic; text-align: right}
-  div.c1 {font-style: italic}
-  </style>
 
-</head>
-
-# Quotes
+---
+layout: page
+title: Quotes
+---
 
   
 

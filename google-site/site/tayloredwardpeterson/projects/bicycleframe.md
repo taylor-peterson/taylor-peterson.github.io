@@ -1,22 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Bicycle Frame</title>
-  <style type="text/css">
-ul.c8 {text-align:-webkit-auto}
-  li.c7 {list-style:none;display:inline}
-  div.c6 {text-align:-webkit-auto}
-  div.c5 {background-color: transparent; font-style: italic; margin-left: auto; margin-right: auto; text-align: center}
-  div.c4 {display: block; margin-left: auto; margin-right: auto; text-align: center}
-  div.c3 {text-align:justify;margin-right:auto;margin-left:auto}
-  div.c2 {text-align:justify}
-  span.c1 {background-color:transparent}
-  </style>
 
-</head>
-
-# Bicycle Frame
+---
+layout: page
+title: Bicycle Frame
+---
 
 | 
   

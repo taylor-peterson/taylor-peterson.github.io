@@ -1,27 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Field Testing</title>
-  <style type="text/css">
-a.c13 {background-color:rgb(255,255,255)}
-  div.c12 {font-size: 80%; font-style: italic; margin-left: auto; margin-right: auto}
-  div.c11 {margin-right:auto;margin-left:auto}
-  div.c10 {display:block;text-align:center;margin-right:auto;margin-left:auto}
-  div.c9 {font-size: 120%; font-weight: bold}
-  div.c8 {display: block; font-size: 80%; font-style: italic; margin-left: auto; margin-right: auto; text-align: center}
-  div.c7 {display:block;margin-right:auto;margin-left:auto;text-align:center}
-  a.c6 {background-color:rgb(255,255,255);text-align:center}
-  div.c5 {font-size: 120%}
-  span.c4 {font-size: 120%}
-  div.c3 {text-align:left;display:block;margin-right:auto;margin-left:auto}
-  div.c2 {font-size: 80%}
-  span.c1 {font-size: 80%}
-  </style>
 
-</head>
-
-# Field Testing
+---
+layout: page
+title: Field Testing
+---
 
   
 

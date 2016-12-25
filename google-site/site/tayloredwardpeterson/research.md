@@ -1,29 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Research</title>
-  <style type="text/css">
-div.c15 {font-size: medium; font-style: italic; width: 425px}
-  div.c14 {text-align:justify;font-size:medium}
-  i.c13 {background-color:transparent}
-  a.c12 {background-color:transparent}
-  div.c11 {text-align:justify}
-  div.c10 {display:block;text-align:center;margin-right:auto;margin-left:auto}
-  span.c9 {background-color: transparent; font-size: 80%; font-style: italic}
-  div.c8 {font-size:medium;display:block;text-align:center;margin-right:auto;margin-left:auto}
-  span.c7 {background-color:transparent}
-  span.c6 {background-color:transparent;font-size:16px}
-  div.c5 {font-size:medium;text-align:justify}
-  a.c4 {text-align:justify;background-color:transparent;font-size:medium;font-weight:normal}
-  span.c3 {text-align:justify;background-color:transparent;font-size:medium;font-weight:normal}
-  div.c2 {font-size: 80%}
-  span.c1 {font-size: 80%}
-  </style>
 
-</head>
-
-# Research
+---
+layout: page
+title: Research
+---
 
   
 

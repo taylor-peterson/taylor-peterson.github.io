@@ -1,22 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Framework</title>
-  <style type="text/css">
-div.c8 {display: block; margin-left: auto; margin-right: auto; text-align: justify}
-  span.c7 {font-size: 80%; font-style: italic}
-  div.c6 {font-size:medium;display:block;text-align:center;margin-right:auto;margin-left:auto}
-  span.c5 {font-size:medium}
-  li.c4 {text-align:justify}
-  div.c3 {text-align:justify}
-  div.c2 {font-size: 80%}
-  span.c1 {font-size: 80%}
-  </style>
 
-</head>
-
-# Framework
+---
+layout: page
+title: Framework
+---
 
   
 

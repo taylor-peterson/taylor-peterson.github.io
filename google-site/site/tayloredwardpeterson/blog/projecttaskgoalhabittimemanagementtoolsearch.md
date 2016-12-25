@@ -1,19 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Project/Task/Goal/Habit/Time Management Tool
-  Search</title>
-  <style type="text/css">
-span.c4 {font-size:medium;background-color:transparent}
-  b.c3 {background-color:transparent}
-  span.c2 {font-size:16px;font-weight:normal;background-color:transparent}
-  span.c1 {font-size: 120%}
-  </style>
 
-</head>
-
-# Project/Task/Goal/Habit/Time Management Tool Search
+---
+layout: page
+title: Project/Task/Goal/Habit/Time Management Tool Search
+---
 
   
 

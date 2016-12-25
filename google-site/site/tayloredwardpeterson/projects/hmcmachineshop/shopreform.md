@@ -1,20 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Shop Reform</title>
-  <style type="text/css">
-div.c6 {text-align:center}
-  a.c5 {background-color:transparent}
-  div.c4 {text-align:justify}
-  span.c3 {background-color:transparent}
-  div.c2 {font-size: 80%}
-  span.c1 {font-size: 80%}
-  </style>
 
-</head>
-
-# Shop Reform
+---
+layout: page
+title: Shop Reform
+---
 
   
 

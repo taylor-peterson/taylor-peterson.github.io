@@ -1,26 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Tracking System</title>
-  <style type="text/css">
-div.c12 {text-align:center}
-  i.c11 {background-color:transparent}
-  div.c10 {text-align:center;font-style:italic}
-  div.c9 {font-style: italic; width: 425px}
-  li.c8 {text-align:justify}
-  span.c7 {background-color:transparent}
-  span.c6 {font-size:medium;background-color:transparent}
-  div.c5 {font-size: 80%; font-style: italic; text-align: center}
-  div.c4 {display: block; margin-left: auto; margin-right: auto; text-align: center}
-  div.c3 {text-align:justify}
-  div.c2 {font-size: 80%}
-  span.c1 {font-size: 80%}
-  </style>
 
-</head>
-
-# Tracking System
+---
+layout: page
+title: Tracking System
+---
 
   
 

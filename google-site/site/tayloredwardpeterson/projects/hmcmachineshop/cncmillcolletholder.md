@@ -1,24 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>CNC Mill Collet Holder</title>
-  <style type="text/css">
-span.c10 {font-size:medium;background-color:transparent}
-  div.c9 {font-size: 80%; font-style: italic; margin-left: auto; margin-right: auto; text-align: center}
-  div.c8 {font-size:medium;text-align:center;margin-right:auto;margin-left:auto}
-  a.c7 {color:rgb(17,85,204)}
-  div.c6 {display: block; font-size: 80%; font-style: italic; margin-left: auto; margin-right: auto; text-align: center}
-  div.c5 {font-size:medium;display:block;text-align:center;margin-right:auto;margin-left:auto}
-  div.c4 {color:rgb(34,34,34)}
-  span.c3 {color:rgb(34,34,34)}
-  div.c2 {font-size: 80%}
-  span.c1 {font-size: 80%}
-  </style>
 
-</head>
-
-# CNC Mill Collet Holder
+---
+layout: page
+title: CNC Mill Collet Holder
+---
 
   
 

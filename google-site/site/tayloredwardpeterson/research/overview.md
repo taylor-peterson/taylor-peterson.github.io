@@ -1,36 +1,9 @@
-<head>
-<meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
 
-  <title>Overview</title>
-  <style type="text/css">
-div.c22 {display:block;text-align:center;margin-right:auto;margin-left:auto}
-  div.c21 {display: block; margin-left: auto; margin-right: auto; text-align: center}
-  div.c20 {margin-left: auto; margin-right: auto; text-align: justify}
-  div.c19 {text-align:center;display:block;margin-right:auto;margin-left:auto}
-  a.c18 {text-align:center}
-  span.c17 {font-size: 80%; font-style: italic}
-  div.c16 {font-size: 80%; font-style: italic; margin-left: auto; margin-right: auto}
-  div.c15 {display: block; font-size: 80%; font-style: italic; margin-left: auto; margin-right: auto; text-align: center}
-  div.c14 {text-align:left;margin-right:auto;margin-left:auto}
-  div.c13 {display: block; font-size: medium; margin-left: auto; margin-right: auto; text-align: center}
-  div.c12 {font-size: 80%; font-style: italic; margin-left: auto; margin-right: auto; text-align: center}
-  div.c11 {text-align:justify}
-  span.c10 {font-size:medium;background-color:transparent}
-  span.c9 {background-color:transparent;font-size:medium}
-  div.c8 {margin-right:auto;margin-left:auto}
-  div.c7 {text-align:center;margin-right:auto;margin-left:auto}
-  span.c6 {background-color: transparent; font-size: 80%; font-style: italic}
-  div.c5 {font-size:medium;text-align:center;margin-right:auto;margin-left:auto}
-  div.c4 {font-size:medium;text-align:justify}
-  span.c3 {background-color:transparent}
-  span.c2 {font-size: 80%}
-  div.c1 {font-size: 80%}
-  </style>
 
-</head>
-
-# Overview
+---
+layout: page
+title: Overview
+---
 
   
 
