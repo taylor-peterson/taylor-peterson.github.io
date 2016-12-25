@@ -1,7 +1,0 @@
-Title: MATLAB [announcement]
- id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/4726730899492744446
- view in Sites:	https://sites.google.com/site/tayloredwardpeterson/tutorials/matlab
- page name:	matlab
- revision:	3
- updated:	2014-06-15T17:14:57.473Z
- parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/8249250082988626479

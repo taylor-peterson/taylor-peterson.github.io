@@ -1,7 +1,0 @@
-Title: AUV Cooperation [webpage]
- id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/6157067231161800620
- view in Sites:	https://sites.google.com/site/tayloredwardpeterson/research/auv-cooperation
- page name:	auv-cooperation
- revision:	16
- updated:	2014-01-03T03:07:05.601Z
- parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/3106575878789003618

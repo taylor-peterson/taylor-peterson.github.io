@@ -1,7 +1,0 @@
-Title: Prototyping [announcement]
- id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/3923349998742034061
- view in Sites:	https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/alphaprototype
- page name:	alphaprototype
- revision:	25
- updated:	2015-05-20T19:47:50.449Z
- parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/943946201337432531

@@ -1,7 +1,0 @@
-Title: Naming/Versioning [announcement]
- id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/6612259128108719745
- view in Sites:	https://sites.google.com/site/tayloredwardpeterson/tutorials/solidworks/namingversioning
- page name:	namingversioning
- revision:	9
- updated:	2015-06-05T16:27:08.746Z
- parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/2265962836603920763

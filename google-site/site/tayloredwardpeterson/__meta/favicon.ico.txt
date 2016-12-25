@@ -1,7 +1,0 @@
-Title: favicon.ico [attachment]
- id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/8288348936455850649
- view in Sites:	https://sites.google.com/site/tayloredwardpeterson/favicon.ico
- description:	None
- content-type:	image/x-icon
- revision:	8
- updated:	2013-12-30T00:44:36.256Z

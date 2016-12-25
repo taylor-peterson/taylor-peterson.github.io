@@ -1,7 +1,0 @@
-Title: CNC Mill Collet Holder [announcement]
- id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/4030974938591587143
- view in Sites:	https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop/cncmillcolletholder
- page name:	cncmillcolletholder
- revision:	10
- updated:	2014-12-23T20:35:43.691Z
- parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/1766781159249547094

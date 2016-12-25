@@ -1,7 +1,0 @@
-Title: Google Sites [announcement]
- id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/2222477193106843272
- view in Sites:	https://sites.google.com/site/tayloredwardpeterson/tutorials/googlesites
- page name:	googlesites
- revision:	7
- updated:	2014-06-15T03:30:54.789Z
- parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/8249250082988626479

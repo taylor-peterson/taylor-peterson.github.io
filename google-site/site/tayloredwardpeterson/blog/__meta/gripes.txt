@@ -1,7 +1,0 @@
-Title: Gripes On Hacking [announcement]
- id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/845000462497519879
- view in Sites:	https://sites.google.com/site/tayloredwardpeterson/blog/gripes
- page name:	gripes
- revision:	4
- updated:	2014-12-22T23:42:14.811Z
- parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/1449049505554529798

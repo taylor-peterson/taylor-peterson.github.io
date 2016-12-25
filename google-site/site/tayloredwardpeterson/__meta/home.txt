@@ -1,6 +1,0 @@
-Title: Home [webpage]
- id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/6512727434536618869
- view in Sites:	https://sites.google.com/site/tayloredwardpeterson/home
- page name:	home
- revision:	84
- updated:	2015-06-24T15:12:17.353Z

@@ -1,7 +1,0 @@
-Title: Google Chrome [announcement]
- id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/8204883505448305790
- view in Sites:	https://sites.google.com/site/tayloredwardpeterson/tutorials/googlechrome
- page name:	googlechrome
- revision:	3
- updated:	2014-06-15T03:26:21.330Z
- parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/8249250082988626479

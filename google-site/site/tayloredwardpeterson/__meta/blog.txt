@@ -1,6 +1,0 @@
-Title: Blog [webpage]
- id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/1449049505554529798
- view in Sites:	https://sites.google.com/site/tayloredwardpeterson/blog
- page name:	blog
- revision:	20
- updated:	2015-02-28T22:03:37.906Z

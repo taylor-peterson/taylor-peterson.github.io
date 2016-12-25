@@ -1,7 +1,0 @@
-Title: Shop Reform [announcement]
- id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/3409160022771118911
- view in Sites:	https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop/shopreform
- page name:	shopreform
- revision:	8
- updated:	2015-05-21T04:45:49.050Z
- parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/1766781159249547094

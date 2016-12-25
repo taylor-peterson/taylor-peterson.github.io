@@ -1,7 +1,0 @@
-Title: Project/Task/Goal/Habit/Time Management Tool Search [announcement]
- id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/3351986357669857025
- view in Sites:	https://sites.google.com/site/tayloredwardpeterson/blog/projecttaskgoalhabittimemanagementtoolsearch
- page name:	projecttaskgoalhabittimemanagementtoolsearch
- revision:	15
- updated:	2014-12-22T22:51:17.243Z
- parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/1449049505554529798

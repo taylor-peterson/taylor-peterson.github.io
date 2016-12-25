@@ -1,7 +1,0 @@
-Title: Qualcomm Clinic [announcement]
- id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/961355744911329734
- view in Sites:	https://sites.google.com/site/tayloredwardpeterson/projects/qualcommclinic
- page name:	qualcommclinic
- revision:	5
- updated:	2015-05-22T06:26:55.486Z
- parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/5530325216707500197

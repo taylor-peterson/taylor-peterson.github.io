@@ -1,7 +1,0 @@
-Title: Rings [announcement]
- id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/9031339577640423464
- view in Sites:	https://sites.google.com/site/tayloredwardpeterson/projects/rings
- page name:	rings
- revision:	9
- updated:	2014-12-23T21:11:22.343Z
- parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/5530325216707500197

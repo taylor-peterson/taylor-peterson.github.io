@@ -1,7 +1,0 @@
-Title: Digital "Bookshelf" [announcement]
- id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/610684926475375809
- view in Sites:	https://sites.google.com/site/tayloredwardpeterson/announcement-post-generator/digitalbookshelf
- page name:	digitalbookshelf
- revision:	1
- updated:	2015-06-05T16:30:29.065Z
- parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/8975071733173838330

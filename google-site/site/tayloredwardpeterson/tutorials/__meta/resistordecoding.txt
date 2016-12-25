@@ -1,7 +1,0 @@
-Title: Resistor Decoding [announcement]
- id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/3435654176140692665
- view in Sites:	https://sites.google.com/site/tayloredwardpeterson/tutorials/resistordecoding
- page name:	resistordecoding
- revision:	3
- updated:	2014-06-13T23:52:13.756Z
- parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/8249250082988626479

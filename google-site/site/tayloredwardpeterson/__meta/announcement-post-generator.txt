@@ -1,7 +1,0 @@
-Title: Announcement Post Generator [announcementspage]
- id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/8975071733173838330
- view in Sites:	https://sites.google.com/site/tayloredwardpeterson/announcement-post-generator
- page name:	announcement-post-generator
- revision:	5
- updated:	2014-04-06T23:35:13.823Z
- feed of items:	https://sites.google.com/feeds/content/site/tayloredwardpeterson?parent=8975071733173838330

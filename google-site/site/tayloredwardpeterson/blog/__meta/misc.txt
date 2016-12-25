@@ -1,7 +1,0 @@
-Title: Misc. [announcement]
- id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/5493582514447640818
- view in Sites:	https://sites.google.com/site/tayloredwardpeterson/blog/misc
- page name:	misc
- revision:	3
- updated:	2015-02-28T22:03:48.931Z
- parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/1449049505554529798

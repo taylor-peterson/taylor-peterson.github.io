@@ -1,7 +1,0 @@
-Title: Publications [webpage]
- id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/8688684889376748369
- view in Sites:	https://sites.google.com/site/tayloredwardpeterson/research/publications
- page name:	publications
- revision:	9
- updated:	2014-12-22T23:00:46.390Z
- parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/3106575878789003618

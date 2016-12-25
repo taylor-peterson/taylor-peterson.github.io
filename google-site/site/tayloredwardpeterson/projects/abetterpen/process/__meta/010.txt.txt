@@ -1,8 +1,0 @@
-Title: 010.txt [attachment]
- id:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/7302405503412145796
- view in Sites:	https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/process/010.txt
- description:	None
- content-type:	text/plain
- revision:	1
- updated:	2015-05-20T19:25:52.282Z
- parent link:	https://sites.google.com/feeds/content/site/tayloredwardpeterson/3868411105544658838
