@@ -29,9 +29,53 @@
               </div>
               <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="{{ site.baseurl }}/">Home</a></li>
+                  <!--Taken from http://candland.net/2016/02/16/migrate-google-sites-to-jekyll.html -->
+                  <ul>
+                  {% for nav in site.data['nav'] %}
+                    {% if nav.page.title %}
+                    <li class="{% if page.url contains nav.page.url %}active{% endif %}">
+                      <a class="page-link" href="{{ nav.page.url | prepend: site.baseurl }}">{{ nav.page.title }}</a>
+                      {% if page.url contains nav.page.dir %}
+                        <ul>
+                        {% for sub in nav.sub %}
+                          {% if sub.title %}
+                            {% capture sub_dir %}{{ sub.url | remove: ".html" | append: "/" }}{% endcapture %}
+                            <li class="{% if page.url contains sub.url or page.dir ==  sub_dir %}active{% endif %}">
+                              <a class="page-link" href="{{ sub.url | prepend: site.baseurl }}">{{ sub.title }}</a>
+                            </li>
+                          {% endif %}
+                        {% endfor %}
+                        </ul>
+                      {% endif %}
+                    </li>
+                    {% endif %}
+                  {% endfor %}
+                  </ul>
                 </ul>
               </div>
         </div>
     </div>
 </div>
+
+<ul>
+{% for nav in site.data['nav'] %}
+  <li class="active"><a href="{{ nav.page.url }}/">{{ nav.page.title}}</a></li>
+  {% if nav.page.title %}
+  <li class="{% if page.url contains nav.page.url %}active{% endif %}">
+    <a class="page-link" href="{{ nav.page.url | prepend: site.baseurl }}">{{ nav.page.title }}</a>
+    {% if page.url contains nav.page.dir %}
+      <ul>
+      {% for sub in nav.sub %}
+        {% if sub.title %}
+          {% capture sub_dir %}{{ sub.url | remove: ".html" | append: "/" }}{% endcapture %}
+          <li class="{% if page.url contains sub.url or page.dir ==  sub_dir %}active{% endif %}">
+            <a class="page-link" href="{{ sub.url | prepend: site.baseurl }}">{{ sub.title }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    {% endif %}
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>
