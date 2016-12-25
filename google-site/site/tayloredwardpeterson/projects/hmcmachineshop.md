@@ -3,15 +3,15 @@ layout: page
 title: HMC Machine Shop
 ---
 
-[Overview](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop)
+[Overview](/projects/hmcmachineshop)
 
-[Shop Reform](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop/shopreform)
+[Shop Reform](/projects/hmcmachineshop/shopreform)
 
-[Shop Organization](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop/shoporganization)
+[Shop Organization](/projects/hmcmachineshop/shoporganization)
 
-[Prof Hammer](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop/profhammer)
+[Prof Hammer](/projects/hmcmachineshop/profhammer)
 
-[CNC Mill Collet Holder](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop/cncmillcolletholder)
+[CNC Mill Collet Holder](/projects/hmcmachineshop/cncmillcolletholder)
 
 I started working as a proctor in Harvey Mudd's machine shop the spring of my sophomore year. In this role, I was responsible for supervising non-proctors and ensuring safe practices, cleanliness, and proper use of all machines.
 
@@ -23,4 +23,4 @@ In the summer after my sophomore year, I became an Associate Head Shop Proctor (
 
 I was promoted to Head Shop Proctor after the end of my junior year and continued working to improve the shop with Sean Messenger, Paul Stovall, Prof Gokli, Prof Spjut, and our AHSPs - Richard Piersall and Suzy Kim. One of the biggest things I was focusing on was institutionalizing our changes so that the shop continues to improve. 
 
-This process of improving the machine shop has been and ongoing project that I was heavily involved in. To see what got the project started, check out [Shop Reform](https://sites.google.com/site/tayloredwardpeterson/system/errors/NodeNotFound?suri=wuid:gx:3ea2f1d5c4b1aee6). For pretty pictures and an idea of how much has changed once Sean and I got involved, take a look at [Shop Organization](https://sites.google.com/site/raintomudd/projects/machineshoporganization). [Prof Hammer](https://sites.google.com/site/tayloredwardpeterson/system/errors/NodeNotFound?suri=wuid:gx:70a25e9834e7d6eb) is a fun project Sean and I ran over the summer after our sophomore year to get professors of all departments in the machine shop.
+This process of improving the machine shop has been and ongoing project that I was heavily involved in. To see what got the project started, check out [Shop Reform](/system/errors/NodeNotFound?suri=wuid:gx:3ea2f1d5c4b1aee6). For pretty pictures and an idea of how much has changed once Sean and I got involved, take a look at [Shop Organization](https://sites.google.com/site/raintomudd/projects/machineshoporganization). [Prof Hammer](/system/errors/NodeNotFound?suri=wuid:gx:70a25e9834e7d6eb) is a fun project Sean and I ran over the summer after our sophomore year to get professors of all departments in the machine shop.

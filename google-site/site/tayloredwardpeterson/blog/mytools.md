@@ -17,7 +17,7 @@ I use LaTeX for just about everyhing. For those of you wondering why you should 
 * * *
 Project/Task/Goal/Habit/Time Management
 
-Check out [this page](https://sites.google.com/site/tayloredwardpeterson/blog/projecttaskgoalhabittimemanagementtoolsearch). 
+Check out [this page](/blog/projecttaskgoalhabittimemanagementtoolsearch). 
 
 * * *
 Tools that may come in handy at some point:

@@ -3,11 +3,11 @@ layout: page
 title: Academics
 ---
 
-[Overview](https://sites.google.com/site/tayloredwardpeterson/academics)
+[Overview](/academics)
 
-[Commendations](https://sites.google.com/site/tayloredwardpeterson/academics/commendations)
+[Commendations](/academics/commendations)
 
-[Course Schedule](https://sites.google.com/site/tayloredwardpeterson/academics/course-scheule)
+[Course Schedule](/academics/course-scheule)
 
 I graduated with a double major in Engineering and Computer Science from [Harvey Mudd College](http://www.hmc.edu/) in Claremont California. 
 

@@ -3,25 +3,25 @@ layout: page
 title: Overview
 ---
 
-[Introduction](https://sites.google.com/site/tayloredwardpeterson/research)
+[Introduction](/research)
 
-[Overview](https://sites.google.com/site/tayloredwardpeterson/research/overview)
+[Overview](/research/overview)
 
 Software 
 
-    [Framework](https://sites.google.com/site/tayloredwardpeterson/research/software)  
+    [Framework](/research/software)  
 
-    [Tracking System](https://sites.google.com/site/tayloredwardpeterson/research/tracking-system)  
+    [Tracking System](/research/tracking-system)  
 
-   [AUV Cooperation](https://sites.google.com/site/tayloredwardpeterson/research/auv-cooperation)  
+   [AUV Cooperation](/research/auv-cooperation)  
 
-[Hardware](https://sites.google.com/site/tayloredwardpeterson/research/hardware)
+[Hardware](/research/hardware)
 
-[Field Testing](https://sites.google.com/site/tayloredwardpeterson/research/field-testing)
+[Field Testing](/research/field-testing)
 
-[Publications](https://sites.google.com/site/tayloredwardpeterson/research/publications)
+[Publications](/research/publications)
 
-[Misc. Photos](https://sites.google.com/site/tayloredwardpeterson/research/misc)
+[Misc. Photos](/research/misc)
 
 The shark tracking project is a cooperative effort between the LAIR and the [CSU Longbeach Shark Lab](http://www.csulb.edu/labs/sharklab/). Professor Chris Lowe (I know, another Chris... it gets confusing sometimes), who heads up the shark lab, is interested in collecting high-resolution positioning data on sharks and other fish. This data is an important tool for maintaining fish populations and their habitat. In other words, by figuring out where sharks go and why, we can better protect them and the marine ecosystem.
 
@@ -83,4 +83,4 @@ Weights are assigned to each of the particles based on sensor data.
 
 The estimated shark state is then taken to be the average of all estimates. A new set of particles is then culled from the current set, with preference to the most probably ones.
 
-At this point, we have an estimated shark position. But what do we do then? Check out the [Tracking System](https://sites.google.com/site/tayloredwardpeterson/research/tracking-system) and [AUV Cooperation](https://sites.google.com/site/tayloredwardpeterson/research/auv-cooperation) pages to find out more. 
+At this point, we have an estimated shark position. But what do we do then? Check out the [Tracking System](/research/tracking-system) and [AUV Cooperation](/research/auv-cooperation) pages to find out more. 

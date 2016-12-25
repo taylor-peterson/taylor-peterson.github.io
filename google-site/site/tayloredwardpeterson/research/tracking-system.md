@@ -3,25 +3,25 @@ layout: page
 title: Tracking System
 ---
 
-[Introduction](https://sites.google.com/site/tayloredwardpeterson/research)
+[Introduction](/research)
 
-[Overview](https://sites.google.com/site/tayloredwardpeterson/research/overview)
+[Overview](/research/overview)
 
 Software 
 
-    [Framework](https://sites.google.com/site/tayloredwardpeterson/research/software)  
+    [Framework](/research/software)  
 
-    [Tracking System](https://sites.google.com/site/tayloredwardpeterson/research/tracking-system)  
+    [Tracking System](/research/tracking-system)  
 
-   [AUV Cooperation](https://sites.google.com/site/tayloredwardpeterson/research/auv-cooperation)  
+   [AUV Cooperation](/research/auv-cooperation)  
 
-[Hardware](https://sites.google.com/site/tayloredwardpeterson/research/hardware)
+[Hardware](/research/hardware)
 
-[Field Testing](https://sites.google.com/site/tayloredwardpeterson/research/field-testing)
+[Field Testing](/research/field-testing)
 
-[Publications](https://sites.google.com/site/tayloredwardpeterson/research/publications)
+[Publications](/research/publications)
 
-[Misc. Photos](https://sites.google.com/site/tayloredwardpeterson/research/misc)
+[Misc. Photos](/research/misc)
 
 The goal of the tracking system is to localize on a shark and then remain close to it. At the same time, however, we don't want to alter its behavior, so the robot should keep its distance. To that end, the system currently uses a behavior-based controller. 
 

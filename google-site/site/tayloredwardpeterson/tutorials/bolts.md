@@ -5,7 +5,7 @@ title: Bolts
 
 ## Motivation
 
-When designing my [pen](https://sites.google.com/site/tayloredwardpeterson/system/errors/NodeNotFound?suri=wuid:gx:6c8aecc18d8d8451), one of the design problems I faced was mounting the clip onto the pen body. I decided early on that I wanted the clip to be removable for greater modularity (and in order to more readily install a replacement, should the clip break ). For this type of connection, I've typically used machine screws. However, the wall of the pen body was rather thin (~0.075") and I wasn't sure if there was enough material for threads. Thinking about this made me realize that I lacked intuition on optimal thread engagement in bolted joints. Just how much thread engagement do you need?
+When designing my [pen](/system/errors/NodeNotFound?suri=wuid:gx:6c8aecc18d8d8451), one of the design problems I faced was mounting the clip onto the pen body. I decided early on that I wanted the clip to be removable for greater modularity (and in order to more readily install a replacement, should the clip break ). For this type of connection, I've typically used machine screws. However, the wall of the pen body was rather thin (~0.075") and I wasn't sure if there was enough material for threads. Thinking about this made me realize that I lacked intuition on optimal thread engagement in bolted joints. Just how much thread engagement do you need?
 
 ## Research Results
 

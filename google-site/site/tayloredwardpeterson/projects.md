@@ -9,27 +9,27 @@ Ongoing Projects
 
 Planned Projects 
 
-   [Stool](https://sites.google.com/site/tayloredwardpeterson/projects/stool)
+   [Stool](/projects/stool)
 
 Completed Projects
 
-    [A Better Pen](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen)
+    [A Better Pen](/projects/abetterpen)
 
-    [HMC Machine Shop](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop)
+    [HMC Machine Shop](/projects/hmcmachineshop)
 
-    [Qualcomm Clinic](https://sites.google.com/site/tayloredwardpeterson/projects/qualcommclinic)
+    [Qualcomm Clinic](/projects/qualcommclinic)
 
-   [Rings](https://sites.google.com/site/tayloredwardpeterson/projects/rings)
+   [Rings](/projects/rings)
 
-   [Amazon Clinic](https://sites.google.com/site/tayloredwardpeterson/projects/amazonclinic)
+   [Amazon Clinic](/projects/amazonclinic)
 
-   [Supersonic Rocket](https://sites.google.com/site/tayloredwardpeterson/projects/supersonicrocket)
+   [Supersonic Rocket](/projects/supersonicrocket)
 
 Deferred Projects
 
-   [Filament Winder](https://sites.google.com/site/tayloredwardpeterson/projects/filamentwinder)
+   [Filament Winder](/projects/filamentwinder)
 
-   [Bicycle Frame](https://sites.google.com/site/tayloredwardpeterson/projects/bicycleframe)
+   [Bicycle Frame](/projects/bicycleframe)
 
 ## Ongoing Projects
 
@@ -43,64 +43,64 @@ Misc Ideas.
 
 [Secret Bookcase Door](http://www.instructables.com/id/Secret-door-bookcase/?ALLSTEPS)
 
-[Stool](https://sites.google.com/site/tayloredwardpeterson/projects/stool)
+[Stool](/projects/stool)
 
 * * *
 
 ## Completed Projects
 
-[A Better Pen](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen)
+[A Better Pen](/projects/abetterpen)
 
 23 December 2013 - May 2015 
 
-[![A Better Pen](https://drive.google.com/uc?id=0B0Jfms0twG8ENXp1X3Y3UGtMSHM)](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen)
+[![A Better Pen](https://drive.google.com/uc?id=0B0Jfms0twG8ENXp1X3Y3UGtMSHM)](/projects/abetterpen)
 
-[HMC Machine Shop](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop)
+[HMC Machine Shop](/projects/hmcmachineshop)
 
 January 2012 - May 2015
 
-[![HMC Machine Shop](https://docs.google.com/uc?id=0B0Jfms0twG8ERkJiOTB4dWlXSGc&export=download)](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop)
+[![HMC Machine Shop](https://docs.google.com/uc?id=0B0Jfms0twG8ERkJiOTB4dWlXSGc&export=download)](/projects/hmcmachineshop)
 
-[Qualcomm Clinic](https://sites.google.com/site/tayloredwardpeterson/projects/qualcommclinic)
+[Qualcomm Clinic](/projects/qualcommclinic)
 
 Septermber 2014 - May 2015 
 
 [
-[![Qualcomm Clinic](https://docs.google.com/uc?id=0B0Jfms0twG8ENDg1U1dvaDRzaEk&export=download)](https://sites.google.com/site/tayloredwardpeterson/projects/qualcommclinic)
+[![Qualcomm Clinic](https://docs.google.com/uc?id=0B0Jfms0twG8ENDg1U1dvaDRzaEk&export=download)](/projects/qualcommclinic)
 
-](https://sites.google.com/site/tayloredwardpeterson/projects/qualcommclinic)
+](/projects/qualcommclinic)
 
-[Rings](https://sites.google.com/site/tayloredwardpeterson/projects/rings)
+[Rings](/projects/rings)
 
 December 2014 
 
-[![Rings](https://drive.google.com/uc?id=0B0Jfms0twG8EV0l1Yi1jWFBFS1U)](https://sites.google.com/site/tayloredwardpeterson/projects/rings)
+[![Rings](https://drive.google.com/uc?id=0B0Jfms0twG8EV0l1Yi1jWFBFS1U)](/projects/rings)
 
-[Amazon Clinic](https://sites.google.com/site/tayloredwardpeterson/projects/amazonclinic)
+[Amazon Clinic](/projects/amazonclinic)
 
 3 September 2013 - 20 December 2013 
 
-[![Amazon Clinic](http://yellowhammernews.com/wp-content/uploads/2013/12/Amazon-Logo.jpg)](https://sites.google.com/site/tayloredwardpeterson/projects/amazonclinic)
+[![Amazon Clinic](http://yellowhammernews.com/wp-content/uploads/2013/12/Amazon-Logo.jpg)](/projects/amazonclinic)
 
-[Supersonic Rocket](https://sites.google.com/site/tayloredwardpeterson/projects/supersonicrocket)
+[Supersonic Rocket](/projects/supersonicrocket)
 
 26 February 2013 - 6 May 2013 
 
 [
-[![Supersonic Rocket](https://drive.google.com/uc?id=0B0Jfms0twG8EZVAyOGliTzlKMTA)](https://sites.google.com/site/tayloredwardpeterson/projects/supersonicrocket)
+[![Supersonic Rocket](https://drive.google.com/uc?id=0B0Jfms0twG8EZVAyOGliTzlKMTA)](/projects/supersonicrocket)
 
-](https://sites.google.com/site/tayloredwardpeterson/projects/supersonicrocket)
+](/projects/supersonicrocket)
 
 * * *
 
 ## Deferred Projects
 
-[Filament Winder](https://sites.google.com/site/tayloredwardpeterson/projects/filamentwinder)
+[Filament Winder](/projects/filamentwinder)
 
 6 November 2013 - Present[  
-](https://sites.google.com/site/tayloredwardpeterson/system/errors/NodeNotFound?suri=wuid:gx:50c6993072a6664)
-[![Filament Winder](https://drive.google.com/uc?id=0B0Jfms0twG8Ea19pSWFIcGRYdFk)](https://sites.google.com/site/tayloredwardpeterson/projects/filamentwinder)
+](/system/errors/NodeNotFound?suri=wuid:gx:50c6993072a6664)
+[![Filament Winder](https://drive.google.com/uc?id=0B0Jfms0twG8Ea19pSWFIcGRYdFk)](/projects/filamentwinder)
 
-[Bike Frame](https://sites.google.com/site/tayloredwardpeterson/projects/bicycleframe)
+[Bike Frame](/projects/bicycleframe)
 
-[![Bicycle Frame](https://drive.google.com/uc?id=0B0Jfms0twG8ENnhnZU9KWE92enM)](https://sites.google.com/site/tayloredwardpeterson/projects/bicycleframe)
+[![Bicycle Frame](https://drive.google.com/uc?id=0B0Jfms0twG8ENnhnZU9KWE92enM)](/projects/bicycleframe)

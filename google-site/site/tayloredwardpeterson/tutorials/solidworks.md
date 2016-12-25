@@ -3,11 +3,11 @@ layout: page
 title: Solidworks
 ---
 
-[Solidworks Main](https://sites.google.com/site/tayloredwardpeterson/tutorials/solidworks)
+[Solidworks Main](/tutorials/solidworks)
 
 [Templates/Properties](https://sites.google.com/site/raintomudd/tutorials/solidworks-templatesandproperties)
 
-[Naming/Versioning](https://sites.google.com/site/tayloredwardpeterson/tutorials/solidworks/namingversioning)
+[Naming/Versioning](/tutorials/solidworks/namingversioning)
 
 More content will be added soon, but for now, here are some quick thoughts:
 

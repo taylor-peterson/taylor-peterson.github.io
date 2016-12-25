@@ -3,11 +3,11 @@ layout: page
 title: Course Scheule
 ---
 
-[Overview](https://sites.google.com/site/tayloredwardpeterson/academics)
+[Overview](/academics)
 
-[Commendations](https://sites.google.com/site/tayloredwardpeterson/academics/commendations)
+[Commendations](/academics/commendations)
 
-[Course Schedule](https://sites.google.com/site/tayloredwardpeterson/academics/course-scheule)
+[Course Schedule](/academics/course-scheule)
 
 Below is a listing of the courses I have taken, am scheduled to take, and plan on taking during my time at Mudd. 
 

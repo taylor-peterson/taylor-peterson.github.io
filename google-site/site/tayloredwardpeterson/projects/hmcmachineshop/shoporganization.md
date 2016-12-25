@@ -3,15 +3,15 @@ layout: page
 title: Shop Organization
 ---
 
-[Overview](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop)
+[Overview](/projects/hmcmachineshop)
 
-[Shop Reform](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop/shopreform)
+[Shop Reform](/projects/hmcmachineshop/shopreform)
 
-[Shop Organization](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop/shoporganization)
+[Shop Organization](/projects/hmcmachineshop/shoporganization)
 
-[Prof Hammer](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop/profhammer)
+[Prof Hammer](/projects/hmcmachineshop/profhammer)
 
-[CNC Mill Collet Holder](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop/cncmillcolletholder)
+[CNC Mill Collet Holder](/projects/hmcmachineshop/cncmillcolletholder)
 
 A big part of our work in the shop has been improving organization. Typically, this has been done by implementing visual controls. For example, putting tools on pegboards and tracing their outlines so it's clear what's missing. Another thing we've done is arrange all work stations such that they now contain all tools used in common use such that everything is clearly visible and missing tools stand out. Mill station 2, as shown below is a great example of this. 
 

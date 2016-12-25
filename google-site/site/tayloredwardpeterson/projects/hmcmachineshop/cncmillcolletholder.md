@@ -3,15 +3,15 @@ layout: page
 title: CNC Mill Collet Holder
 ---
 
-[Overview](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop)
+[Overview](/projects/hmcmachineshop)
 
-[Shop Reform](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop/shopreform)
+[Shop Reform](/projects/hmcmachineshop/shopreform)
 
 [Shop Organization](https://sites.google.com/site/raintomudd/projects/machineshoporganization)
 
-[Prof Hammer](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop/profhammer)
+[Prof Hammer](/projects/hmcmachineshop/profhammer)
 
-[CNC Mill Collet Holder](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop/cncmillcolletholder)
+[CNC Mill Collet Holder](/projects/hmcmachineshop/cncmillcolletholder)
 
 So Sean and I done goofed and ordered non-laser-cuttable material for a few shop projects (we were positive that polycarb was laser-cuttable but apparently it flames up if you try to cut it... oops). But it was substantially cheaper and more durable as opposed to the laser-cuttable stock, and shipping was rather expensive, so we decided to deal with it and machine the parts instead. 
 

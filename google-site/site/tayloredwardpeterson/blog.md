@@ -5,25 +5,25 @@ title: Blog
 
 Software 
 
-  [Text Editors & IDEs](https://sites.google.com/site/tayloredwardpeterson/blog/texteditorsides)
+  [Text Editors & IDEs](/blog/texteditorsides)
 
-   [Keyboard Layout](https://sites.google.com/site/tayloredwardpeterson/blog/keyboardlayouts)
+   [Keyboard Layout](/blog/keyboardlayouts)
 
-   [Management Tool](https://sites.google.com/site/tayloredwardpeterson/blog/projecttaskgoalhabittimemanagementtoolsearch)  
+   [Management Tool](/blog/projecttaskgoalhabittimemanagementtoolsearch)  
 
-[Misc.](https://sites.google.com/site/tayloredwardpeterson/blog/misc)
+[Misc.](/blog/misc)
 
-    [Workplace Org.](https://sites.google.com/site/tayloredwardpeterson/blog/workplaceorganization)
+    [Workplace Org.](/blog/workplaceorganization)
 
-    [Design Principles](https://sites.google.com/site/tayloredwardpeterson/blog/designprinciples) 
+    [Design Principles](/blog/designprinciples) 
 
-   [Programming Prin.](https://sites.google.com/site/tayloredwardpeterson/blog/programmingprinciples)
+   [Programming Prin.](/blog/programmingprinciples)
 
-   [My Tools](https://sites.google.com/site/tayloredwardpeterson/blog/mytools)
+   [My Tools](/blog/mytools)
 
-   [Gripes On Hacking](https://sites.google.com/site/tayloredwardpeterson/blog/gripes)
+   [Gripes On Hacking](/blog/gripes)
 
-   [Quotes](https://sites.google.com/site/tayloredwardpeterson/blog/quotes)
+   [Quotes](/blog/quotes)
 
 There are many topics which intrigue me and which I research extensively. In the past, I have unfortunately done a poor job of keeping track of this. Then, a few months later I often end up redoing the whole process. It's quite silly. 
 
@@ -35,6 +35,6 @@ I've found that using the website not only enables me to add in the story, but e
 
 As such, this website will serve as a medium for telling stories about the things that interest me for my future reference and yours. 
 
-In many cases, these topics are related to a certain technical problem or project I'm working on, in which case they can readily find a home on this website under [Projects](https://sites.google.com/site/tayloredwardpeterson/projects) or [Tutorials](https://sites.google.com/site/tayloredwardpeterson/tutorials). For everything else, there is this blog. 
+In many cases, these topics are related to a certain technical problem or project I'm working on, in which case they can readily find a home on this website under [Projects](/projects) or [Tutorials](/tutorials). For everything else, there is this blog. 
 
 Another nice thing about this site is that the links between all of my activities become a lot clearer than when everything sits placidly in its own file. The big picture becomes a lot clearer. 

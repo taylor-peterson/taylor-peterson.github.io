@@ -3,25 +3,25 @@ layout: page
 title: Field Testing
 ---
 
-[Introduction](https://sites.google.com/site/tayloredwardpeterson/research)
+[Introduction](/research)
 
-[Overview](https://sites.google.com/site/tayloredwardpeterson/research/overview)
+[Overview](/research/overview)
 
 Software 
 
-    [Framework](https://sites.google.com/site/tayloredwardpeterson/research/software)  
+    [Framework](/research/software)  
 
-    [Tracking System](https://sites.google.com/site/tayloredwardpeterson/research/tracking-system)  
+    [Tracking System](/research/tracking-system)  
 
-   [AUV Cooperation](https://sites.google.com/site/tayloredwardpeterson/research/auv-cooperation)  
+   [AUV Cooperation](/research/auv-cooperation)  
 
-[Hardware](https://sites.google.com/site/tayloredwardpeterson/research/hardware)
+[Hardware](/research/hardware)
 
-[Field Testing](https://sites.google.com/site/tayloredwardpeterson/research/field-testing)
+[Field Testing](/research/field-testing)
 
-[Publications](https://sites.google.com/site/tayloredwardpeterson/research/publications)
+[Publications](/research/publications)
 
-[Misc. Photos](https://sites.google.com/site/tayloredwardpeterson/research/misc)
+[Misc. Photos](/research/misc)
 
 Obviously, working with underwater robots has required me to be around water quite a bit. When possible, we carry out our field tests locally (whether it be in Prof Clark's pool or across the street from campus in the Bernard Field Station). But when it comes time to actually track sharks, we head over to either Seaplane Lagoon or Catalina Island. 
 

@@ -3,7 +3,7 @@ layout: page
 title: Google Sites
 ---
 
-    [Custom Domain](https://sites.google.com/site/tayloredwardpeterson/tutorials/googlesites/customdomainwithgooglesitesanddreamhost)
+    [Custom Domain](/tutorials/googlesites/customdomainwithgooglesitesanddreamhost)
 
 This page will contain the tips and tricks I am picking up in building this site. See below for miscellany; see the left bar for more involved write-ups. 
 

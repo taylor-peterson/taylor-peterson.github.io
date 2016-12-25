@@ -3,29 +3,29 @@ layout: page
 title: Ink Cartridge Selection
 ---
 
-[Overview](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen)
+[Overview](/projects/abetterpen)
 
-[Problem Statement](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/problemstatement)
+[Problem Statement](/projects/abetterpen/problemstatement)
 
-[Preliminary Design](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/preliminarydesign)
+[Preliminary Design](/projects/abetterpen/preliminarydesign)
 
 Component Selection 
 
-    [Ink Cartridge](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/cartridgeselection)
+    [Ink Cartridge](/projects/abetterpen/cartridgeselection)
 
-    [Clip Screw](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/clipscrewselection)
+    [Clip Screw](/projects/abetterpen/clipscrewselection)
 
-[Prototyping](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/alphaprototype)
+[Prototyping](/projects/abetterpen/alphaprototype)
 
 "Mass" Production 
 
    Bill of Materials 
 
-   [Process](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/process)
+   [Process](/projects/abetterpen/process)
 
    Drawings/Parts 
 
-   [Lessons Learned](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/lessonslearned)
+   [Lessons Learned](/projects/abetterpen/lessonslearned)
 
 Before starting this project, I knew that I wanted a pen nib smaller than 0.5 mm. Anything 0.5 mm or larger is too large (especially when you are trying to put subscripts on subscripts). However, I didn't know how much smaller I wanted to go or which refill worked best for me. To that end, I went to the Internet for advice. The majority of pen users (especially pen fanatics) prefer larger nibs (usually because they write smoother). There were a few pen forums ([The Pen Addict](http://penaddict.com/), [Gourmet Pens](http://www.gourmetpens.com/), and [No Pen Intended](http://nopenintended.wordpress.com/)) which advocated pens with smaller nibs, but they were not as definitive as I would have liked. So off to [JetPens](http://www.jetpens.com/)I went.
 

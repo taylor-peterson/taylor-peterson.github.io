@@ -5,13 +5,13 @@ title: Tutorials
 
 Software 
 
-    [Solidworks](https://sites.google.com/site/tayloredwardpeterson/tutorials/solidworks)  
+    [Solidworks](/tutorials/solidworks)  
 
-   [Backup Scheme](https://sites.google.com/site/tayloredwardpeterson/tutorials/backupscheme)  
+   [Backup Scheme](/tutorials/backupscheme)  
 
-   [Latex](https://sites.google.com/site/tayloredwardpeterson/tutorials/latex)
+   [Latex](/tutorials/latex)
 
-   [Matlab](https://sites.google.com/site/tayloredwardpeterson/tutorials/matlab)
+   [Matlab](/tutorials/matlab)
 
 Firmware
 
@@ -19,21 +19,21 @@ Firmware
 
 Electronics
 
-   [Resistor Decoding](https://sites.google.com/site/tayloredwardpeterson/tutorials/resistordecoding)
+   [Resistor Decoding](/tutorials/resistordecoding)
 
 Hardware 
 
-   [Bolt Strength](https://sites.google.com/site/tayloredwardpeterson/tutorials/bolts)  
+   [Bolt Strength](/tutorials/bolts)  
 
    [Countersinks](https://sites.google.com/site/raintomudd/tutorials/countersinks)
 
 Google 
 
-   [Sites](https://sites.google.com/site/tayloredwardpeterson/tutorials/googlesites)
+   [Sites](/tutorials/googlesites)
 
-   [Search](https://sites.google.com/site/tayloredwardpeterson/tutorials/googleadvancedsearchoperators)  
+   [Search](/tutorials/googleadvancedsearchoperators)  
 
-  [Chrome](https://sites.google.com/site/tayloredwardpeterson/tutorials/googlechrome)
+  [Chrome](/tutorials/googlechrome)
 
 When I'm working on projects, I'll often run into problems which I don't know how to solve. 
 

@@ -3,15 +3,15 @@ layout: page
 title: Prof Hammer
 ---
 
-[Overview](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop)
+[Overview](/projects/hmcmachineshop)
 
-[Shop Reform](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop/shopreform)
+[Shop Reform](/projects/hmcmachineshop/shopreform)
 
-[Shop Organization](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop/shoporganization)
+[Shop Organization](/projects/hmcmachineshop/shoporganization)
 
-[Prof Hammer](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop/profhammer)
+[Prof Hammer](/projects/hmcmachineshop/profhammer)
 
-[CNC Mill Collet Holder](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop/cncmillcolletholder)
+[CNC Mill Collet Holder](/projects/hmcmachineshop/cncmillcolletholder)
 
 One day, when Sean and I were wandering the halls, we ran into Dean Jacobsen (Professor of Mathematics and Dean of Students) outside of the machine shop and Sean asked him if he had ever considered making a hammer (a traditional project for engineering majors at Mudd). Turns out, he had always wanted to make one, but never had the opportunity, so Sean and I offered to help him and any other professors that might be interested. 
 

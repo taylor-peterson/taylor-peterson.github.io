@@ -3,29 +3,29 @@ layout: page
 title: Prototyping
 ---
 
-[Overview](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen)
+[Overview](/projects/abetterpen)
 
-[Problem Statement](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/problemstatement)
+[Problem Statement](/projects/abetterpen/problemstatement)
 
-[Preliminary Design](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/preliminarydesign)
+[Preliminary Design](/projects/abetterpen/preliminarydesign)
 
 Component Selection 
 
-    [Ink Cartridge](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/cartridgeselection)
+    [Ink Cartridge](/projects/abetterpen/cartridgeselection)
 
-    [Clip Screw](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/clipscrewselection)
+    [Clip Screw](/projects/abetterpen/clipscrewselection)
 
-[Prototyping](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/alphaprototype)
+[Prototyping](/projects/abetterpen/alphaprototype)
 
 "Mass" Production 
 
    Bill of Materials 
 
-   [Process](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/process)
+   [Process](/projects/abetterpen/process)
 
    Drawings/Parts 
 
-   [Lessons Learned](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/lessonslearned)
+   [Lessons Learned](/projects/abetterpen/lessonslearned)
 
 Generating CAD from preliminary design 
 

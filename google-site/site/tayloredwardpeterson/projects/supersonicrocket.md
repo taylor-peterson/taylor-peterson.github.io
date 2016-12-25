@@ -3,9 +3,9 @@ layout: page
 title: Supersonic Rocket
 ---
 
-[Overview](https://sites.google.com/site/tayloredwardpeterson/projects/supersonicrocket)
+[Overview](/projects/supersonicrocket)
 
-[Misc. Photos](https://sites.google.com/site/tayloredwardpeterson/projects/supersonicrocket/miscphotos)
+[Misc. Photos](/projects/supersonicrocket/miscphotos)
 
 E80: Experimental Engineering, is one of the key classes in the Engineering curriculum at Mudd. It is a sophomore-level, lab-based course that covers a variety of engineering disciplines. The final project for this course is an open-ended, experimental project in which students are asked to use what they have learned to design an experiment, take data, and analyze some aspect of rocket flight. My team decided to go above and beyond the standard project and make a supersonic rocket. 
 

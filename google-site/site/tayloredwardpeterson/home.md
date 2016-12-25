@@ -9,8 +9,8 @@ Welcome!
 
 If this is your first time visiting, here are some suggestions on how to use this site: 
 
-- If you're just browsing, you're probably not reading this. But if you are, hit on the breakout pages for [Research](https://sites.google.com/site/tayloredwardpeterson/research) and any of the [Projects](https://sites.google.com/site/tayloredwardpeterson/projects) you might be interested in. Those pages contain quick overviews (and pretty pictures). If anything piques your interest, delve deeper into the project. 
-- If you're looking for information on something specific or want to get a better sense for how I work, check out the [Tutorials](https://sites.google.com/site/tayloredwardpeterson/tutorials) and [build logs](https://sites.google.com/site/tayloredwardpeterson/projects). If you don't see what you're looking for, but think I can help, shoot me an email. (See [About Me](https://sites.google.com/site/tayloredwardpeterson/about-me) for contact info.)
+- If you're just browsing, you're probably not reading this. But if you are, hit on the breakout pages for [Research](/research) and any of the [Projects](/projects) you might be interested in. Those pages contain quick overviews (and pretty pictures). If anything piques your interest, delve deeper into the project. 
+- If you're looking for information on something specific or want to get a better sense for how I work, check out the [Tutorials](/tutorials) and [build logs](/projects). If you don't see what you're looking for, but think I can help, shoot me an email. (See [About Me](/about-me) for contact info.)
 
 I started up this site for several reasons. In no particular order, they are: 
 
@@ -21,7 +21,7 @@ I started up this site for several reasons. In no particular order, they are:
 
 Throughout the site, you'll see a large number of links and references to Sean Messenger and his [site](https://sites.google.com/site/raintomudd/). The reason for this is simple: since we decided to pursue a double major in Engineering and Computer Science during our sophomore year at Mudd, we've been pretty much inseparable. We've taken virtually all the same courses (with each other) and partnered together on almost every project either of us has undertaken since then. Sean's been called "my other half" more than once for good reason. 
 
-Feel free to contact me with questions or suggestions. (See [About Me](https://sites.google.com/site/tayloredwardpeterson/about-me) for contact info.)
+Feel free to contact me with questions or suggestions. (See [About Me](/about-me) for contact info.)
 
 Please note that the postings on this site are my own and don't necessarily represent my employer's position. 
 

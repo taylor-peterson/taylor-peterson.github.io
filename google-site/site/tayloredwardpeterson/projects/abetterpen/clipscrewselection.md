@@ -3,35 +3,35 @@ layout: page
 title: Clip Screw Selection
 ---
 
-[Overview](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen)
+[Overview](/projects/abetterpen)
 
-[Problem Statement](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/problemstatement)
+[Problem Statement](/projects/abetterpen/problemstatement)
 
-[Preliminary Design](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/preliminarydesign)
+[Preliminary Design](/projects/abetterpen/preliminarydesign)
 
 Component Selection 
 
-    [Ink Cartridge](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/cartridgeselection)
+    [Ink Cartridge](/projects/abetterpen/cartridgeselection)
 
-    [Clip Screw](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/clipscrewselection)
+    [Clip Screw](/projects/abetterpen/clipscrewselection)
 
-[Prototyping](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/alphaprototype)
+[Prototyping](/projects/abetterpen/alphaprototype)
 
 "Mass" Production 
 
    Bill of Materials 
 
-   [Process](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/process)
+   [Process](/projects/abetterpen/process)
 
    Drawings/Parts 
 
-   [Lessons Learned](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/lessonslearned)
+   [Lessons Learned](/projects/abetterpen/lessonslearned)
 
 ## There are two main concerns regarding screws for the clip. The first is functionality (i.e. it needs to keep the clip attached to the pen and not strip out the threads in the pen body). The second is appearance. We ended up selecting [these screws](http://www.mcmaster.com/#92703a203/=q0xugi) for the reasons explained below.
 
 ## Functionality
 
-When I began this project, I didn't have much intuition for how many threads were required to hold parts together. So I figured I'd do some research and figure out what's what. Checkout the [write-up](https://sites.google.com/site/tayloredwardpeterson/tutorials/bolts) of my findings. The gist of that page is that, for low-load applications, you need to use five full threads to develop full strength. 
+When I began this project, I didn't have much intuition for how many threads were required to hold parts together. So I figured I'd do some research and figure out what's what. Checkout the [write-up](/tutorials/bolts) of my findings. The gist of that page is that, for low-load applications, you need to use five full threads to develop full strength. 
 
 Given that the body wall is ~0.075" thick, that would require the use of a #1 screw. That's tiny! The smallest size screw I could reasonably use (without worrying overmuch about breaking taps, etc.) would be a 4-40. But with that size screw, I would only be able to fit three threads. According to my research, that would still retain approximately 80% of full strength, which would seem more than enough, but to be sure I calculated that maximum force that could be applied to the bolt before the threads in the pen body would begin to deform: 
 

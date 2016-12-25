@@ -3,25 +3,25 @@ layout: page
 title: Framework
 ---
 
-[Introduction](https://sites.google.com/site/tayloredwardpeterson/research)
+[Introduction](/research)
 
-[Overview](https://sites.google.com/site/tayloredwardpeterson/research/overview)
+[Overview](/research/overview)
 
 Software 
 
-    [Framework](https://sites.google.com/site/tayloredwardpeterson/research/software)  
+    [Framework](/research/software)  
 
-    [Tracking System](https://sites.google.com/site/tayloredwardpeterson/research/tracking-system)  
+    [Tracking System](/research/tracking-system)  
 
-   [AUV Cooperation](https://sites.google.com/site/tayloredwardpeterson/research/auv-cooperation)  
+   [AUV Cooperation](/research/auv-cooperation)  
 
-[Hardware](https://sites.google.com/site/tayloredwardpeterson/research/hardware)
+[Hardware](/research/hardware)
 
-[Field Testing](https://sites.google.com/site/tayloredwardpeterson/research/field-testing)
+[Field Testing](/research/field-testing)
 
-[Publications](https://sites.google.com/site/tayloredwardpeterson/research/publications)
+[Publications](/research/publications)
 
-[Misc. Photos](https://sites.google.com/site/tayloredwardpeterson/research/misc)
+[Misc. Photos](/research/misc)
 
 Much of my first few months on the team was spent simply understanding the code-base and how all of the sub-systems worked and interacted. The pre-existing control code was especially difficult to understand. Due to the pressures of debugging in the field and the lack of a pre-existing framework to work in, the majority of the code ended up being inside the GUI used to set up missions! 
 

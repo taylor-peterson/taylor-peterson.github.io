@@ -3,15 +3,15 @@ layout: page
 title: Shop Reform
 ---
 
-[Overview](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop)
+[Overview](/projects/hmcmachineshop)
 
-[Shop Reform](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop/shopreform)
+[Shop Reform](/projects/hmcmachineshop/shopreform)
 
-[Shop Organization](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop/shoporganization)
+[Shop Organization](/projects/hmcmachineshop/shoporganization)
 
-[Prof Hammer](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop/profhammer)
+[Prof Hammer](/projects/hmcmachineshop/profhammer)
 
-[CNC Mill Collet Holder](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop/cncmillcolletholder)
+[CNC Mill Collet Holder](/projects/hmcmachineshop/cncmillcolletholder)
 
 Before I became a shop proctor, I had noticed many issues with the way the shop was run. For example, every proctor gave different advice, the shop was extremely disorganized, and it wasn't easy to learn about more advanced machining processes. 
 

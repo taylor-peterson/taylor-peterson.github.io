@@ -3,25 +3,25 @@ layout: page
 title: Research
 ---
 
-[Introduction](https://sites.google.com/site/tayloredwardpeterson/research)
+[Introduction](/research)
 
-[Overview](https://sites.google.com/site/tayloredwardpeterson/research/overview)
+[Overview](/research/overview)
 
 Software 
 
-    [Framework](https://sites.google.com/site/tayloredwardpeterson/research/software)  
+    [Framework](/research/software)  
 
-    [Tracking System](https://sites.google.com/site/tayloredwardpeterson/research/tracking-system)  
+    [Tracking System](/research/tracking-system)  
 
-   [AUV Cooperation](https://sites.google.com/site/tayloredwardpeterson/research/auv-cooperation)  
+   [AUV Cooperation](/research/auv-cooperation)  
 
-[Hardware](https://sites.google.com/site/tayloredwardpeterson/research/hardware)
+[Hardware](/research/hardware)
 
-[Field Testing](https://sites.google.com/site/tayloredwardpeterson/research/field-testing)
+[Field Testing](/research/field-testing)
 
-[Publications](https://sites.google.com/site/tayloredwardpeterson/research/publications)
+[Publications](/research/publications)
 
-[Misc. Photos](https://sites.google.com/site/tayloredwardpeterson/research/misc)
+[Misc. Photos](/research/misc)
 
 ## I began working with Professor Christopher Clark in the [Lab for Autonomous and Intelligent Robotics (LAIR)](http://newwww.hmc.edu/lair)in the fall of my sophomore year as a member of the Shark Tracking team. 
 
@@ -33,7 +33,7 @@ The LAIR team during the summer of 2013. Prof Clark is at the far right.
 
 This project is described briefly on the [LAIR Projects](http://newwww.hmc.edu/lair/projects.html) page (click on_AUV Shark Tracking_ on the left hand side). For an idea of where the project stood before I joined on, check out [this abc7 News story](http://abclocal.go.com/kabc/story?section=news/local/los_angeles&id=8823629) about a test-deployment to Catalina Island the summer before I joined on. To see what was going on in the LAIR in the summer of 2013, check out this[post](http://newwww.hmc.edu/admission/2013/07/robots/) on the HMC admissions blog. One of our Catalina field deployments during the summer was written up by the [Orange County Register](https://drive.google.com/file/d/0B0Jfms0twG8EQ081X0NtTW5yWm8/edit?usp=sharing).
 
-For an more in-depth description of the project, check out the [Overview](https://sites.google.com/site/tayloredwardpeterson/research/overview) page.
+For an more in-depth description of the project, check out the [Overview](/research/overview) page.
 
 My main job on the team is improving the control algorithms: we have software running on the robot telling it where to go to find the sharks - I'm responsible for making that software smarter and more efficient. In addition to that, I work to improve the hardware on the robots. For more information on each of these, check out the software and hardware pages respectively. 
 

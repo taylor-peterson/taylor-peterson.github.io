@@ -3,9 +3,9 @@ layout: page
 title: User Interface
 ---
 
-[Overview](https://sites.google.com/site/tayloredwardpeterson/projects/filamentwinder)
+[Overview](/projects/filamentwinder)
 
-[User Interface](https://sites.google.com/site/tayloredwardpeterson/projects/filamentwinder/userinterface)
+[User Interface](/projects/filamentwinder/userinterface)
 
 This page details the development of the user interface for the filament winder project. 
 
