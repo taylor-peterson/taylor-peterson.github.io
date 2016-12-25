@@ -1,5 +1,4 @@
 name: Taylor Peterson
 description: Taylor Peterson's personal site
-baseurl: taylor-peterson.github.io
 
 exclude: ['README.md', 'LICENSE']

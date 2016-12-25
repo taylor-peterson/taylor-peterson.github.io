@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Project/Task/Goal/Habit/Time Management Tool Search
 ---
 
