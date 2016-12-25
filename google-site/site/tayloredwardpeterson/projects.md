@@ -1,74 +1,49 @@
-
-
 ---
 layout: page
 title: Projects
 ---
 
-  
-
-| 
-
-  
-
 Ongoing Projects
 
- Â Â None Currently!
+   None Currently!
 
-  
+Planned Projects 
 
- Planned Projects 
-
-Â Â Â [Stool](https://sites.google.com/site/tayloredwardpeterson/projects/stool)
-
-  
+   [Stool](https://sites.google.com/site/tayloredwardpeterson/projects/stool)
 
 Completed Projects
 
- Â Â Â [A Better Pen](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen)
+    [A Better Pen](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen)
 
- Â Â Â [HMC Machine Shop](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop)
+    [HMC Machine Shop](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop)
 
- Â Â Â [Qualcomm Clinic](https://sites.google.com/site/tayloredwardpeterson/projects/qualcommclinic)
+    [Qualcomm Clinic](https://sites.google.com/site/tayloredwardpeterson/projects/qualcommclinic)
 
-Â Â Â [Rings](https://sites.google.com/site/tayloredwardpeterson/projects/rings)
+   [Rings](https://sites.google.com/site/tayloredwardpeterson/projects/rings)
 
-Â Â Â [Amazon Clinic](https://sites.google.com/site/tayloredwardpeterson/projects/amazonclinic)
+   [Amazon Clinic](https://sites.google.com/site/tayloredwardpeterson/projects/amazonclinic)
 
-Â Â Â [Supersonic Rocket](https://sites.google.com/site/tayloredwardpeterson/projects/supersonicrocket)
-
-  
+   [Supersonic Rocket](https://sites.google.com/site/tayloredwardpeterson/projects/supersonicrocket)
 
 Deferred Projects
 
-Â Â Â [Filament Winder](https://sites.google.com/site/tayloredwardpeterson/projects/filamentwinder)
+   [Filament Winder](https://sites.google.com/site/tayloredwardpeterson/projects/filamentwinder)
 
-Â Â Â [Bicycle Frame](https://sites.google.com/site/tayloredwardpeterson/projects/bicycleframe)
-
- | 
+   [Bicycle Frame](https://sites.google.com/site/tayloredwardpeterson/projects/bicycleframe)
 
 ## Ongoing Projects
 
-  
-
- None Currently! 
-
-  
+None Currently! 
 
 * * *
 
 ## Planned Projects
-
-  
 
 Misc Ideas.
 
 [Secret Bookcase Door](http://www.instructables.com/id/Secret-door-bookcase/?ALLSTEPS)
 
 [Stool](https://sites.google.com/site/tayloredwardpeterson/projects/stool)
-  
-
-  
 
 * * *
 
@@ -76,11 +51,9 @@ Misc Ideas.
 
 [A Better Pen](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen)
 
- 23 December 2013 - May 2015 
+23 December 2013 - May 2015 
 
 [![A Better Pen](https://drive.google.com/uc?id=0B0Jfms0twG8ENXp1X3Y3UGtMSHM)](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen)
-
-  
 
 [HMC Machine Shop](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop)
 
@@ -88,42 +61,35 @@ January 2012 - May 2015
 
 [![HMC Machine Shop](https://docs.google.com/uc?id=0B0Jfms0twG8ERkJiOTB4dWlXSGc&export=download)](https://sites.google.com/site/tayloredwardpeterson/projects/hmcmachineshop)
 
-  
+[Qualcomm Clinic](https://sites.google.com/site/tayloredwardpeterson/projects/qualcommclinic)
 
-[QualcommÂ Clinic](https://sites.google.com/site/tayloredwardpeterson/projects/qualcommclinic)
-
- Septermber 2014 - May 2015 
+Septermber 2014 - May 2015 
 
 [
 [![Qualcomm Clinic](https://docs.google.com/uc?id=0B0Jfms0twG8ENDg1U1dvaDRzaEk&export=download)](https://sites.google.com/site/tayloredwardpeterson/projects/qualcommclinic)
-
-  
 
 ](https://sites.google.com/site/tayloredwardpeterson/projects/qualcommclinic)
 
 [Rings](https://sites.google.com/site/tayloredwardpeterson/projects/rings)
 
- December 2014 
+December 2014 
 
 [![Rings](https://drive.google.com/uc?id=0B0Jfms0twG8EV0l1Yi1jWFBFS1U)](https://sites.google.com/site/tayloredwardpeterson/projects/rings)
 
-  
-
 [Amazon Clinic](https://sites.google.com/site/tayloredwardpeterson/projects/amazonclinic)
 
- 3 September 2013 - 20 December 2013 
+3 September 2013 - 20 December 2013 
 
 [![Amazon Clinic](http://yellowhammernews.com/wp-content/uploads/2013/12/Amazon-Logo.jpg)](https://sites.google.com/site/tayloredwardpeterson/projects/amazonclinic)
 
 [Supersonic Rocket](https://sites.google.com/site/tayloredwardpeterson/projects/supersonicrocket)
 
- 26 February 2013 - 6 May 2013 
+26 February 2013 - 6 May 2013 
 
 [
 [![Supersonic Rocket](https://drive.google.com/uc?id=0B0Jfms0twG8EZVAyOGliTzlKMTA)](https://sites.google.com/site/tayloredwardpeterson/projects/supersonicrocket)
-  
+
 ](https://sites.google.com/site/tayloredwardpeterson/projects/supersonicrocket)
-  
 
 * * *
 
@@ -131,22 +97,10 @@ January 2012 - May 2015
 
 [Filament Winder](https://sites.google.com/site/tayloredwardpeterson/projects/filamentwinder)
 
- 6 November 2013 - Present[  
+6 November 2013 - Present[  
 ](https://sites.google.com/site/tayloredwardpeterson/system/errors/NodeNotFound?suri=wuid:gx:50c6993072a6664)
 [![Filament Winder](https://drive.google.com/uc?id=0B0Jfms0twG8Ea19pSWFIcGRYdFk)](https://sites.google.com/site/tayloredwardpeterson/projects/filamentwinder)
-
-  
 
 [Bike Frame](https://sites.google.com/site/tayloredwardpeterson/projects/bicycleframe)
 
 [![Bicycle Frame](https://drive.google.com/uc?id=0B0Jfms0twG8ENnhnZU9KWE92enM)](https://sites.google.com/site/tayloredwardpeterson/projects/bicycleframe)
-
-  
-
- | 
-  
-
- |
-
-  
-

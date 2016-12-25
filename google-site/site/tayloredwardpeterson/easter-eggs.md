@@ -1,25 +1,8 @@
-
-
 ---
 layout: page
 title: Easter Eggs
 ---
 
-  
+Congrats on finding this page! 
 
-| 
-  
-
- | 
- Congrats on finding this page! 
-  
-
- Unfortunately, there's nothing interesting here right now. Try again later! 
-
- | 
-  
-
- |
-
-  
-
+Unfortunately, there's nothing interesting here right now. Try again later! 

@@ -1,78 +1,46 @@
-
-
 ---
 layout: page
 title: Tutorials
 ---
 
-  
+Software 
 
-| 
+    [Solidworks](https://sites.google.com/site/tayloredwardpeterson/tutorials/solidworks)  
 
-  
+   [Backup Scheme](https://sites.google.com/site/tayloredwardpeterson/tutorials/backupscheme)  
 
- Software 
+   [Latex](https://sites.google.com/site/tayloredwardpeterson/tutorials/latex)
 
- Â Â Â [Solidworks](https://sites.google.com/site/tayloredwardpeterson/tutorials/solidworks)  
-
-Â Â Â [Backup Scheme](https://sites.google.com/site/tayloredwardpeterson/tutorials/backupscheme)  
-
-Â Â Â [Latex](https://sites.google.com/site/tayloredwardpeterson/tutorials/latex)
-
-Â Â Â [Matlab](https://sites.google.com/site/tayloredwardpeterson/tutorials/matlab)
-
-  
+   [Matlab](https://sites.google.com/site/tayloredwardpeterson/tutorials/matlab)
 
 Firmware
 
-Â Â [Encoders](https://sites.google.com/site/raintomudd/tutorials/rotaryencoders)  
-
-  
+  [Encoders](https://sites.google.com/site/raintomudd/tutorials/rotaryencoders)  
 
 Electronics
 
- Â Â [Resistor Decoding](https://sites.google.com/site/tayloredwardpeterson/tutorials/resistordecoding)
+   [Resistor Decoding](https://sites.google.com/site/tayloredwardpeterson/tutorials/resistordecoding)
 
-  
+Hardware 
 
- Hardware 
+   [Bolt Strength](https://sites.google.com/site/tayloredwardpeterson/tutorials/bolts)  
 
- Â Â [Bolt Strength](https://sites.google.com/site/tayloredwardpeterson/tutorials/bolts)  
+   [Countersinks](https://sites.google.com/site/raintomudd/tutorials/countersinks)
 
-Â Â Â [Countersinks](https://sites.google.com/site/raintomudd/tutorials/countersinks)
+Google 
 
-  
+   [Sites](https://sites.google.com/site/tayloredwardpeterson/tutorials/googlesites)
 
- Google 
+   [Search](https://sites.google.com/site/tayloredwardpeterson/tutorials/googleadvancedsearchoperators)  
 
-Â Â Â [Sites](https://sites.google.com/site/tayloredwardpeterson/tutorials/googlesites)
+  [Chrome](https://sites.google.com/site/tayloredwardpeterson/tutorials/googlechrome)
 
- Â Â [Search](https://sites.google.com/site/tayloredwardpeterson/tutorials/googleadvancedsearchoperators)  
-
-Â Â [Chrome](https://sites.google.com/site/tayloredwardpeterson/tutorials/googlechrome)
-
-  
-
- | 
-
-When I'm working on projects, I'll often run into problems which I don't know how to solve.Â 
+When I'm working on projects, I'll often run into problems which I don't know how to solve. 
 
 [![https://docs.google.com/file/d/0B0Jfms0twG8EclYtSnJEdEV1dzA/edit?usp=drive_web](https://drive.google.com/uc?id=0B0Jfms0twG8EclYtSnJEdEV1dzA)](https://docs.google.com/file/d/0B0Jfms0twG8EclYtSnJEdEV1dzA/edit?usp=drive_web)
 
-Ever had a moment like this during a project? Me too.Â 
+Ever had a moment like this during a project? Me too. 
 
-  
+Often, I am able to find good tutorials on the subject. In other cases, however, the resources I need are scattered about the web, the tutorials available are not very good, or I simply can't find anything. In these cases, I end up having to figure out things for myself. To help others (and myself!) avoid struggling with these topics in the future, I'll be posting tutorials for future reference. 
 
-Often, I am able to find good tutorials on the subject. In other cases, however, the resources I need are scattered about the web, the tutorials available are not very good, or I simply can't find anything. In these cases, I end up having to figure out things for myself. To help others (and myself!) avoid struggling with these topics in the future, I'll be posting tutorials for future reference.Â 
-
-  
-
- Some (alright, many) of these are references to Sean Messenger's site, as we will not be doing duplicate tutorials.Â 
-
- | 
-  
-
- |
-
-  
-
+Some (alright, many) of these are references to Sean Messenger's site, as we will not be doing duplicate tutorials. 

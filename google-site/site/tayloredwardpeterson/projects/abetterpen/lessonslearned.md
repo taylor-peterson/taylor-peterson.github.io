@@ -1,110 +1,58 @@
-
-
 ---
 layout: page
 title: Lessons Learned
 ---
 
-| 
-  
-
 [Overview](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen)
-
-  
 
 [Problem Statement](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/problemstatement)
 
-  
-
 [Preliminary Design](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/preliminarydesign)
 
-  
+Component Selection 
 
- Component Selection 
+    [Ink Cartridge](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/cartridgeselection)
 
- Â Â Â [Ink Cartridge](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/cartridgeselection)
-
- Â Â Â [Clip Screw](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/clipscrewselection)
-
-  
+    [Clip Screw](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/clipscrewselection)
 
 [Prototyping](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/alphaprototype)
 
-  
+"Mass" Production 
 
- "Mass" Production 
+   Bill of Materials 
 
- Â Â Bill of Materials 
+   [Process](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/process)
 
- Â Â [Process](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/process)
+   Drawings/Parts 
 
- Â Â Drawings/Parts 
-
- Â Â [Lessons Learned](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/lessonslearned)
-
- | 
+   [Lessons Learned](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/lessonslearned)
 
 Body
 
-  
-
- Doing the 4th axis work before the internal work probably would have cut down on the number of burrs. Might also have resulted in problems with chip removal though. 
-
-  
+Doing the 4th axis work before the internal work probably would have cut down on the number of burrs. Might also have resulted in problems with chip removal though. 
 
 **Knurling**
-  
 
- Knurling works best when the decimal component of the value given by TxD<sub>p</sub>/D<sub>r</sub> is within 0.15 of 0. Note that T is the number of teeth on the roller, D<sub>p</sub> is the diameter of the part, and D<sub>r</sub> is the diameter of the roller.Â 
+Knurling works best when the decimal component of the value given by TxD<sub>p</sub>/D<sub>r</sub> is within 0.15 of 0. Note that T is the number of teeth on the roller, D<sub>p</sub> is the diameter of the part, and D<sub>r</sub> is the diameter of the roller. 
 
-  
-
- If we had access to a CNC machine that could knurl, we would have done the knurling operation before adding the taper to the tip. This is because the first 1/4" of knurls are usually not very pretty, so changing the order of operations would allow us to cut that part off.Â 
-
-  
+If we had access to a CNC machine that could knurl, we would have done the knurling operation before adding the taper to the tip. This is because the first 1/4" of knurls are usually not very pretty, so changing the order of operations would allow us to cut that part off. 
 
 Carriages
 
-  
-
- Deburring the threaded hole on the carriages was time-consuming (particularly for the aluminum). This could have been alleviated by adding a dip in the profile of the carriage. Doing so would recess the threaded hole and obviate this problem.Â 
-
-  
+Deburring the threaded hole on the carriages was time-consuming (particularly for the aluminum). This could have been alleviated by adding a dip in the profile of the carriage. Doing so would recess the threaded hole and obviate this problem. 
 
 Clip
 
-  
-
- If we were to make more pens in the future, we would probably make the clips using a forming process as doing so would greatly reduce the time per part.Â 
-
-  
+If we were to make more pens in the future, we would probably make the clips using a forming process as doing so would greatly reduce the time per part. 
 
 G-2 Inserts
 
-  
-
- The grey-tipped G-2 inserts have slightly larger geometry than the blue-tipped ones. We were able to accommodate this by filing down the OD of the tip of the grey-tipped inserts.Â 
-
-  
+The grey-tipped G-2 inserts have slightly larger geometry than the blue-tipped ones. We were able to accommodate this by filing down the OD of the tip of the grey-tipped inserts. 
 
 Tip
 
-  
-
- For some reason, we had difficulties drilling the tip hole in the center of the part.Â 
-
-  
+For some reason, we had difficulties drilling the tip hole in the center of the part. 
 
 Material Choice
 
-  
-
- Brass is much more difficult to machine than aluminum, but looks much nicer as a carriage. In addition, the brass tended to flake off instead of producing large chips which meant it was much simpler to deburr.Â 
-
- | 
-  
-
- |
-
-  
-
+Brass is much more difficult to machine than aluminum, but looks much nicer as a carriage. In addition, the brass tended to flake off instead of producing large chips which meant it was much simpler to deburr. 

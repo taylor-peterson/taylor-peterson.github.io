@@ -1,56 +1,35 @@
-
-
 ---
 layout: page
 title: Prototyping
 ---
 
-  
-
-| 
-  
-
 [Overview](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen)
-
-  
 
 [Problem Statement](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/problemstatement)
 
-  
-
 [Preliminary Design](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/preliminarydesign)
 
-  
+Component Selection 
 
- Component Selection 
+    [Ink Cartridge](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/cartridgeselection)
 
- Â Â Â [Ink Cartridge](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/cartridgeselection)
-
- Â Â Â [Clip Screw](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/clipscrewselection)
-
-  
+    [Clip Screw](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/clipscrewselection)
 
 [Prototyping](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/alphaprototype)
 
-  
+"Mass" Production 
 
- "Mass" Production 
+   Bill of Materials 
 
- Â Â Bill of Materials 
+   [Process](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/process)
 
- Â Â [Process](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/process)
+   Drawings/Parts 
 
- Â Â Drawings/Parts 
+   [Lessons Learned](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/lessonslearned)
 
- Â Â [Lessons Learned](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/lessonslearned)
+Generating CAD from preliminary design 
 
- | 
-
- Generating CAD from preliminary design 
-
-  
-
- Body 
+Body 
 
 - CAD model of Pilot G2 0.38 
 - This dictated internal diameter to be nominal G2 diameter plus 0.001 
@@ -60,12 +39,12 @@ title: Prototyping
 - Outer wall thickness was set by the tap to be major diameter (0.3125") plus 0.05" - 0.365" (I can't add apparently...) 
 - The slot heights were set to barely recess the pen tip, slightly over-extend the pen tip, and fully extend the pen tip
 - The width was arbitrarily chosen 
-- A countersink was put on the slot edgeÂ 
+- A countersink was put on the slot edge 
 - Angles on slot were chosen for appearance 
 - The clip bolts were separated by 0.25" arbitrarily 
 - Clip holder was given its shape because it looked nice 
 
- Tip 
+Tip 
 
 - Tip angle was chosen because it was snubby but still looked good 
 - Tip hole set by the ink cartridge 
@@ -73,27 +52,23 @@ title: Prototyping
 - Length stolen from Rotring 600 
 - 0.25" of threads kind of arbitrary 
 
- Clip 
+Clip 
 
 - Thickness guessed 
 - Profile eyeballed 
 
- Bolt Carriage 
+Bolt Carriage 
 
 - Length set by slot 
 - OD set by the ID of the body 
 - Threads set by the width of the slot 
 
- Bolt 
+Bolt 
 
 - Shaft set by width of slot 
 - Ball made to look pretty 
 
-  
-
 * * *
-
-  
 
 Changes from preliminary design once experimentation began
 
@@ -128,11 +103,3 @@ Changes from preliminary design once experimentation began
 - Slot difference -\> 60 degrees (70 too much visually and for hex)
 - Using precision ground 3/8" stock saves a ton of time on the body
 - Using the Haas machining center produces better results (particularly for the interior) due to greater rigidity
-
- | 
-  
-
- |
-
-  
-

@@ -1,79 +1,48 @@
-
-
 ---
 layout: page
 title: Problem Statement
 ---
 
-  
-
-| 
-  
-
 [Overview](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen)
-
-  
 
 [Problem Statement](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/problemstatement)
 
-  
-
 [Preliminary Design](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/preliminarydesign)
 
-  
+Component Selection 
 
- Component Selection 
+    [Ink Cartridge](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/cartridgeselection)
 
- Â Â Â [Ink Cartridge](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/cartridgeselection)
-
- Â Â Â [Clip Screw](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/clipscrewselection)
-
-  
+    [Clip Screw](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/clipscrewselection)
 
 [Prototyping](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/alphaprototype)
 
-  
+"Mass" Production 
 
- "Mass" Production 
+   Bill of Materials 
 
- Â Â Bill of Materials 
+   [Process](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/process)
 
- Â Â [Process](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/process)
+   Drawings/Parts 
 
- Â Â Drawings/Parts 
-
- Â Â [Lessons Learned](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/lessonslearned)
-
- | 
+   [Lessons Learned](https://sites.google.com/site/tayloredwardpeterson/projects/abetterpen/lessonslearned)
 
 ## Background
 
-Personally, I do not like having caps on my pens (too easy to lose, two hand operation, etc.) and as such want a retractable pen. That said, traditional "clicky" pens annoy me with their noise. The only way I could think of making a quiet retractable pen (that could still be worked with one hand) was with a "bolt action" mechanism. Turns out that this design has been up and coming with the Kickstarter crowd and several versions have been made previously. For example, theÂ [TiBolt](http://jumpstartcity.com/events/tibolt-the-american-made-titanium-bolt-action-pen/c),Â [The Bolt](http://fromthepencup.wordpress.com/2013/03/19/the-bolt-a-machined-bolt-action-pen/), and theÂ [maxmadco retractable pen](http://maxmadco.com/products/retractable-pen/).Â 
+Personally, I do not like having caps on my pens (too easy to lose, two hand operation, etc.) and as such want a retractable pen. That said, traditional "clicky" pens annoy me with their noise. The only way I could think of making a quiet retractable pen (that could still be worked with one hand) was with a "bolt action" mechanism. Turns out that this design has been up and coming with the Kickstarter crowd and several versions have been made previously. For example, the [TiBolt](http://jumpstartcity.com/events/tibolt-the-american-made-titanium-bolt-action-pen/c), [The Bolt](http://fromthepencup.wordpress.com/2013/03/19/the-bolt-a-machined-bolt-action-pen/), and the [maxmadco retractable pen](http://maxmadco.com/products/retractable-pen/). 
 
-  
+However, all of these are rather expensive (\>$50) and might not be work well with the cartridges I prefer. As well, I am not a fan of certain characteristics of each: the TiBolt's finish looks too rough and the pen itself seems a little bulky (see [this](http://edcforums.com/threads/the-tibolt-compared-to-the-embassy-pen-and-now-the-madmaxco.105871/)comparison of it to the maxmadco); the Bolt's mechanism seems like it would be finicky/not very satisfying; the bolt on the maxmadco looks a little tacky given that it's just a screw. 
 
-However, all of these are rather expensive (\>$50) and might not be work well with the cartridges I prefer. As well, I am not a fan of certain characteristics of each: the TiBolt's finish looks too rough and the pen itself seems a little bulky (seeÂ [thisÂ](http://edcforums.com/threads/the-tibolt-compared-to-the-embassy-pen-and-now-the-madmaxco.105871/)comparison of it to the maxmadco); the Bolt's mechanism seems like it would be finicky/not very satisfying; the bolt on the maxmadco looks a little tacky given that it's just a screw.Â 
-
-  
-
-Given those concerns, I think it would be preferable to design my own pen. Of the three, I like the maxmadco one the best (I'd probably buy it and replace the bolt with something similar to the TiBolt if it cost about a third of what it did).Â 
+Given those concerns, I think it would be preferable to design my own pen. Of the three, I like the maxmadco one the best (I'd probably buy it and replace the bolt with something similar to the TiBolt if it cost about a third of what it did). 
 
 ## Design Requirements
 
-- All components save the ink cartridgeÂ _mustÂ_ be made of metal
-- The penÂ _mustÂ_ have a retractable design 
-- The penÂ _mustÂ_ have a functional clip 
-- The ink cartridgeÂ _mustÂ_ be replaceableÂ 
-- All componentsÂ _mustÂ_ be manufacturable using HMC facilities 
+- All components save the ink cartridge _must_ be made of metal
+- The pen _must_ have a retractable design 
+- The pen _must_ have a functional clip 
+- The ink cartridge _must_ be replaceable 
+- All components _must_ be manufacturable using HMC facilities 
 
-- The penÂ _shouldÂ_ be approximately 5 inches in length 
-- The penÂ _shouldÂ_ weigh approximately 1.5 ounces 
-- The user of the penÂ _shouldÂ_ be awestruck 
-
- | 
-  
-
- |
-
-  
-
+- The pen _should_ be approximately 5 inches in length 
+- The pen _should_ weigh approximately 1.5 ounces 
+- The user of the pen _should_ be awestruck 
