@@ -39,7 +39,12 @@
                     {% assign node_url_parts = node.url | split: '/' %}
                     {% assign node_url_parts_size = node_url_parts | size %}
                     {% if node_url_parts_size == 2 %}
-                      <li class="active"><a href="{{ node.url }}">{{node.title}}</a></li>
+                      {% if page.url contains node.url %}
+                          {% assign class_type = "current" %}
+                      {% else %}
+                          {% assign class_type = "active" %}
+                      {% endif %}
+                      <li class={{ class_type }}><a href="{{ node.url }}">{{node.title}}</a></li>
                     {% endif %}
                   {% endfor %}
                 </ul>
