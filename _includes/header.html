@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<!-- Set shared metadata and import shared dependencies -->
 <head>
     <meta charset="UTF-8">
     <title>{{ site.name }}</title>
@@ -15,6 +16,11 @@
 
 <body>
 
+<!-- Note the obvious future TODO of writing a plugin to do this work to improve the runtime
+     from O(n^2) to O(n) by doing this computation once instead of per-page. -->
+
+<!-- Primary Navigation Bar -->
+<!-- Will automatically include all top-level directories and files in _pages -->
 <div class="container-fluid">
     <div class="row-fluid">
         <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
@@ -33,8 +39,7 @@
                     {% assign node_url_parts = node.url | split: '/' %}
                     {% assign node_url_parts_size = node_url_parts | size %}
                     {% if node_url_parts_size == 2 %}
-                      {% assign filename = node_url_parts | last %}
-                      <li class="active"><a href="{{ node.url }}/">{{node.title}}</a></li>
+                      <li class="active"><a href="{{ node.url }}">{{node.title}}</a></li>
                     {% endif %}
                   {% endfor %}
                 </ul>
@@ -50,32 +55,36 @@
     {% assign base_url       = page.url  | remove: rm %}
 {% endif %}
 
-<!-- Sibling-pages -->
 <ul>
-{% for node in site.pages %}
-  {% if node.url contains base_url %}
-    {% assign node_url_parts = node.url | split: '/' %}
-    {% assign node_url_parts_size = node_url_parts | size %}
-    {% assign filename = node_url_parts | last %}
-    {% if url_parts_size == node_url_parts_size and filename != 'index.html' %}
-      <li><a href='{{node.url}}'>{{node.title}}</a></li>
-    {% endif %}
-  {% endif %}
-{% endfor %}
-</ul>
-
-<!-- Sibling-pages -->
-<ul>
-{% for node in site.pages %}
-  {% if node.url contains base_url %}
-    {% assign node_url_parts = node.url | split: '/' %}
-    {% assign node_url_parts_size = node_url_parts | size %}
-    {% assign filename = node_url_parts | last %}
-    {% if url_parts_size == node_url_parts_size and filename != 'index.html' %}
-      <li><a href='{{node.url}}'>{{node.title}}</a></li>
-    {% endif %}
-  {% endif %}
-{% endfor %}
+{% if page.path contains 'index' %}
+    <!-- If we've got a sub index file, we should display bread-crumbs and sub-pages. -->
+    {% for node in site.pages %}
+      {% assign node_url_parts = node.url | split: '/' %}
+      {% assign node_url_parts_size = node_url_parts | size %}
+      {% assign sub_node_url_parts_size = node_url_parts_size | minus:1 %}
+      {% assign parent_size = node_url_parts_size | plus:1 %}
+      {% if page.url contains node.url and url_parts_size == parent_size %}
+        <li><a href='{{node.url}}'>&lt&lt {{node.title}}</a></li>
+      {% elsif node.url contains page.url and url_parts_size == sub_node_url_parts_size %}
+        <li><a href='{{node.url}}'>&gt&gt {{node.title}}</a></li>
+      {% elsif node.url == page.url %}
+        <li><a href='{{node.url}}'>== {{node.title}}</a></li>
+      {% endif %}
+    {% endfor %}
+{%else %}
+    <!-- If we've got a normal page, we should display bread-crumbs and sibling-pages. -->
+    {% for node in site.pages %}
+      {% if node.url contains base_url %}
+        {% assign node_url_parts = node.url | split: '/' %}
+        {% assign node_url_parts_size = node_url_parts | size %}
+        {% if url_parts_size == node_url_parts_size %}
+          <li><a href='{{node.url}}'>== {{node.title}}</a></li>
+        {% elsif node.url == base_url %}
+          <li><a href='{{node.url}}'>&lt&lt {{node.title}}</a></li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+{% endif %}
 </ul>
 
 <hr>
