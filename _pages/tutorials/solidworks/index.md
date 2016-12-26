@@ -3,12 +3,6 @@ layout: default
 title: Solidworks
 ---
 
-[Solidworks Main](/tutorials/solidworks)
-
-[Templates/Properties](https://sites.google.com/site/raintomudd/tutorials/solidworks-templatesandproperties)
-
-[Naming/Versioning](/tutorials/solidworks/namingversioning)
-
 More content will be added soon, but for now, here are some quick thoughts:
 
 - Naming should generally not have the version in it. That goes as a property
