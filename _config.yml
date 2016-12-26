@@ -1,4 +1,8 @@
 name: Taylor Peterson
 description: Taylor Peterson's personal site
 
-exclude: ['README.md', 'LICENSE']
+exclude:
+  - 'README.md'
+  - 'LICENSE'
+
+permalink: pretty

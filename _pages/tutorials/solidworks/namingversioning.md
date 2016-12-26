@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Naming/Versioning
-permalink: tutorials/solidworks/namingversioning
 ---
 
 When it comes to naming and version control for SolidWorks files, I generally agree with [Sean's recommendations](https://sites.google.com/site/raintomudd/tutorials/solidworks-namingandversions). 
