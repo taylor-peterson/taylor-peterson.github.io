@@ -2,4 +2,3 @@ name: Taylor Peterson
 description: Taylor Peterson's personal site
 
 exclude: ['README.md', 'LICENSE']
-include: ['_pages']
