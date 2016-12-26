@@ -3,30 +3,6 @@ layout: default
 title: Problem Statement
 ---
 
-[Overview](/projects/abetterpen)
-
-[Problem Statement](/projects/abetterpen/problemstatement)
-
-[Preliminary Design](/projects/abetterpen/preliminarydesign)
-
-Component Selection 
-
-    [Ink Cartridge](/projects/abetterpen/cartridgeselection)
-
-    [Clip Screw](/projects/abetterpen/clipscrewselection)
-
-[Prototyping](/projects/abetterpen/alphaprototype)
-
-"Mass" Production 
-
-   Bill of Materials 
-
-   [Process](/projects/abetterpen/process)
-
-   Drawings/Parts 
-
-   [Lessons Learned](/projects/abetterpen/lessonslearned)
-
 ## Background
 
 Personally, I do not like having caps on my pens (too easy to lose, two hand operation, etc.) and as such want a retractable pen. That said, traditional "clicky" pens annoy me with their noise. The only way I could think of making a quiet retractable pen (that could still be worked with one hand) was with a "bolt action" mechanism. Turns out that this design has been up and coming with the Kickstarter crowd and several versions have been made previously. For example, the [TiBolt](http://jumpstartcity.com/events/tibolt-the-american-made-titanium-bolt-action-pen/c), [The Bolt](http://fromthepencup.wordpress.com/2013/03/19/the-bolt-a-machined-bolt-action-pen/), and the [maxmadco retractable pen](http://maxmadco.com/products/retractable-pen/). 

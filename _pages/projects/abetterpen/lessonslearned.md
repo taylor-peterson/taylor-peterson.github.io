@@ -3,30 +3,6 @@ layout: default
 title: Lessons Learned
 ---
 
-[Overview](/projects/abetterpen)
-
-[Problem Statement](/projects/abetterpen/problemstatement)
-
-[Preliminary Design](/projects/abetterpen/preliminarydesign)
-
-Component Selection 
-
-    [Ink Cartridge](/projects/abetterpen/cartridgeselection)
-
-    [Clip Screw](/projects/abetterpen/clipscrewselection)
-
-[Prototyping](/projects/abetterpen/alphaprototype)
-
-"Mass" Production 
-
-   Bill of Materials 
-
-   [Process](/projects/abetterpen/process)
-
-   Drawings/Parts 
-
-   [Lessons Learned](/projects/abetterpen/lessonslearned)
-
 Body
 
 Doing the 4th axis work before the internal work probably would have cut down on the number of burrs. Might also have resulted in problems with chip removal though. 

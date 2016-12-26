@@ -3,31 +3,7 @@ layout: default
 title: Clip Screw Selection
 ---
 
-[Overview](/projects/abetterpen)
-
-[Problem Statement](/projects/abetterpen/problemstatement)
-
-[Preliminary Design](/projects/abetterpen/preliminarydesign)
-
-Component Selection 
-
-    [Ink Cartridge](/projects/abetterpen/cartridgeselection)
-
-    [Clip Screw](/projects/abetterpen/clipscrewselection)
-
-[Prototyping](/projects/abetterpen/alphaprototype)
-
-"Mass" Production 
-
-   Bill of Materials 
-
-   [Process](/projects/abetterpen/process)
-
-   Drawings/Parts 
-
-   [Lessons Learned](/projects/abetterpen/lessonslearned)
-
-## There are two main concerns regarding screws for the clip. The first is functionality (i.e. it needs to keep the clip attached to the pen and not strip out the threads in the pen body). The second is appearance. We ended up selecting [these screws](http://www.mcmaster.com/#92703a203/=q0xugi) for the reasons explained below.
+There are two main concerns regarding screws for the clip. The first is functionality (i.e. it needs to keep the clip attached to the pen and not strip out the threads in the pen body). The second is appearance. We ended up selecting [these screws](http://www.mcmaster.com/#92703a203/=q0xugi) for the reasons explained below.
 
 ## Functionality
 

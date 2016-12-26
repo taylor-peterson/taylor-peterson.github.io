@@ -29,53 +29,53 @@
               </div>
               <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                  <!--Taken from http://candland.net/2016/02/16/migrate-google-sites-to-jekyll.html -->
-                  <ul>
-                  {% for nav in site.data['nav'] %}
-                    {% if nav.page.title %}
-                    <li class="{% if page.url contains nav.page.url %}active{% endif %}">
-                      <a class="page-link" href="{{ nav.page.url | prepend: site.baseurl }}">{{ nav.page.title }}</a>
-                      {% if page.url contains nav.page.dir %}
-                        <ul>
-                        {% for sub in nav.sub %}
-                          {% if sub.title %}
-                            {% capture sub_dir %}{{ sub.url | remove: ".html" | append: "/" }}{% endcapture %}
-                            <li class="{% if page.url contains sub.url or page.dir ==  sub_dir %}active{% endif %}">
-                              <a class="page-link" href="{{ sub.url | prepend: site.baseurl }}">{{ sub.title }}</a>
-                            </li>
-                          {% endif %}
-                        {% endfor %}
-                        </ul>
-                      {% endif %}
-                    </li>
+                  {% for node in site.pages %}
+                    {% assign node_url_parts = node.url | split: '/' %}
+                    {% assign node_url_parts_size = node_url_parts | size %}
+                    {% if node_url_parts_size == 2 %}
+                      {% assign filename = node_url_parts | last %}
+                      <li class="active"><a href="{{ node.url }}/">{{node.title}}</a></li>
                     {% endif %}
                   {% endfor %}
-                  </ul>
                 </ul>
               </div>
         </div>
     </div>
 </div>
 
+{% assign url_parts      = page.url  | split: '/' %}
+{% assign url_parts_size = url_parts | size %}
+{% if url_parts_size > 0 %}
+    {% assign rm             = url_parts | last %}
+    {% assign base_url       = page.url  | remove: rm %}
+{% endif %}
+
+<!-- Sibling-pages -->
 <ul>
-{% for nav in site.data['nav'] %}
-  <li class="active"><a href="{{ nav.page.url }}/">{{ nav.page.title}}</a></li>
-  {% if nav.page.title %}
-  <li class="{% if page.url contains nav.page.url %}active{% endif %}">
-    <a class="page-link" href="{{ nav.page.url | prepend: site.baseurl }}">{{ nav.page.title }}</a>
-    {% if page.url contains nav.page.dir %}
-      <ul>
-      {% for sub in nav.sub %}
-        {% if sub.title %}
-          {% capture sub_dir %}{{ sub.url | remove: ".html" | append: "/" }}{% endcapture %}
-          <li class="{% if page.url contains sub.url or page.dir ==  sub_dir %}active{% endif %}">
-            <a class="page-link" href="{{ sub.url | prepend: site.baseurl }}">{{ sub.title }}</a>
-          </li>
-        {% endif %}
-      {% endfor %}
-      </ul>
+{% for node in site.pages %}
+  {% if node.url contains base_url %}
+    {% assign node_url_parts = node.url | split: '/' %}
+    {% assign node_url_parts_size = node_url_parts | size %}
+    {% assign filename = node_url_parts | last %}
+    {% if url_parts_size == node_url_parts_size and filename != 'index.html' %}
+      <li><a href='{{node.url}}'>{{node.title}}</a></li>
     {% endif %}
-  </li>
   {% endif %}
 {% endfor %}
 </ul>
+
+<!-- Sibling-pages -->
+<ul>
+{% for node in site.pages %}
+  {% if node.url contains base_url %}
+    {% assign node_url_parts = node.url | split: '/' %}
+    {% assign node_url_parts_size = node_url_parts | size %}
+    {% assign filename = node_url_parts | last %}
+    {% if url_parts_size == node_url_parts_size and filename != 'index.html' %}
+      <li><a href='{{node.url}}'>{{node.title}}</a></li>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</ul>
+
+<hr>

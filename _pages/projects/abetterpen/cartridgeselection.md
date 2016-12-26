@@ -3,30 +3,6 @@ layout: default
 title: Ink Cartridge Selection
 ---
 
-[Overview](/projects/abetterpen)
-
-[Problem Statement](/projects/abetterpen/problemstatement)
-
-[Preliminary Design](/projects/abetterpen/preliminarydesign)
-
-Component Selection 
-
-    [Ink Cartridge](/projects/abetterpen/cartridgeselection)
-
-    [Clip Screw](/projects/abetterpen/clipscrewselection)
-
-[Prototyping](/projects/abetterpen/alphaprototype)
-
-"Mass" Production 
-
-   Bill of Materials 
-
-   [Process](/projects/abetterpen/process)
-
-   Drawings/Parts 
-
-   [Lessons Learned](/projects/abetterpen/lessonslearned)
-
 Before starting this project, I knew that I wanted a pen nib smaller than 0.5 mm. Anything 0.5 mm or larger is too large (especially when you are trying to put subscripts on subscripts). However, I didn't know how much smaller I wanted to go or which refill worked best for me. To that end, I went to the Internet for advice. The majority of pen users (especially pen fanatics) prefer larger nibs (usually because they write smoother). There were a few pen forums ([The Pen Addict](http://penaddict.com/), [Gourmet Pens](http://www.gourmetpens.com/), and [No Pen Intended](http://nopenintended.wordpress.com/)) which advocated pens with smaller nibs, but they were not as definitive as I would have liked. So off to [JetPens](http://www.jetpens.com/)I went.
 
 I started off by looking for every pen with a nib smaller than 0.5 mm and readily available refills, focusing exclusively on black (non-erasable) ink. The first round of pens I got were:
