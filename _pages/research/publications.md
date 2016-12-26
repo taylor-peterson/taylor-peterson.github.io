@@ -3,27 +3,7 @@ layout: default
 title: Publications
 ---
 
-[Introduction](/research)
-
-[Overview](/research/overview)
-
-Software 
-
-    [Framework](/research/software)  
-
-    [Tracking System](/research/tracking-system)  
-
-   [AUV Cooperation](/research/auv-cooperation)  
-
-[Hardware](/research/hardware)
-
-[Field Testing](/research/field-testing)
-
-[Publications](/research/publications)
-
-[Misc. Photos](/research/misc)
-
-Recent Work 
+## Recent Work
 
 - Using Time of Flight Distance Calculations for Tagged Shark Localization [[PDF](http://newwww.hmc.edu/lair/publications/2013/lin_UUST_2013.pdf)] (I co-authored this paper)
 - Using Time of Flight Distance Calculations for Tagged Shark Localization with an AUV **(I co-authored this paper)**

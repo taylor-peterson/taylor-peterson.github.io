@@ -3,38 +3,33 @@ layout: default
 title: Blog
 ---
 
-Software 
+There are many topics which intrigue me and which I research extensively. In
+the past, I have unfortunately done a poor job of keeping track of this. Then,
+a few months later I often end up redoing the whole process. It's quite silly.
 
-  [Text Editors & IDEs](/blog/texteditorsides)
+What I often do currently is just bookmark these things and (usually) put the
+bookmarks into folders (hopefully with useful names on everything). While this
+method allows me to hold onto references, it lacks context.
 
-   [Keyboard Layout](/blog/keyboardlayouts)
+An improved method I'll sometimes use is putting the links into a text file
+with little blurbs about what they contain and what they means. But I rarely
+link these blurbs together or explain how they affect me or what they mean to
+me. This method leaves out the story.
 
-   [Management Tool](/blog/projecttaskgoalhabittimemanagementtoolsearch)  
+I've found that using the website not only enables me to add in the story, but
+encourages me to. Even though the basic tools are the same (links, text, file
+structure, etc.) are the same in both, the website has a (potential) audience
+larger than one. Which means that I _know_ that a single link and maybe a few
+words isn't going to cut it.
 
-[Misc.](/blog/misc)
+As such, this website will serve as a medium for telling stories about the
+things that interest me for my future reference and yours.
 
-    [Workplace Org.](/blog/workplaceorganization)
+In many cases, these topics are related to a certain technical problem or
+project I'm working on, in which case they can readily find a home on this
+website under [Projects](/projects) or [Tutorials](/tutorials). For everything
+else, there is this blog.
 
-    [Design Principles](/blog/designprinciples) 
-
-   [Programming Prin.](/blog/programmingprinciples)
-
-   [My Tools](/blog/mytools)
-
-   [Gripes On Hacking](/blog/gripes)
-
-   [Quotes](/blog/quotes)
-
-There are many topics which intrigue me and which I research extensively. In the past, I have unfortunately done a poor job of keeping track of this. Then, a few months later I often end up redoing the whole process. It's quite silly. 
-
-What I often do currently is just bookmark these things and (usually) put the bookmarks into folders (hopefully with useful names on everything). While this method allows me to hold onto references, it lacks context. 
-
-An improved method I'll sometimes use is putting the links into a text file with little blurbs about what they contain and what they means. But I rarely link these blurbs together or explain how they affect me or what they mean to me. This method leaves out the story. 
-
-I've found that using the website not only enables me to add in the story, but encourages me to. Even though the basic tools are the same (links, text, file structure, etc.) are the same in both, the website has a (potential) audience larger than one. Which means that I _know_ that a single link and maybe a few words isn't going to cut it. 
-
-As such, this website will serve as a medium for telling stories about the things that interest me for my future reference and yours. 
-
-In many cases, these topics are related to a certain technical problem or project I'm working on, in which case they can readily find a home on this website under [Projects](/projects) or [Tutorials](/tutorials). For everything else, there is this blog. 
-
-Another nice thing about this site is that the links between all of my activities become a lot clearer than when everything sits placidly in its own file. The big picture becomes a lot clearer. 
+Another nice thing about this site is that the links between all of my
+activities become a lot clearer than when everything sits placidly in its own
+file. The big picture becomes a lot clearer.
