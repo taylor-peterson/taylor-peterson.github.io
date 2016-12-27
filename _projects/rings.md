@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Rings
+image_path: https://drive.google.com/uc?id=0B0Jfms0twG8EV0l1Yi1jWFBFS1U
 ---
 
 I recently experimented with making some rings on the lathe as gifts. The

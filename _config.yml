@@ -8,5 +8,5 @@ exclude:
 permalink: /:categories/:title
 
 collections:
-  testcollection:
+  projects:
     output: true
