@@ -1,6 +1,9 @@
 ---
 layout: default
 title: HMC Machine Shop
+status: completed
+dates: 2012/01-2015/05
+image_path: https://docs.google.com/uc?id=0B0Jfms0twG8ERkJiOTB4dWlXSGc&export=download
 ---
 
 I started working as a proctor in Harvey Mudd's machine shop the spring of my

@@ -8,8 +8,8 @@ title: Projects
     {% assign project_url_parts_size = project_url_parts | size %}
     {% if project_url_parts_size == 3 or project.path contains 'index' %}
 # [{{ project.title }}]({{ project.url }})
-{{ project.date }}
+{{ project.dates }}
 
-[![{{ project.title }}]({{ project.image_path }})]({{ project.url }})
+[![{{ project.title }}]({{ project.image_path }}){:height="200px"}]({{ project.url }})
     {% endif %}
 {% endfor %}

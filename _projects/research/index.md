@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Research
+status: completed
+dates: ??
+image_path: https://drive.google.com/uc?id=0B0Jfms0twG8EUVhHemJwVFE1VFU
 ---
 
 I began working with Professor Christopher Clark in the [Lab for Autonomous and
@@ -12,7 +15,7 @@ several individual topics. When I joined, the Shark Tracking team consisted of
 two other Mudd students (Yukun Lin and Hannah Kastein) and me. Since then,
 Richard Piersall and Rowan Zellers have joined the team while Hannah has left.
 
-[![https://docs.google.com/file/d/0B0Jfms0twG8EQUtDS3k0b2x5UHM/edit?usp=drive_web](https://drive.google.com/uc?id=0B0Jfms0twG8EQUtDS3k0b2x5UHM)](https://docs.google.com/file/d/0B0Jfms0twG8EQUtDS3k0b2x5UHM/edit?usp=drive_web)
+[![https://docs.google.com/file/d/0B0Jfms0twG8EQUtDS3k0b2x5UHM/edit?usp=drive_web](https://drive.google.com/uc?id=0B0Jfms0twG8EQUtDS3k0b2x5UHM){:width="100%"}](https://docs.google.com/file/d/0B0Jfms0twG8EQUtDS3k0b2x5UHM/edit?usp=drive_web)
 
 The LAIR team during the summer of 2013. Prof Clark is at the far right.
 

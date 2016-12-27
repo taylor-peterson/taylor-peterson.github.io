@@ -1,6 +1,10 @@
 ---
 layout: default
 title: Qualcomm Clinic
+status: complete
+dates: 2014/09-2015/05
+image_path: https://docs.google.com/uc?id=0B0Jfms0twG8ENDg1U1dvaDRzaEk
+
 ---
 
 During my senior year, I was a member of a four person HMC CS clinic team

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rings
-date: December 2014
+dates: 2014/12
 image_path: https://drive.google.com/uc?id=0B0Jfms0twG8EV0l1Yi1jWFBFS1U
 ---
 

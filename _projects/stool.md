@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Stool
+status: planned
+dates: N/A
+image_path: https://docs.google.com/uc?id=0B0Jfms0twG8EMkVDVm9IaUZOb0k
 ---
 
 In the future, I may find myself in need of a good stool (or two, or three).

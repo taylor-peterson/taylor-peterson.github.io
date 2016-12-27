@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Filament Winder
+status: deferred
+dates: 2013/11/06-2013/11/27
+image_path: https://drive.google.com/uc?id=0B0Jfms0twG8Ea19pSWFIcGRYdFk
 ---
 
 Reason for abandoning:
