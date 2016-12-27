@@ -11,8 +11,6 @@ collections:
   testcollection:
     output: true
 
-source:       _source
-
 data_dir:     _assets/data
 includes_dir: _assets/includes
 layouts_dir:  _assets/layouts
