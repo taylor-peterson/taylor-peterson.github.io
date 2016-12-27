@@ -10,8 +10,3 @@ permalink: /:categories/:title
 collections:
   testcollection:
     output: true
-
-data_dir:     _assets/data
-includes_dir: _assets/includes
-layouts_dir:  _assets/layouts
-plugins_dir:  _assets/plugins
