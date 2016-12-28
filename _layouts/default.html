@@ -4,7 +4,26 @@
 {% include header.html %}
 
 <div class="container container-left">
-    <div class="row">
+    <div class="row" id="test" data-spy="scroll" data-target=".bs-docs-sidebar" data-offset="60">
+        <nav class="col-md-3 bs-docs-sidebar">
+            <ul id="sidebar" class="nav nav-stacked fixed">
+                <li> <a href="#background">Background</a> </li>
+                <li>
+                    <a href="#design-requirements">Design Requirements</a>
+                    <ul class="nav nav-stacked">
+                        <li><a href="#background-1">Background</a></li>
+                        <li><a href="#design-requirements-1">Design Requirements</a></li>
+                    </ul>
+                <li>
+                    <a href="#foo">Foo</a>
+                    <ul class="nav nav-stacked">
+                        <li><a href="#bar">Bar</a></li>
+                        <li><a href="#dfoo-1">Foo</a></li>
+                    </ul>
+                </li>
+                </li>
+            </ul>
+        </nav>
         <div class="col-md-9">
             {{ content }}
         </div>
