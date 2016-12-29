@@ -17,3 +17,4 @@ title: Jekyll
 # Useful Tutorials
 * Scrollspy: http://www.codingeverything.com/2014/02/BootstrapDocsSideBar.html
 * https://thinkshout.com/blog/2014/12/creating-dynamic-menus-in-jekyll/
+* https://www.sylvaindurand.org/compressing-liquid-generated-html/
