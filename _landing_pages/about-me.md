@@ -4,8 +4,6 @@ title: About Me
 permalink: /about_me/
 ---
 
-[Resume](https://drive.google.com/file/d/0B0Jfms0twG8EX0ZBQVJpVWJVVWM/view?usp=sharing)
-
 [LinkedIn](http://www.linkedin.com/pub/taylor-peterson/80/b19/aa8/)
 
 Email:
@@ -34,7 +32,7 @@ out swimming, cycling, or running. Well, that or asleep.
 Enough about me, check out the rest of the site to see what I've been up to
 lately.
 
-[![https://docs.google.com/file/d/0B0Jfms0twG8EVG5GQ1BDbV93Rmc/edit?usp=drive_web](https://drive.google.com/uc?id=0B0Jfms0twG8EVG5GQ1BDbV93Rmc)](https://docs.google.com/file/d/0B0Jfms0twG8EVG5GQ1BDbV93Rmc/edit?usp=drive_web)
+![https://docs.google.com/file/d/0B0Jfms0twG8EVG5GQ1BDbV93Rmc/edit?usp=drive_web](https://drive.google.com/uc?id=0B0Jfms0twG8EVG5GQ1BDbV93Rmc){:width="100%"}
 
 That's me wondering why you're still on this page and not looking at the rest
 of the site.

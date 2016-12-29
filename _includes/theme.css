@@ -72,6 +72,14 @@ h1[id], h2[id], h3[id], h4[id], h5[id], h6[id], dt[id] {
     font-size: 12px;
 }
 
+/* doubly-nested links */
+.bs-docs-sidebar .nav .nav .nav>li>a {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 40px;
+    font-size: 11px;
+}
+
 /* active & hover links */
 .bs-docs-sidebar .nav>.active>a,
 .bs-docs-sidebar .nav>li>a:hover,
