@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About Me
+permalink: /about_me/
 ---
 
 [Resume](https://drive.google.com/file/d/0B0Jfms0twG8EX0ZBQVJpVWJVVWM/view?usp=sharing)
@@ -37,3 +38,13 @@ lately.
 
 That's me wondering why you're still on this page and not looking at the rest
 of the site.
+
+
+{% for page in site.about_me %}
+    {% assign page_url_parts = page.url | split: '/' %}
+    {% assign page_url_parts_size = page_url_parts | size %}
+    {% if page_url_parts_size == 3 or page.path contains 'index' %}
+# [{{ page.title }}]({{ page.url }})
+[![{{ page.title }}]({{ page.image_path }}){:height="200px"}]({{ page.url }})
+    {% endif %}
+{% endfor %}

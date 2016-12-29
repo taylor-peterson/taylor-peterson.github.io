@@ -8,6 +8,8 @@ exclude:
 permalink: /:categories/:title
 
 collections:
+  about_me:
+    output: true
   knowledge_base:
     output: true
   landing_pages:
