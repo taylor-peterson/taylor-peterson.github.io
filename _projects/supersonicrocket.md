@@ -1,8 +1,27 @@
 ---
 layout: default
-title: Misc. Photos
+title: Supersonic Rocket
+status: completed
+dates: 2013/02/26-2013/05/06
+image_path: https://drive.google.com/uc?id=0B0Jfms0twG8EZVAyOGliTzlKMTA
 ---
 
+# Overview
+
+E80: Experimental Engineering, is one of the key classes in the Engineering
+curriculum at Mudd. It is a sophomore-level, lab-based course that covers a
+variety of engineering disciplines. The final project for this course is an
+open-ended, experimental project in which students are asked to use what they
+have learned to design an experiment, take data, and analyze some aspect of
+rocket flight. My team decided to go above and beyond the standard project and
+make a supersonic rocket.
+
+A full write-up of the project (including links to all of our reports and
+proposals) can be found [over on Sean's
+site](https://sites.google.com/site/raintomudd/projects/supersonicrocket).
+
+
+# Misc. Photos
 [
 [![https://docs.google.com/file/d/0B0Jfms0twG8EeEJjdFVWbUdiMWc/edit?usp=drive_web](https://drive.google.com/uc?id=0B0Jfms0twG8EeEJjdFVWbUdiMWc)](https://docs.google.com/file/d/0B0Jfms0twG8EeEJjdFVWbUdiMWc/edit?usp=drive_web)
 ](/system/errors/NodeNotFound?suri=wuid:gx:38f90f61b9db4b97&attredirects=0)
