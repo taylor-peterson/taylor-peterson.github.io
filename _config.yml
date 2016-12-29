@@ -8,9 +8,11 @@ exclude:
 permalink: /:categories/:title
 
 collections:
+  knowledge_base:
+    output: true
   landing_pages:
     output: true
-  projects:
+  musings:
     output: true
-  tutorials:
+  projects:
     output: true

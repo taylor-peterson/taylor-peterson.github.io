@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Tutorials
-permalink: /tutorials/
+title: Knowledge Base
+permalink: /knowledge_base/
 ---
 
 When I'm working on projects, I'll often run into problems which I don't know
@@ -19,11 +19,11 @@ avoid struggling with these topics in the future, I'll be posting tutorials for
 future reference.
 
 
-{% for tutorial in site.tutorials %}
-    {% assign tutorial_url_parts = tutorial.url | split: '/' %}
-    {% assign tutorial_url_parts_size = tutorial_url_parts | size %}
-    {% if tutorial_url_parts_size == 3 or tutorial.path contains 'index' %}
-# [{{ tutorial.title }}]({{ tutorial.url }})
-[![{{ tutorial.title }}]({{ tutorial.image_path }}){:height="200px"}]({{ tutorial.url }})
+{% for article in site.knowledge_base %}
+    {% assign article_url_parts = article.url | split: '/' %}
+    {% assign article_url_parts_size = article_url_parts | size %}
+    {% if article_url_parts_size == 3 or article.path contains 'index' %}
+# [{{ article.title }}]({{ article.url }})
+[![{{ article.title }}]({{ article.image_path }}){:height="200px"}]({{ article.url }})
     {% endif %}
 {% endfor %}
