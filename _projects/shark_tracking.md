@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Shark Tracking
 status: completed
 dates: ??

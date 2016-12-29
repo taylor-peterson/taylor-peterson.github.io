@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Supersonic Rocket
 status: completed
 dates: 2013/02/26-2013/05/06

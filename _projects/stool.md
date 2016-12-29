@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Stool
 status: planned
 dates: N/A

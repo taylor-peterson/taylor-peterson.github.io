@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Qualcomm Clinic
 status: complete
 dates: 2014/09-2015/05

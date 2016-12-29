@@ -1,5 +1,4 @@
 ---
-layout: default
 title: HMC Machine Shop
 status: completed
 dates: 2012/01-2015/05

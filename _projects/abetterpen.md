@@ -1,5 +1,4 @@
 ---
-layout: default
 title: A Better Pen
 status: completed
 dates: 2013/12/23-2015/05/?

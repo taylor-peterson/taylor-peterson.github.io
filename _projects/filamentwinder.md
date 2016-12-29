@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Filament Winder
 status: deferred
 dates: 2013/11/06-2013/11/27

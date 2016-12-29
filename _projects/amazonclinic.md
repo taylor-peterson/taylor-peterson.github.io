@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Amazon Clinic
 status: completed
 dates: 2013/09/03-2013/12/20

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Knowledge Base
 permalink: /knowledge_base/
 ---

@@ -1,12 +1,3 @@
-name: Taylor Peterson
-description: Taylor Peterson's personal site
-
-exclude:
-  - 'README.md'
-  - 'LICENSE'
-
-permalink: /:categories/:title
-
 collections:
   about_me:
     output: true
@@ -19,5 +10,23 @@ collections:
   projects:
     output: true
 
-layouts_dir:  _assets/_layouts
+defaults:
+  - scope:
+      path: "" # All files in the project
+    values:
+      layout: "default"
+
+description: "Taylor Peterson's personal site"
+
+exclude:
+  - 'CNAME'
+  - 'docker-compose.yml'
+  - 'LICENSE'
+  - 'README.md'
+
 includes_dir: _assets/_includes
+layouts_dir:  _assets/_layouts
+
+name: "Taylor Peterson"
+
+permalink: /:categories/:title

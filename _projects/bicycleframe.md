@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Bicycle Frame
 status: deferred
 dates: N/A
