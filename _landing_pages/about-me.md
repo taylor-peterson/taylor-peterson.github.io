@@ -1,6 +1,5 @@
 ---
 title: About Me
-permalink: /about_me/
 ---
 
 [LinkedIn](http://www.linkedin.com/pub/taylor-peterson/80/b19/aa8/)

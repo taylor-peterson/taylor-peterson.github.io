@@ -1,6 +1,5 @@
 ---
 title: Knowledge Base
-permalink: /knowledge_base/
 ---
 
 When I'm working on projects, I'll often run into problems which I don't know

@@ -1,6 +1,5 @@
 ---
 title: Musings
-permalink: /musings/
 ---
 
 {% for musing in site.musings %}

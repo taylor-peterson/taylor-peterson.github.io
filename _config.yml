@@ -5,6 +5,7 @@ collections:
     output: true
   landing_pages:
     output: true
+    permalink: /:name/
   musings:
     output: true
   projects:
