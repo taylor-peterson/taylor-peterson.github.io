@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tutorials
+permalink: /tutorials/
 ---
 
 When I'm working on projects, I'll often run into problems which I don't know
@@ -17,5 +18,12 @@ end up having to figure out things for myself. To help others (and myself!)
 avoid struggling with these topics in the future, I'll be posting tutorials for
 future reference.
 
-Some (alright, many) of these are references to Sean Messenger's site, as we
-will not be doing duplicate tutorials.
+
+{% for tutorial in site.tutorials %}
+    {% assign tutorial_url_parts = tutorial.url | split: '/' %}
+    {% assign tutorial_url_parts_size = tutorial_url_parts | size %}
+    {% if tutorial_url_parts_size == 3 or tutorial.path contains 'index' %}
+# [{{ tutorial.title }}]({{ tutorial.url }})
+[![{{ tutorial.title }}]({{ tutorial.image_path }}){:height="200px"}]({{ tutorial.url }})
+    {% endif %}
+{% endfor %}
