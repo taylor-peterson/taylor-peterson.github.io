@@ -3,6 +3,8 @@ layout: default
 title: Solidworks
 ---
 
+# Overview
+
 More content will be added soon, but for now, here are some quick thoughts:
 
 - Naming should generally not have the version in it. That goes as a property
@@ -19,3 +21,18 @@ More content will be added soon, but for now, here are some quick thoughts:
 - When possible, use a revolved boss/base to start off the part
 - Define features relative to a set origin. This makes future edits easier and
   is what you will want to show in drawings.
+
+# Naming/Versioning
+
+When it comes to naming and version control for SolidWorks files, I generally
+agree with [Sean's
+recommendations](https://sites.google.com/site/raintomudd/tutorials/solidworks-namingandversions).
+
+That said, I differ in how I assign version numbers. Instead of starting at
+1.0, then increasing by 0.1 until there is a major change or the revision is at
+x.9, I use [Semantic Versioning](http://semver.org/) guidelines. Note that if a
+part has already been machined, it should probably already be at 1.0.0+.
+
+I find that handling version numbers in this way gives you a better idea of
+what has changed from revision to revision, whether or not different parts will
+be compatible, and where things are in production.
