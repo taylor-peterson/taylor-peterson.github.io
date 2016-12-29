@@ -13,12 +13,6 @@ h1[id], h2[id], h3[id], h4[id], h5[id], h6[id], dt[id] {
     margin-top: -60px;
 }
 
-.row {
-    position: relative;
-    height: 100%;
-    overflow-y: scroll;
-}
-
 .copyright {
     color: #ffffff;
 }
