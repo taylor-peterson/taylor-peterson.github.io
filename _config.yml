@@ -18,3 +18,6 @@ collections:
     output: true
   projects:
     output: true
+
+layouts_dir:  _assets/_layouts
+includes_dir: _assets/_includes
