@@ -17,3 +17,6 @@ title: Jekyll
 * Scrollspy: http://www.codingeverything.com/2014/02/BootstrapDocsSideBar.html
 * https://thinkshout.com/blog/2014/12/creating-dynamic-menus-in-jekyll/
 * https://www.sylvaindurand.org/compressing-liquid-generated-html/
+* find icons: https://www.iconfinder.com
+* using svg: https://css-tricks.com/using-svg/
+* scaling svg: https://css-tricks.com/scale-svg/
