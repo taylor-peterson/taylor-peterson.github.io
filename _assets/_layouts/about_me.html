@@ -1,20 +1,8 @@
 {% include header.html %}
-{% include toc.html %}
 
 <div class="container container-left">
-    <div class="row row-eq-height">
-        <div class="col-sm-3">
-            <div class="row">
-                <div class="col-sm-12">
-                    {% for page in site.about_me %}
-                        <a href={{ page.url}}>
-                            <h1>{{ page.title }}</h1>
-                        </a>
-                    {% endfor %}
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-9 text-justify">
+    <div class="row">
+        <div class="col-xs-9 col-sm-offset-3 text-justify">
             {{ content }}
         </div>
     </div>
