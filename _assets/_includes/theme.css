@@ -111,9 +111,15 @@ h1[id], h2[id], h3[id], h4[id], h5[id], h6[id], dt[id] {
     position: fixed;
 }
 
-.center-block {
-    display: block;
-    float: none;
-    margin-left: auto;
-    margin-right: auto;
+.svg-icon {
+    width: 25px;
+    height: 25px;
+}
+
+.icon {
+    fill: #999;
+}
+
+.icon:hover {
+    fill: #fff;
 }
