@@ -17,10 +17,10 @@ two other Mudd students (Yukun Lin and Hannah Kastein) and me. Since then,
 Richard Piersall and Rowan Zellers have joined the team while Hannah has left.
 
 {% include image.html
-id="0B0Jfms0twG8EQUtDS3k0b2x5UHM"
-width="615px"
-height="410px"
-caption="The LAIR team during the summer of 2013. Prof Clark is at the far right."
+    id="0B0Jfms0twG8EQUtDS3k0b2x5UHM"
+    width="615px"
+    height="410px"
+    caption="The LAIR team during the summer of 2013. Prof Clark is at the far right."
 %}
 
 This project is described briefly on the [LAIR
@@ -62,9 +62,10 @@ sharks and other fish. This data is an important tool for maintaining fish
 populations and their habitat. In other words, by figuring out where sharks go
 and why, we can better protect them and the marine ecosystem.
 
-[![https://docs.google.com/file/d/0B0Jfms0twG8EczUtY1pCU2RBWFE/edit?usp=drive_web](https://drive.google.com/uc?id=0B0Jfms0twG8EczUtY1pCU2RBWFE)](https://docs.google.com/file/d/0B0Jfms0twG8EczUtY1pCU2RBWFE/edit?usp=drive_web)
-
-One of the Leopard Sharks we tagged at Catalina Island.
+{% include image.html
+    id="0B0Jfms0twG8EczUtY1pCU2RBWFE"
+    caption="One of the Leopard Sharks we tagged at Catalina Island."
+%}
 
 Unfortunately, the current methods of tracking are not sufficient: GPS tracking
 tags do not transmit underwater; stationary arrays of sensors only work if the
@@ -86,9 +87,10 @@ robot, that has a rear propeller for propulsion and four fins to control pitch
 and yaw. The sensor payload includes a 3-DOF (degree of freedom) compass,
 wireless antenna, GPS receiver, and Doppler Velocity Logger.
 
-[![https://docs.google.com/file/d/0B0Jfms0twG8EUVhHemJwVFE1VFU/edit?usp=drive_web](https://drive.google.com/uc?id=0B0Jfms0twG8EUVhHemJwVFE1VFU)](https://docs.google.com/file/d/0B0Jfms0twG8EUVhHemJwVFE1VFU/edit?usp=drive_web)
-
-This project uses two OceanServer Iver2 AUVs
+{% include image.html
+    id="0B0Jfms0twG8EUVhHemJwVFE1VFU"
+    caption="This project uses two OceanServer Iver2 AUVs."
+%}
 
 The AUVs communicate with each other, as well with a top-side modem, via a
 Woods Hole Oceanographic Institution Micro-Modem and externally mounted
@@ -96,9 +98,12 @@ transducers. Each AUV is outfitted with a Lotek MAP600RT receiver and an
 associated stero-hydrophone set, designed to listen for acoustic signals at a
 frequency of 76 kHz.
 
-[![http://cdn.abclocal.go.com/images/kabc/cms_exf_2007/news/local/los_angeles/8823616_600x338.jpg](http://cdn.abclocal.go.com/images/kabc/cms_exf_2007/news/local/los_angeles/8823616_600x338.jpg)](http://cdn.abclocal.go.com/images/kabc/cms_exf_2007/news/local/los_angeles/8823616_600x338.jpg)
-
-Each robot is outfitted with a full sensor payload.
+{% include image.html
+    url="http://cdn.abclocal.go.com/images/kabc/cms_exf_2007/news/local/los_angeles/8823616_600x338.jpg"
+    width="600px"
+    height="338px"
+    caption="Each robot is outfitted with a full sensor payload."
+%}
 
 These allow the vehicles to receive transmissions from Lotek MM-M-16-50-PM
 acoustic tags, which send a transmission at 76.8 kHz every two seconds.
@@ -117,12 +122,15 @@ time of detection, signal strength, pressure, and presence of motion. This
 information and the separation of the hydrophones allows the angle between the
 AUV and the acoustic tag to be calculated.
 
-[![](https://drive.google.com/uc?id=0B0Jfms0twG8EWEFucF96V1Y1OHM)](https://docs.google.com/file/d/0B0Jfms0twG8EWEFucF96V1Y1OHM/edit?usp=drive_web)
 
-To localize on a shark, we take readings from a pair of hydrophones (h1 and
-h2). From this data, we can calculate the relative angle between the Iver's
-heading and the shark's position (alpha). However, there is ambiguity as to
-whether the shark is to the right or left of the robot.
+{% include image.html
+    id="0B0Jfms0twG8EWEFucF96V1Y1OHM"
+    caption="To localize on a shark, we take readings from a pair of
+             hydrophones (h1 and h2). From this data, we can calculate the relative
+             angle between the Iver's heading and the shark's position (alpha). However,
+             there is ambiguity as to whether the shark is to the right or left of the
+             robot."
+%}
 
 There are several challenges associated with state estimation given the sensor
 measurements. As indicated above, a shark located at to the left of the robot
@@ -143,17 +151,18 @@ that corresponds to how likely it is.
 Initially, particle states are assigned randomly within a bounded area centered
 on the robot.
 
-[![](https://drive.google.com/uc?id=0B0Jfms0twG8Ecl9IN0FKOUd6QTA)](https://docs.google.com/file/d/0B0Jfms0twG8Ecl9IN0FKOUd6QTA/edit?usp=drive_web)
-
-The position of the shark is initially estimated by a random set of particles.
+{% include image.html
+    id="0B0Jfms0twG8Ecl9IN0FKOUd6QTA"
+    caption="The position of the shark is initially estimated by a random set of particles."
+%}
 
 At each time step afterwards, particles are propagated according to a
 stochastic motion model that simulates shark motion.
 
-[![](https://drive.google.com/uc?id=0B0Jfms0twG8ENVhmWk9OMFZLazA)](https://docs.google.com/file/d/0B0Jfms0twG8ENVhmWk9OMFZLazA/edit?usp=drive_web)
-
-The positions are updated at each time step according to a motion model of the
-shark.
+{% include image.html
+    id="0B0Jfms0twG8ENVhmWk9OMFZLazA"
+    caption="The positions are updated at each time step according to a motion model of the shark."
+%}
 
 Afterwards, the weights of the particles are recalculated based on sensor
 measurements.
