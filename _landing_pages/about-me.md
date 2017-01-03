@@ -20,7 +20,11 @@ flying on the trapeze rig, eating, sleeping, ...
 Enough about me, check out the rest of the site to see what I've been up to
 lately.
 
-![https://docs.google.com/file/d/0B0Jfms0twG8EVG5GQ1BDbV93Rmc/edit?usp=drive_web](https://drive.google.com/uc?id=0B0Jfms0twG8EVG5GQ1BDbV93Rmc){:width="500px" height="432px"}
-
-That's me wondering why you're still on this page and not looking at the rest
-of the site.
+{% include image.html
+    id="0B0Jfms0twG8EVG5GQ1BDbV93Rmc"
+    alt="Taylor looking sassy with his laptop."
+    width="500px"
+    height="432px"
+    caption="That's me wondering why you're still on this page and not looking
+             at the rest of the site."
+%}

@@ -16,9 +16,12 @@ several individual topics. When I joined, the Shark Tracking team consisted of
 two other Mudd students (Yukun Lin and Hannah Kastein) and me. Since then,
 Richard Piersall and Rowan Zellers have joined the team while Hannah has left.
 
-[![https://docs.google.com/file/d/0B0Jfms0twG8EQUtDS3k0b2x5UHM/edit?usp=drive_web](https://drive.google.com/uc?id=0B0Jfms0twG8EQUtDS3k0b2x5UHM){:width="100%"}](https://docs.google.com/file/d/0B0Jfms0twG8EQUtDS3k0b2x5UHM/edit?usp=drive_web)
-
-The LAIR team during the summer of 2013. Prof Clark is at the far right.
+{% include image.html
+id="0B0Jfms0twG8EQUtDS3k0b2x5UHM"
+width="615px"
+height="410px"
+caption="The LAIR team during the summer of 2013. Prof Clark is at the far right."
+%}
 
 This project is described briefly on the [LAIR
 Projects](http://newwww.hmc.edu/lair/projects.html) page (click on_AUV Shark
@@ -100,10 +103,14 @@ Each robot is outfitted with a full sensor payload.
 These allow the vehicles to receive transmissions from Lotek MM-M-16-50-PM
 acoustic tags, which send a transmission at 76.8 kHz every two seconds.
 
-[![](https://drive.google.com/uc?id=0B0Jfms0twG8EMHl3cXVnRDh5cU0)](https://docs.google.com/file/d/0B0Jfms0twG8EMHl3cXVnRDh5cU0/edit?usp=drive_web)
-
+<figure>
+<img src="https://drive.google.com/uc?id=0B0Jfms0twG8EMHl3cXVnRDh5cU0">
+<figcaption>
 The sharks are tagged with these Lotek tags; the hydrophones on the AUVs are
 configured to pick up the acoustic transmissions from the tags.
+</figcaption>
+</figure>
+
 
 The Lotek MapHost software associated with the receiver records the tag ID,
 time of detection, signal strength, pressure, and presence of motion. This
@@ -332,10 +339,13 @@ The old system made use of foam padding and hose clamps to hold a single-piece
 PVC frame to the Ivers. The hydrophones and their cables were then taped to the
 frame.
 
-[![http://cdn.abclocal.go.com/images/kabc/cms_exf_2007/news/local/los_angeles/1209est-robot-headon-gwen-goodmanlowe-07.jpg](http://cdn.abclocal.go.com/images/kabc/cms_exf_2007/news/local/los_angeles/1209est-robot-headon-gwen-goodmanlowe-07.jpg)](http://cdn.abclocal.go.com/images/kabc/cms_exf_2007/news/local/los_angeles/1209est-robot-headon-gwen-goodmanlowe-07.jpg)
-
-In the past, the hydrophones were attached to the AUV using a lot of tape,
-foam, strap clamps, and a single-piece PVC frame.
+{% include image.html
+    url="http://cdn.abclocal.go.com/images/kabc/cms_exf_2007/news/local/los_angeles/1209est-robot-headon-gwen-goodmanlowe-07.jpg"
+    width="551px"
+    height="730px"
+    caption="In the past, the hydrophones were attached to the AUV using a lot of tape,
+             foam, strap clamps, and a single-piece PVC frame."
+%}
 
 This system was bulky (both to transport and hydrodynamically), took forever to
 set up or tear down, and looked terrible.

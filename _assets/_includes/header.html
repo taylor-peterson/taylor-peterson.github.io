@@ -15,6 +15,9 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 
+    <!-- Lazy load plugin -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js"></script>
+
     <!-- Custom styling -->
     <style type="text/css">{% include theme.css %}</style>
 
@@ -23,6 +26,16 @@
 </head>
 
 <body data-spy="scroll" data-target=".sidebar" data-offset="60">
+
+<!-- https://www.sitepoint.com/lazy-loading-images-not-really-annoy-users/ -->
+<script type="text/javascript">
+$(document).ready(function() {
+    $("img.lazy").lazyload({
+        threshold: 500,
+        effect: "fadeIn"
+    });
+});
+</script>
 
 <!-- Primary Navigation Bar -->
 <!-- Will automatically include all files in _landing_pages -->

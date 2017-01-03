@@ -1,0 +1,15 @@
+<!-- https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html -->
+<figure>
+    <img class="lazy"
+        src = "https://drive.google.com/uc?id=0B0Jfms0twG8EQjBfSHZNZUpLNzQ"
+        {% if include.id %} data-original="https://drive.google.com/uc?id={{ include.id }}"
+        {% elsif include.url %} data-original="{{ include.url }}"
+        {% endif %}
+        {% if include.alt %} alt="{{ include.alt }}" {% endif %}
+        {% if include.width %} width="{{ include.width }}" {% endif %}
+        {% if include.height %} height="{{ include.height }}" {% endif %}
+    >
+    <figcaption>
+        {{ include.caption }}
+    </figcaption>
+</figure>
