@@ -26,16 +26,16 @@ machine shop.
 I was promoted to Head Shop Proctor after the end of my junior year and
 continued working to improve the shop with Sean Messenger, Paul Stovall, Prof
 Gokli, Prof Spjut, and our AHSPs - Richard Piersall and Suzy Kim. One of the
-biggest things I was focusing on was institutionalizing our changes so that the
-shop continues to improve.
+biggest things I focused on was institutionalizing our changes so that the
+shop would continue to improve.
 
-This process of improving the machine shop has been and ongoing project that I
+Improving the machine shop is an ongoing project that I
 was heavily involved in. To see what got the project started, check out [Shop
-Reform](/system/errors/NodeNotFound?suri=wuid:gx:3ea2f1d5c4b1aee6). For pretty
+Reform]({{ page.url}}#shop-reform). For pretty
 pictures and an idea of how much has changed once Sean and I got involved, take
 a look at [Shop
 Organization](https://sites.google.com/site/raintomudd/projects/machineshoporganization).
-[Prof Hammer](/system/errors/NodeNotFound?suri=wuid:gx:70a25e9834e7d6eb) is a
+[Prof Hammer]({{ page.url }}#prof-hammer) is a
 fun project Sean and I ran over the summer after our sophomore year to get
 professors of all departments in the machine shop.
 
@@ -59,8 +59,8 @@ to change the state of things. So, starting in the summer after our sophomore
 year, that's exactly what we started doing.
 
 In the following years, Sean and I actively pushed for shop reform
-(cleanliness, organization, and (most importantly) training for the shop
-proctors.
+(e.g. cleanliness, organization, and (most importantly) training for the shop
+proctors).
 
 One of our first steps was to improve the training of proctors. To that end, we
 [petitioned](https://docs.google.com/file/d/0B-N_AdkrDR3jdUY4Njc0WThwekk/edit?usp=sharing)
@@ -76,7 +76,7 @@ used that knowledge to help others, and worked on improving the training
 process.
 
 In addition to proctor training reforms, Sean and I started to tackle shop
-organization over the summers. After discussions with the faculty in charge of
+organization over the summer. After discussions with the faculty in charge of
 the shop, we took responsibility for implementing 5S methodologies in the shop
 to improve safety, better organize materials and equipment, and create a better
 working environment. For more information on this project and lots of pictures,
@@ -105,7 +105,7 @@ the shop. We also hosted a monthly proctor meeting. Whether it was us bribing
 them with pizza or the proctors just being more involved (more the latter than
 the former), we got the most feedback from these sessions.
 
-The shop is staying much cleaner than it has been in the past, and more and
+The shop has stayed much cleaner than it has been in the past, and more and
 more students are getting advanced training. All told, it looks like our
 changes have taken hold and we have finally started the ball rolling!
 
@@ -126,9 +126,9 @@ tools stand out. Mill station 2, as shown below is a great example of this.
 Another major change we made was to add cameras to each shop. After some setup
 (including routing a couple hundred feet of ethernet cable through the
 ceilings) we had a monitor setup in the main shop which allows proctors to
-monitor activity in the other two shops. While this by no means obviates the
+monitor activity in the other two shops. While this by no means obviated the
 need to physically go to the other shops to check on students, it's definitely
-better than in the best when proctors had no idea what was going on in the
+better than in the past when proctors had no idea what was going on in the
 other shops.
 
 After getting fed up with the old check in system (which consisted of manually
@@ -186,27 +186,47 @@ make a hammer in the future.
 
 # CNC Mill Collet Holder
 
-So Sean and I done goofed and ordered non-laser-cuttable material for a few shop projects (we were positive that polycarb was laser-cuttable but apparently it flames up if you try to cut it... oops). But it was substantially cheaper and more durable as opposed to the laser-cuttable stock, and shipping was rather expensive, so we decided to deal with it and machine the parts instead.
+Sean and I done goofed and ordered non-laser-cuttable material for a few shop
+projects (we were positive that polycarb was laser-cuttable but apparently it
+flames up if you try to cut it... oops). But it was substantially cheaper and
+more durable as opposed to the laser-cuttable stock, and shipping was rather
+expensive, so we decided to deal with it and machine the parts instead.
 
-See below for an image of one of the sketchy fixturing jobs we had to do (because we were out of double-sided tape and because I didn't cut the part oversize (because I didn't realize we were out of that tape... (one more set of parentheses to bug Sean (and a smilie to make things even better :) )))).
+See below for an image of one of the sketchy fixturing jobs we had to do
+(because we were out of double-sided tape and because I didn't cut the part
+oversize (because I didn't realize we were out of that tape... (one more set of
+parentheses to bug Sean (and a smilie to make things even better :) )))).
 
 {% include image.html
     path="projects/hmcmachineshop/sketchyFixturing.jpg"
     caption="Sketchy fixturing."
 %}
 
-Check out [this video](https://drive.google.com/file/d/0B0Jfms0twG8ENHVfRnJuUlVON00/view?usp=sharing) of the machining process. Gotta love the plastic everywhere - looks like it snowed in the shop. [This](https://drive.google.com/file/d/0B6O1HmBYn-U8bWhIMlVGRzJ1NVk/edit?usp=sharing)is a better video of the actual machining. We're running the mill at 5000 RPM (it's maximum speed) at 20 IPM.
+Check out [this
+video](https://drive.google.com/file/d/0B0Jfms0twG8ENHVfRnJuUlVON00/view?usp=sharing)
+of the machining process. Gotta love the plastic everywhere - looks like it
+snowed in the shop.
+[This](https://drive.google.com/file/d/0B6O1HmBYn-U8bWhIMlVGRzJ1NVk/edit?usp=sharing) is
+a better video of the actual machining. We're running the mill at 5000 RPM
+(it's maximum speed) at 20 IPM.
 
 {% include image.html
     path="projects/hmcmachineshop/plasticEverywhere.jpg"
     caption="Plastic everywhere..."
 %}
 
-Finally, below is a picture of the collet holder. You can't see it, but we rastered on labels for each size(rastering is using the laser-cutter to etch the surface - makes it look like frosted glass). If you ask me, the final product is way better than the previous system!
+Finally, below is a picture of the collet holder. You can't see it, but we
+rastered on labels for each size (rastering is using the laser-cutter to etch
+the surface - makes it look like frosted glass). If you ask me, the final
+product is way better than the previous system!
 
 {% include image.html
     path="projects/hmcmachineshop/oldVsNew.jpg"
     caption="The old (left) and the new (right). One looks a bit better if you ask me..."
 %}
 
-So in the future, we're going to be more careful about what material we order, and check to see if we have all the tools we need. I don't know if you can see it, but there are also two lines we accidentally made in the material by not deburring all of our sacrificial plates. So we gotta do that better too. Learning things! Yay!
+So in the future, we're going to be more careful about what material we order,
+and check to see if we have all the tools we need. I don't know if you can see
+it, but there are also two lines we accidentally made in the material by not
+deburring all of our sacrificial plates. So we gotta do that better too.
+Learning things! Yay!
