@@ -114,11 +114,13 @@ h1[id], h2[id], h3[id], h4[id], h5[id], h6[id], dt[id] {
 
 img {
     max-width: 100%;
+    height: auto;
     object-fit: contain;
 }
 
 /* https://stackoverflow.com/questions/10264463/can-a-figcaption-be-restricted-to-the-width-of-a-responsively-sized-image/13363408#13363408 */
 figure {
+    width: 100%;
     display: table;
     margin: auto;
 }

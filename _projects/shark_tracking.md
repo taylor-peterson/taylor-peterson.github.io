@@ -17,9 +17,7 @@ two other Mudd students (Yukun Lin and Hannah Kastein) and me. Since then,
 Richard Piersall and Rowan Zellers have joined the team while Hannah has left.
 
 {% include image.html
-    id="0B0Jfms0twG8EQUtDS3k0b2x5UHM"
-    width="615px"
-    height="410px"
+    path="projects/shark_tracking/lairBBQ.jpg"
     caption="The LAIR team during the summer of 2013. Prof Clark is at the far right."
 %}
 

@@ -2,12 +2,17 @@
 <figure>
     <img class="lazy"
         src = "https://drive.google.com/uc?id=0B0Jfms0twG8EQjBfSHZNZUpLNzQ"
-        {% if include.id %} data-original="https://drive.google.com/uc?id={{ include.id }}"
-        {% elsif include.url %} data-original="{{ include.url }}"
+        {% if include.id %}
+            data-original="https://drive.google.com/uc?id={{ include.id }}"
+            {% if include.width %} width="{{ include.width }}" {% endif %}
+            {% if include.height %} height="{{ include.height }}" {% endif %}
+        {% elsif include.url %}
+            data-original="{{ include.url }}"
+        {% elsif include.path %}
+            data-src="https://res.cloudinary.com/peterson/w_auto:100:400,c_scale,dpr_auto,f_auto,q_auto/{{ include.path }}"
+            class="cld-responsive"
         {% endif %}
         {% if include.alt %} alt="{{ include.alt }}" {% endif %}
-        {% if include.width %} width="{{ include.width }}" {% endif %}
-        {% if include.height %} height="{{ include.height }}" {% endif %}
     >
     <figcaption>
         {{ include.caption }}

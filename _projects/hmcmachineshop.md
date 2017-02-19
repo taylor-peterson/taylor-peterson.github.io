@@ -11,9 +11,10 @@ I started working as a proctor in Harvey Mudd's machine shop the spring of my
 sophomore year. In this role, I was responsible for supervising non-proctors
 and ensuring safe practices, cleanliness, and proper use of all machines.
 
-![](https://docs.google.com/uc?id=0B0Jfms0twG8ERkJiOTB4dWlXSGc&export=download){:width="100%"}
-
-Mudd's Machine Shop - I'm in the apron on the left.
+{% include image.html
+    path="projects/hmcmachineshop/fullShop.jpg"
+    caption="Mudd's machine shop - I'm in the apron on the left."
+%}
 
 In the summer after my sophomore year, I became an Associate Head Shop Proctor
 (i.e. a student assistant manager of the machine shop). In this capacity, I
@@ -117,9 +118,10 @@ thing we've done is arrange all work stations such that they now contain all
 tools used in common use such that everything is clearly visible and missing
 tools stand out. Mill station 2, as shown below is a great example of this.
 
-![](https://docs.google.com/uc?id=0B0Jfms0twG8EaERsaS1mYzJmRmM&export=download){:width="100%"}
-
-Mill station 2.
+{% include image.html
+    path="projects/hmcmachineshop/studentshop14-54.jpg"
+    caption="Mill station 2."
+%}
 
 Another major change we made was to add cameras to each shop. After some setup
 (including routing a couple hundred feet of ethernet cable through the
@@ -135,9 +137,10 @@ computer), I took lead creating an automated check-in system (joined by Richard
 Piersall and later on Alex Ozdemir). A mostly complete version of the system
 may be seen below.
 
-![](https://docs.google.com/uc?id=0B0Jfms0twG8EWE5HYzJLRDFSZTA&export=download){:width="100%"}
-
-The front of the check-in board showing several IDs in place.
+{% include image.html
+    path="projects/hmcmachineshop/check_in_front.jpg"
+    caption="The front of the check-in board showing several IDs in place."
+%}
 
 The system works by taking user input via buttons and a card swipe. This
 information is transmitted to a computer running a python script which
@@ -152,9 +155,10 @@ the back of the board below, there are a ton of pieces involved. In particular,
 getting the plastic panels to sit flat and properly adjusting all of the
 microswitches were major pains.
 
-![](https://docs.google.com/uc?id=0B0Jfms0twG8ESG9Nc3JiT2lfclU&export=download){:width="100%"}
-
-The back side of the check-in system.
+{% include image.html
+    path="projects/hmcmachineshop/check_in_back.jpg"
+    caption="The back side of the check-in system."
+%}
 
 # Prof Hammer
 
@@ -171,9 +175,10 @@ Turns out a lot of professors wanted to make hammers and quite a few shop
 proctors were willing to help out! So we went to the engineering department and
 pitched the idea. They approved, so off we went.
 
-![](https://drive.google.com/uc?id=0B0Jfms0twG8EVFRBTWpCMm9YMjQ){:width="100%"}
-
-The always amusing Professor Saeta and his completed hammer.
+{% include image.html
+    path="projects/hmcmachineshop/Saeta_Hammer_Gif.gif"
+    caption="The always amusing Professor Saeta and his completed hammer."
+%}
 
 In the end, only a handful of the original group (Profs Gokli, Saeta, and Yong)
 finished their hammers, but we hope that more professors will get a chance to
@@ -185,20 +190,23 @@ So Sean and I done goofed and ordered non-laser-cuttable material for a few shop
 
 See below for an image of one of the sketchy fixturing jobs we had to do (because we were out of double-sided tape and because I didn't cut the part oversize (because I didn't realize we were out of that tape... (one more set of parentheses to bug Sean (and a smilie to make things even better :) )))).
 
-![](https://docs.google.com/uc?id=0B0Jfms0twG8EanVqZkNZZGZGUlk&export=download){:width="100%"}
-
-Sketchy fixturing.
+{% include image.html
+    path="projects/hmcmachineshop/sketchyFixturing.jpg"
+    caption="Sketchy fixturing."
+%}
 
 Check out [this video](https://drive.google.com/file/d/0B0Jfms0twG8ENHVfRnJuUlVON00/view?usp=sharing) of the machining process. Gotta love the plastic everywhere - looks like it snowed in the shop. [This](https://drive.google.com/file/d/0B6O1HmBYn-U8bWhIMlVGRzJ1NVk/edit?usp=sharing)is a better video of the actual machining. We're running the mill at 5000 RPM (it's maximum speed) at 20 IPM.
 
-![](https://docs.google.com/uc?id=0B0Jfms0twG8EZGdncWVHZlZNTU0&export=download){:width="100%"}
-
-Plastic everywhere...
+{% include image.html
+    path="projects/hmcmachineshop/plasticEverywhere.jpg"
+    caption="Plastic everywhere..."
+%}
 
 Finally, below is a picture of the collet holder. You can't see it, but we rastered on labels for each size(rastering is using the laser-cutter to etch the surface - makes it look like frosted glass). If you ask me, the final product is way better than the previous system!
 
-![](https://docs.google.com/uc?id=0B0Jfms0twG8EOXJMWFBOUTA4Qkk&export=download){:width="100%"}
-
-The old (left) and the new (right). One looks a bit better if you ask me...
+{% include image.html
+    path="projects/hmcmachineshop/oldVsNew.jpg"
+    caption="The old (left) and the new (right). One looks a bit better if you ask me..."
+%}
 
 So in the future, we're going to be more careful about what material we order, and check to see if we have all the tools we need. I don't know if you can see it, but there are also two lines we accidentally made in the material by not deburring all of our sacrificial plates. So we gotta do that better too. Learning things! Yay!
