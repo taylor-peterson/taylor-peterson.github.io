@@ -8,13 +8,13 @@ image_path: https://drive.google.com/uc?id=0B0Jfms0twG8EUVhHemJwVFE1VFU
 # Introduction
 
 I began working with Professor Christopher Clark in the [Lab for Autonomous and
-Intelligent Robotics (LAIR)](http://newwww.hmc.edu/lair)in the fall of my
+Intelligent Robotics (LAIR)](http://www.hmc.edu/lair) in the fall of my
 sophomore year as a member of the Shark Tracking team.
 
-The LAIR has over 10 student researchers working on four major projects and
+The LAIR had over 10 student researchers working on four major projects and
 several individual topics. When I joined, the Shark Tracking team consisted of
-two other Mudd students (Yukun Lin and Hannah Kastein) and me. Since then,
-Richard Piersall and Rowan Zellers have joined the team while Hannah has left.
+two other Mudd students (Yukun Lin and Hannah Kastein) and me. During my tenure,
+Richard Piersall and Rowan Zellers joined the team while Hannah left.
 
 {% include image.html
     path="projects/shark_tracking/lairBBQ.jpg"
@@ -22,27 +22,22 @@ Richard Piersall and Rowan Zellers have joined the team while Hannah has left.
 %}
 
 This project is described briefly on the [LAIR
-Projects](http://newwww.hmc.edu/lair/projects.html) page (click on_AUV Shark
-Tracking_ on the left hand side). For an idea of where the project stood before
+Projects](http://www.hmc.edu/lair/projects.html) page (click on AUV Shark
+Tracking on the left hand side). For an idea of where the project stood before
 I joined on, check out [this abc7 News
 story](http://abclocal.go.com/kabc/story?section=news/local/los_angeles&id=8823629)
 about a test-deployment to Catalina Island the summer before I joined on. To
 see what was going on in the LAIR in the summer of 2013, check out
-this[post](http://newwww.hmc.edu/admission/2013/07/robots/) on the HMC
+this [post](http://www.hmc.edu/admission/2013/07/robots/) on the HMC
 admissions blog. One of our Catalina field deployments during the summer was
 written up by the [Orange County
 Register](https://drive.google.com/file/d/0B0Jfms0twG8EQ081X0NtTW5yWm8/edit?usp=sharing).
 
-For an more in-depth description of the project, check out the
-[Overview](/research/overview) page.
+My main job on the team was improving the control algorithms on the robots to
+enable them to more intelligently and efficiently follow the sharks. In
+addition to that, I worked to improve the hardware on the robots.
 
-My main job on the team is improving the control algorithms: we have software
-running on the robot telling it where to go to find the sharks - I'm
-responsible for making that software smarter and more efficient. In addition to
-that, I work to improve the hardware on the robots. For more information on
-each of these, check out the software and hardware pages respectively.
-
-One of the awesome things about this project is getting up close and personal
+One of the awesome things about this project was getting up close and personal
 with a lot of sharks. The below video is a compilation of some of the footage
 we captured at Catalina Island in the summer of 2013.
 
@@ -54,39 +49,37 @@ src="https://docs.google.com/file/d/0B0Jfms0twG8ENVUzczF4cTlHdmM/preview">
 
 The shark tracking project is a cooperative effort between the LAIR and the
 [CSU Longbeach Shark Lab](http://www.csulb.edu/labs/sharklab/). Professor Chris
-Lowe (I know, another Chris... it gets confusing sometimes), who heads up the
+Lowe (I know, another Chris...), who heads up the
 shark lab, is interested in collecting high-resolution positioning data on
 sharks and other fish. This data is an important tool for maintaining fish
 populations and their habitat. In other words, by figuring out where sharks go
 and why, we can better protect them and the marine ecosystem.
 
 {% include image.html
-    id="0B0Jfms0twG8EczUtY1pCU2RBWFE"
+    path="projects/shark_tracking/tagged_shark.jpg"
     caption="One of the Leopard Sharks we tagged at Catalina Island."
 %}
 
 Unfortunately, the current methods of tracking are not sufficient: GPS tracking
 tags do not transmit underwater; stationary arrays of sensors only work if the
 tagged animal is inside the boundaries of the array; and manual tracking is
-labor-intensive and expensive. As such, our team is developing a means of
+labor-intensive and expensive. As such, this project aims to develop a means of
 autonomous active tracking.
 
-The problem we are working on boils down to the following: given position data
-for the robot and a set of sensor measurements, determine the position of the
-shark.
+The problem boils down to the following: given position data for the robot and
+a set of sensor measurements, determine the position of the shark.
 
 Now, that might not sound too difficult at first, but let me assure you that it
-is. It is very difficult. This difficulty stems from the large number of
-variables we are working with and the technological limitations we are trying
-to overcome.
+is. It is very difficult. The problem involves a large number of variables and
+some significant technological limitations.
 
-We are using two OceanServer Iver2 AUVs. The Iver2 AUV is a torpedo-shaped
+This project makes use of two OceanServer Iver2 AUVs. The Iver2 AUV is a torpedo-shaped
 robot, that has a rear propeller for propulsion and four fins to control pitch
 and yaw. The sensor payload includes a 3-DOF (degree of freedom) compass,
 wireless antenna, GPS receiver, and Doppler Velocity Logger.
 
 {% include image.html
-    id="0B0Jfms0twG8EUVhHemJwVFE1VFU"
+    path="projects/shark_tracking/newRigCropped.jpg"
     caption="This project uses two OceanServer Iver2 AUVs."
 %}
 
@@ -97,32 +90,26 @@ associated stero-hydrophone set, designed to listen for acoustic signals at a
 frequency of 76 kHz.
 
 {% include image.html
-    url="http://cdn.abclocal.go.com/images/kabc/cms_exf_2007/news/local/los_angeles/8823616_600x338.jpg"
-    width="600px"
-    height="338px"
+    path="projects/shark_tracking/robot_payload.jpg"
     caption="Each robot is outfitted with a full sensor payload."
 %}
 
 These allow the vehicles to receive transmissions from Lotek MM-M-16-50-PM
 acoustic tags, which send a transmission at 76.8 kHz every two seconds.
 
-<figure>
-<img src="https://drive.google.com/uc?id=0B0Jfms0twG8EMHl3cXVnRDh5cU0">
-<figcaption>
-The sharks are tagged with these Lotek tags; the hydrophones on the AUVs are
-configured to pick up the acoustic transmissions from the tags.
-</figcaption>
-</figure>
-
+{% include image.html
+    path="projects/shark_tracking/lotekTag.png"
+    caption="The sharks are tagged with these Lotek tags; the hydrophones on the AUVs are
+             configured to pick up the acoustic transmissions from the tags."
+%}
 
 The Lotek MapHost software associated with the receiver records the tag ID,
 time of detection, signal strength, pressure, and presence of motion. This
 information and the separation of the hydrophones allows the angle between the
 AUV and the acoustic tag to be calculated.
 
-
 {% include image.html
-    id="0B0Jfms0twG8EWEFucF96V1Y1OHM"
+    path="projects/shark_tracking/problemOverview.png"
     caption="To localize on a shark, we take readings from a pair of
              hydrophones (h1 and h2). From this data, we can calculate the relative
              angle between the Iver's heading and the shark's position (alpha). However,
@@ -137,9 +124,9 @@ the rate. In addition, the stereo-hydrophone system generates an angle-to-tag
 measurement with a resolution of approximately 10 degrees. Furthermore, the
 rate at which an angle measurement is obtained is highly dependent on the
 acoustic environment; time intervals of up to 30 seconds without new
-measurements are common. Furthermore, even with distance measurements to the
-shark, the actual state of the shark cannot be determined from the signal data
-alone.
+measurements are common. To make things better, even with distance measurements
+to the shark, the actual state of the shark cannot be determined from the
+signal data alone.
 
 To determine where the shark actually is, we use something called Monte Carlo
 Localization (MCL). In this technique, estimates of the target's location are
@@ -150,7 +137,7 @@ Initially, particle states are assigned randomly within a bounded area centered
 on the robot.
 
 {% include image.html
-    id="0B0Jfms0twG8Ecl9IN0FKOUd6QTA"
+    path="projects/shark_tracking/startState.png"
     caption="The position of the shark is initially estimated by a random set of particles."
 %}
 
@@ -158,24 +145,21 @@ At each time step afterwards, particles are propagated according to a
 stochastic motion model that simulates shark motion.
 
 {% include image.html
-    id="0B0Jfms0twG8ENVhmWk9OMFZLazA"
+    path="projects/shark_tracking/predictionStep.png"
     caption="The positions are updated at each time step according to a motion model of the shark."
 %}
 
 Afterwards, the weights of the particles are recalculated based on sensor
 measurements.
 
-[![](https://drive.google.com/uc?id=0B0Jfms0twG8ESmlMWXktRE1VMzQ)](https://docs.google.com/file/d/0B0Jfms0twG8ESmlMWXktRE1VMzQ/edit?usp=drive_web)
-
-Weights are assigned to each of the particles based on sensor data.
+{% include image.html
+    path="projects/shark_tracking/correctionStep.png"
+    caption="Weights are assigned to each of the particles based on sensor data."
+%}
 
 The estimated shark state is then taken to be the average of all estimates. A
 new set of particles is then culled from the current set, with preference to
 the most probably ones.
-
-At this point, we have an estimated shark position. But what do we do then?
-Check out the [Tracking System](/research/tracking-system) and [AUV
-Cooperation](/research/auv-cooperation) pages to find out more.
 
 # Software
 
@@ -223,8 +207,10 @@ advantageous to have each robot know what the other is up to
 A graphical overview of the interactions between each subsystem can be seen
 below. Note that all connections are two-way.
 
-[![](https://drive.google.com/uc?id=0B0Jfms0twG8Ed1U2N2JzRnhMRUk)](https://docs.google.com/file/d/0B0Jfms0twG8Ed1U2N2JzRnhMRUk/edit?usp=drive_web)
-Block diagram of the current code layout.
+{% include image.html
+    path="projects/shark_tracking/blockDiagram.svg"
+    caption="Block diagram of the current code layout."
+%}
 
 Because each subsystem and the UI only interfaces with the STI, modules can be
 readily swapped out. As well, it is easy for team members to work on separate
@@ -246,10 +232,11 @@ point at a safe distance. Once its estimate of the shark's position has moved
 appreciably, it will then head directly for that new position and start
 circling once it gets close.
 
-[![https://docs.google.com/file/d/0B0Jfms0twG8EMVpwRkJxRjlNcE0/edit?usp=drive_web](https://drive.google.com/uc?id=0B0Jfms0twG8EMVpwRkJxRjlNcE0)](https://docs.google.com/file/d/0B0Jfms0twG8EMVpwRkJxRjlNcE0/edit?usp=drive_web)
-
-Long exposure of a night mission. The Iver was previously circling a target,
-but is now moving to a new target location. [Ben Chasnov]
+{% include image.html
+    path="projects/shark_tracking/loop.jpg"
+    caption="Long exposure of a night mission. The Iver was previously circling a target,
+        but is now moving to a new target location. [Ben Chasnov]"
+%}
 
 The robot is currently constrained to a bounded area; it is not allowed to
 circle or target a point outside of this boundary. The boundary was set in
@@ -283,9 +270,9 @@ low sampling rate (typically we'll get one valid sample every 10-15 seconds,
 but one sample per three seconds is the maximum). This localization is Yukun's
 focus in the project. For more information on calculating distance and the
 localization techniques used, check out our paper from the 2013 UUST
-conference: _Using Time of Flight Distance Calculations for Tagged Shark
+conference: Using Time of Flight Distance Calculations for Tagged Shark
 Localization
-[[PDF](http://newwww.hmc.edu/lair/publications/2013/lin_UUST_2013.pdf)]._
+[[PDF](http://www.hmc.edu/lair/publications/2013/lin_UUST_2013.pdf)].
 
 As for my controller, you can see that it does remain correctly bounded and
 switches its circling point when the target has moved sufficiently.
@@ -304,10 +291,10 @@ ensure varied sensor vantage points).
 The below long-exposure shows a pair of AUVs coordinating to circle a set
 point.
 
-[![https://docs.google.com/file/d/0B0Jfms0twG8EMm9DRk9ZSDlueVk/edit?usp=drive_web](https://drive.google.com/uc?id=0B0Jfms0twG8EMm9DRk9ZSDlueVk)](https://docs.google.com/file/d/0B0Jfms0twG8EMm9DRk9ZSDlueVk/edit?usp=drive_web)
-
-Long exposure of a night mission. The two Ivers are circling about a set
-location.
+{% include image.html
+    path="projects/shark_tracking/nightCircling.jpg"
+    caption="Long exposure of a night mission. The two Ivers are circling about a set location."
+%}
 
 The below animation shows how they do this more explicitly. The data used in
 the animation was collected during field testing at Catalina Island in the
@@ -347,9 +334,7 @@ PVC frame to the Ivers. The hydrophones and their cables were then taped to the
 frame.
 
 {% include image.html
-    url="http://cdn.abclocal.go.com/images/kabc/cms_exf_2007/news/local/los_angeles/1209est-robot-headon-gwen-goodmanlowe-07.jpg"
-    width="551px"
-    height="730px"
+    path="projects/shark_tracking/oldRig.jpg"
     caption="In the past, the hydrophones were attached to the AUV using a lot of tape,
              foam, strap clamps, and a single-piece PVC frame."
 %}
@@ -364,10 +349,11 @@ transport than the previous frame. To make tape unnecessary, I designed
 mounting brackets for the hydrophones and clips to attach the cables to the
 frame. To top it all off, Hannah shortened up the cables.
 
-[![https://docs.google.com/file/d/0B0Jfms0twG8EUVhHemJwVFE1VFU/edit?usp=drive_web](https://drive.google.com/uc?id=0B0Jfms0twG8EUVhHemJwVFE1VFU)](https://docs.google.com/file/d/0B0Jfms0twG8EUVhHemJwVFE1VFU/edit?usp=drive_web)
-
-The current system uses a modular PVC frame, 3D printed hydrophone holders,
-custom-machined mounting hardware, and laser-cut delrin cable holders.
+{% include image.html
+    path="projects/shark_tracking/newRigCropped.jpg"
+    caption="The current system uses a modular PVC frame, 3D printed hydrophone holders,
+        custom-machined mounting hardware, and laser-cut delrin cable holders."
+%}
 
 Previously, assembling the frame took close to 15 minutes of fumbling around
 and a headache. With the prototype system, it was as simple as threading
@@ -384,8 +370,8 @@ wasn't too happy about having to dive in after it. Afterwards, we were able to
 take out some of the ballast and the Ivers achieved neutral buoyancy once
 again.
 
-Unfortunately, the current prototype system is not sufficient for extended use
-- while the cord holders are durable enough for continued use, the 3D printed
+Unfortunately, the current prototype system is not sufficient for extended use.
+While the cord holders are durable enough for continued use, the 3D printed
 hydrophone holders and PVC frame have not held up well. Repeatedly tightening
 and loosing the screws in the holders eventually causes them to fall apart; the
 joints on the PVC frames are not flush, making them a major stress riser that
@@ -407,34 +393,49 @@ mission.
 
 ## Recent Work
 
-- Using Time of Flight Distance Calculations for Tagged Shark Localization [[PDF](http://newwww.hmc.edu/lair/publications/2013/lin_UUST_2013.pdf)] (I co-authored this paper)
-- Using Time of Flight Distance Calculations for Tagged Shark Localization with an AUV **(I co-authored this paper)**
+- Using Time of Flight Distance Calculations for Tagged Shark Localization with an AUV
+  [[PDF](http://www.hmc.edu/lair/publications/2013/lin_UUST_2013.pdf)] **(I co-authored this paper)**
+- A Multi-AUV State Estimator for Determining the 3D Position of Tagged Fish
+  [[PDF](http://www.hmc.edu/lair/publications/2014/lin_IROS_2014.pdf)]
+  **(I co-authored this paper)**
 
 ## Previous Work
 
 - Tracking and Following of a Tagged Leopard Shark with an Autonomous Underwater Vehicle
-- A Multi-AUV System for Cooperative Tracking and Following of Leopard Sharks [[PDF](http://newwww.hmc.edu/lair/publications/2013/shinzaki_ICRA_2013.pdf)]
-- Tracking of A Tagged Leopard Shark with an AUV: Sensor Calibration and State Estimation [[PDF](http://newwww.hmc.edu/lair/publications/2012/forney_lowe_2012.pdf)]
-- Multi-Robot Control for Circumnavigation of Particle Distributions [[PDF](http://newwww.hmc.edu/lair/publications/2012/tang_DARS_2012.pdf)]
+  [[PDF](http://www.hmc.edu/lair/publications/2013/clark_JFR_2013.pdf)]
+- A Multi-AUV System for Cooperative Tracking and Following of Leopard Sharks
+  [[PDF](http://www.hmc.edu/lair/publications/2013/shinzaki_ICRA_2013.pdf)]
+- Tracking of A Tagged Leopard Shark with an AUV: Sensor Calibration and State Estimation
+  [[PDF](http://www.hmc.edu/lair/publications/2012/forney_lowe_2012.pdf)]
+- Multi-Robot Control for Circumnavigation of Particle Distributions
+  [[PDF](http://www.hmc.edu/lair/publications/2012/tang_DARS_2012.pdf)]
 
 # Misc. Photos
 
-[![https://docs.google.com/file/d/0B0Jfms0twG8ETWZObUZIel9RNm8/edit?usp=drive_web](https://drive.google.com/uc?id=0B0Jfms0twG8ETWZObUZIel9RNm8)](https://docs.google.com/file/d/0B0Jfms0twG8ETWZObUZIel9RNm8/edit?usp=drive_web)
+{% include image.html
+    path="projects/shark_tracking/Peterson_fishTagListening.jpg"
+    caption="Acoustic tags are a key piece of equipment for the Shark Tracking
+        group. In order to preserve battery life, each tag must be turned off after
+        use. Unfortunately, this is not as simple as flipping a switch - you have
+        to precisely position a magnet on the body of the tag. Given that I was the
+        only one on the team capable of hearing the tags, that job fell to me."
+%}
 
-_Acoustic tags are a key piece of equipment for the Shark Tracking group._ _In order to preserve battery life, each tag must be turned off after use._ _Unfortunately, this is not as simple as flipping a switch - you have to precisely position a magnet on the body of the tag._ _Given that I was the only one on the team capable of hearing the tags, that job fell to me._
+{% include image.html
+    path="projects/shark_tracking/iver4.jpg"
+    caption='While cleaning the lab, Sean and I thought to ourselves:
+       "What would be better than an Iver2?"
+        Our answer: an Iver4.'
+%}
 
-[![https://docs.google.com/file/d/0B0Jfms0twG8ERS1Gemw5ZjEzZUk/edit?usp=drive_web](https://drive.google.com/uc?id=0B0Jfms0twG8ERS1Gemw5ZjEzZUk)](https://docs.google.com/file/d/0B0Jfms0twG8ERS1Gemw5ZjEzZUk/edit?usp=drive_web)
+{% include image.html
+    path="projects/shark_tracking/pristineLab.jpg"
+    caption="The pristine lab after Sean and I cleaned it.
+        (Unfortunately, it didn't stay in this state for very long.)"
+%}
 
-While cleaning the lab, Sean and I thought to ourselves: "What would be better than an Iver2?"
-
-Our answer: an Iver4.
-
-[![https://docs.google.com/file/d/0B0Jfms0twG8EWkxvelNHZWRzV0E/edit?usp=drive_web](https://drive.google.com/uc?id=0B0Jfms0twG8EWkxvelNHZWRzV0E)](https://docs.google.com/file/d/0B0Jfms0twG8EWkxvelNHZWRzV0E/edit?usp=drive_web)
-
-The perfectly immaculate lab after Sean and I cleaned it.
-
-(Unfortunately, it didn't stay in this state for very long.)
-
-[![https://docs.google.com/file/d/0B0Jfms0twG8ENHBBV0ljQ2w2ZkU/edit?usp=drive_web](https://drive.google.com/uc?id=0B0Jfms0twG8ENHBBV0ljQ2w2ZkU)](https://docs.google.com/file/d/0B0Jfms0twG8ENHBBV0ljQ2w2ZkU/edit?usp=drive_web)
-
-The storage room... in case you were wondering where all the lab things were in the previous picture.
+{% include image.html
+    path="projects/shark_tracking/lairCloset.jpg"
+    caption="The storage room... in case you were wondering where all the lab
+        things were in the previous picture."
+%}
