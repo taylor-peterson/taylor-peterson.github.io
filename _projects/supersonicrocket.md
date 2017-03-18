@@ -2,7 +2,7 @@
 title: Supersonic Rocket
 status: completed
 dates: 2013/02/26-2013/05/06
-image_path: https://drive.google.com/uc?id=0B0Jfms0twG8EZVAyOGliTzlKMTA
+image_path: projects/supersonic-rocket/groupPhotoSmall.jpg
 ---
 
 # Overview

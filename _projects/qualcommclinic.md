@@ -2,7 +2,7 @@
 title: Qualcomm Clinic
 status: complete
 dates: 2014/09-2015/05
-image_path: https://docs.google.com/uc?id=0B0Jfms0twG8ENDg1U1dvaDRzaEk
+image_path: projects/qualcomm-clinic/turtlebot_modded_no_background.jpg
 
 ---
 

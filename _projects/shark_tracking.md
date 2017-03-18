@@ -2,7 +2,7 @@
 title: Shark Tracking
 status: completed
 dates: ??
-image_path: https://drive.google.com/uc?id=0B0Jfms0twG8EUVhHemJwVFE1VFU
+image_path: projects/shark_tracking/newRigCropped.jpg
 ---
 
 # Introduction

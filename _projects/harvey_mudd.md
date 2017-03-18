@@ -1,5 +1,6 @@
 ---
 title: Academics
+image_path: hmc-seal.png
 ---
 
 # Overview

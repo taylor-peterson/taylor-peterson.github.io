@@ -2,7 +2,7 @@
 title: Amazon Clinic
 status: completed
 dates: 2013/09/03-2013/12/20
-image_path: http://yellowhammernews.com/wp-content/uploads/2013/12/Amazon-Logo.jpg
+image_path: projects/amazon-clinic/Amazon-Logo.jpg
 ---
 
 During the fall semester of my junior year, I was a member of a five person HMC

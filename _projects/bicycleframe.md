@@ -2,7 +2,7 @@
 title: Bicycle Frame
 status: deferred
 dates: N/A
-image_path: https://drive.google.com/uc?id=0B0Jfms0twG8ENnhnZU9KWE92enM
+image_path: projects/bicycle-frame/SevenCyclesFrameCloseup.png
 ---
 
 Ever since I started working with composites, I've wanted to make a bicycle

@@ -2,7 +2,7 @@
 title: A Better Pen
 status: completed
 dates: 2013/12/23-2015/05/?
-image_path: https://drive.google.com/uc?id=0B0Jfms0twG8ENXp1X3Y3UGtMSHM
+image_path: projects/abetterpen/betterPenPrototype.png
 ---
 
 # Overview

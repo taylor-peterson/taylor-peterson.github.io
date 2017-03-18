@@ -1,7 +1,7 @@
 ---
 title: Rings
 dates: 2014/12
-image_path: https://drive.google.com/uc?id=0B0Jfms0twG8EV0l1Yi1jWFBFS1U
+image_path: ring_inspiration_me.jpg
 ---
 
 I recently experimented with making some rings on the lathe as gifts. The
