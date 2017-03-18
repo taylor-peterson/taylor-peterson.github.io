@@ -1,7 +1,8 @@
 ---
 title: Shark Tracking
-status: completed
-dates: ??
+summary: Automonous robots tracking sharks!
+start_date: [2012]
+end_date: [2015]
 image_path: projects/shark_tracking/newRigCropped.jpg
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: Amazon Clinic
-status: completed
-dates: 2013/09/03-2013/12/20
+summary: Robotic quality control apparatus
+start_date: [2013,09,03]
+end_date: [2013,12,20]
 image_path: projects/amazon-clinic/Amazon-Logo.jpg
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: Filament Winder
-status: deferred
-dates: 2013/11/06-2013/11/27
+summary: Deferred
+start_date: [2013,11,06]
+end_date: [2013,11,27]
 image_path: filamentWinder.png
 ---
 

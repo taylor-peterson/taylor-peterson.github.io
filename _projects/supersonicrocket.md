@@ -1,7 +1,8 @@
 ---
 title: Supersonic Rocket
-status: completed
-dates: 2013/02/26-2013/05/06
+summary: Zoom!
+start_date: [2013,02,26]
+end_date: [2013,05,06]
 image_path: projects/supersonic-rocket/groupPhotoSmall.jpg
 ---
 

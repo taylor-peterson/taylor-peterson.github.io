@@ -1,7 +1,8 @@
 ---
 title: A Better Pen
-status: completed
-dates: 2013/12/23-2015/05/?
+summary: Such shiny
+start_date: [2013,12,23]
+end_date: [2015,05]
 image_path: projects/abetterpen/betterPenPrototype.png
 ---
 

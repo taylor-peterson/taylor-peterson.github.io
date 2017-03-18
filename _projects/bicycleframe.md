@@ -1,7 +1,7 @@
 ---
 title: Bicycle Frame
-status: deferred
-dates: N/A
+summary: Deferred
+start_date: [2025]
 image_path: projects/bicycle-frame/SevenCyclesFrameCloseup.png
 ---
 

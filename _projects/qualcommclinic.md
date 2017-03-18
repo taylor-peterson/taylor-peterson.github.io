@@ -1,7 +1,8 @@
 ---
 title: Qualcomm Clinic
-status: complete
-dates: 2014/09-2015/05
+summary: Snapdragon Demonstration
+start_date: [2014,09]
+end_date: [2015,05]
 image_path: projects/qualcomm-clinic/turtlebot_modded_no_background.jpg
 
 ---

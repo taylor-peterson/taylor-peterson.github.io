@@ -1,6 +1,7 @@
 ---
 title: Rings
-dates: 2014/12
+summary: So shiny
+start_date: [2014,12]
 image_path: ring_inspiration_me.jpg
 ---
 

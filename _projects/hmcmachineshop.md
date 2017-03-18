@@ -1,7 +1,8 @@
 ---
 title: HMC Machine Shop
-status: completed
-dates: 2012/01-2015/05
+summary: Such improvements
+start_date: [2012,01]
+end_date: [2015,05]
 image_path: projects/hmcmachineshop/fullShop.jpg
 ---
 

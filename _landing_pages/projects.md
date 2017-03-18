@@ -3,7 +3,9 @@ layout: projects
 title: Projects
 ---
 
-<link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+<link title="timeline-styles"
+      rel="stylesheet"
+      href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
 <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
 
 <div id='timeline-embed' style="width: 100%; height: 600px"></div>
@@ -17,41 +19,29 @@ var timeline_json = {
         }
     },
     "events": [
+{% for project in site.projects %}
     {
         "media": {
-          "url": "https://res.cloudinary.com/peterson/w_auto,c_scale,dpr_1.0,f_auto,q_auto/projects/abetterpen/betterPenPrototype.png",
-          "thumbnail": "https://res.cloudinary.com/peterson/w_auto,c_scale,dpr_1.0,f_auto,q_auto/gear.png",
-          "caption": "Rendering of design.",
+            "url": "https://res.cloudinary.com/peterson/w_auto,c_scale,dpr_1.0,f_auto,q_auto/{{ project.image_path }}",
+            "thumbnail": "https://res.cloudinary.com/peterson/w_auto,c_scale,dpr_1.0,f_auto,q_auto/gear.png",
         },
         "start_date": {
-          "year": "2013",
-          "month": "12",
-          "day": "23"
+            "year": "{{ project.start_date[0] }}",
+            "month": "{{ project.start_date[1] }}",
+            "day": "{{ project.start_date[2] }}"
         },
         "end_date": {
-          "year":"2015",
-          "month": "5"
+            "year": "{{ project.end_date[0] }}",
+            "month": "{{ project.end_date[1] }}",
+            "day": "{{ project.end_date[2] }}"
           },
         "text": {
-           "headline": "<a href='abetterpen'>A Better Pen</a>",
-          "text": "I'm a pen snob. Here's what I did about that."
+            "headline": "<a href='{{ project.url }}'>{{ project.title }}</a>",
+            "text": "{{ project.summary }}"
         }
-      }
+      },
+{% endfor %}
       ]
 };
-var options = {
-    autolink: false
-}
-  window.timeline = new TL.Timeline('timeline-embed', timeline_json, options)
+  window.timeline = new TL.Timeline('timeline-embed', timeline_json)
 </script>
-
-<!-- The contents of this for-loop cannot be indented or the comments in image.html
-     will be displayed as code in the generated output. --!>
-{% for project in site.projects %}
-{% assign image_path = project.image_path %}
-<a href="{{ project.url }}">
-{% include image.html
-    path=image_path
-%}
-</a>
-{% endfor %}
