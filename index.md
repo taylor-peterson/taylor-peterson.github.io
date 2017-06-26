@@ -27,3 +27,5 @@ lately.
     caption="That's me wondering why you're still on this page and not looking
              at the rest of the site."
 %}
+
+<sub>Please note that the postings on this site are my own and don’t necessarily represent my employer’s position.</sub>
