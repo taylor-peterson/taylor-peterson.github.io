@@ -1,0 +1,66 @@
+/* Derived from https://github.com/JonathanMatthey/jonathanmatthey.com */
+
+.projects {
+  margin: 0 15px ;
+}
+
+.projects li {
+  display: inline-block;
+  list-style: none;
+  width: 100%;
+  float: left;
+}
+
+.projects li .project {
+  margin: 30px 15px 0 15px;
+  position: relative;
+}
+
+.projects li .aspect-two-one {
+  padding-bottom: 66.67%;
+}
+
+.projects .cover {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: 15;
+  opacity: 0;
+  top: 0;
+  left: 0;
+  -webkit-transition: opacity 200ms linear;
+  -moz-transition: opacity 200ms linear;
+  transition: opacity 200ms linear;
+  background-color: rgba(255,255,255,0.9);
+  text-align: center;
+}
+
+.projects .cover:hover {
+  opacity: 1;
+  color:#333;
+}
+
+.projects .cover .project-details{
+  top:50%;
+  margin-top:-25px;
+  position: absolute;
+  height:50px;
+  width:100%;
+}
+
+.projects .cover .project-details span{
+  clear:both;
+  display: block;
+  line-height: 20px;
+  font-size:15px;
+  font-weight:bold;
+}
+
+.projects .thumb {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index:5;
+  top: 0;
+  left: 0;
+}

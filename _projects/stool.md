@@ -1,7 +1,8 @@
 ---
 title: Stool
 summary: Deferred
-start_date: [2025]
+start_date: 2025
+end_date: 1993-03-21
 image_path: Stool.png
 ---
 

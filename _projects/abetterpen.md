@@ -1,8 +1,8 @@
 ---
 title: A Better Pen
 summary: Such shiny
-start_date: [2013,12,23]
-end_date: [2015,05]
+start_date: 2013-12-23
+end_date: 2015-05-17
 image_path: projects/abetterpen/betterPenPrototype.png
 ---
 

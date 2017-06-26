@@ -1,8 +1,8 @@
 ---
 title: Academics
 summary: I learned good.
-start_date: [2010,09]
-end_date: [2015,05]
+start_date: 2010-09
+end_date: 2015-05-17
 image_path: hmc-seal.png
 ---
 
