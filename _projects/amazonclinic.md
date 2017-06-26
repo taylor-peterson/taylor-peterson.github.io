@@ -3,7 +3,7 @@ title: Amazon Clinic
 summary: Robotic quality control apparatus
 start_date: [2013,09,03]
 end_date: [2013,12,20]
-image_path: projects/amazon-clinic/Amazon-Logo.jpg
+image_path: projects/amazon-clinic/Amazon-Logo.png
 ---
 
 During the fall semester of my junior year, I was a member of a five person HMC
