@@ -17,7 +17,15 @@ still haven't grokked and implemented them in my own life (i.e. the
 knowing-doing gap). I also find books in the "self development" genre to be a
 great source of motivation.
 
-# Zen and the Art of Motorcycle Maintenance - Robert Pirsig
+# What I Talk About When I Talk About Running - Haruki Murakami [3/5]
+
+This memoir of a sorts was a mixed experience for me. There were parts that
+resonated (e.g. Haruki's craftsman approach to life) and pieces that didn't
+(e.g. his insistence that talent matters more than the focus he speaks so
+much about). I also have to call out Haruki for saying he runs every day
+when he also says he doesn't run when it's raining.
+
+# Zen and the Art of Motorcycle Maintenance - Robert Pirsig [3/5]
 
 Unsurprisingly, I found the philosophical inquiries in the book far more interesting
 than the accompanying narrative. That said, I enjoyed this book far less than I did
@@ -121,7 +129,8 @@ Cal provides four options for scheduling deep work (which he recommends ritualiz
 
 Other recommendations:
 * In communication, don't send small messages back and forth - take the time to think
-  things through and take care of everything possible in one go.
+  things through and take care of everything possible in one go (e.g. instead of ask question
+  and wait for response to follow up, say if A, then B, otherwise C)
 * Productive meditation - work on a complex problem when commuting or the like.
 * Deep breaks: http://calnewport.com/blog/2016/09/14/on-deep-breaks/
 * "Fixed schedule productivity" - set standard hours and be strict about them,
